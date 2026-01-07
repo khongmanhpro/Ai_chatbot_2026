@@ -276,28 +276,11 @@ Tested with **11 insurance documents** (~500KB text):
 
 ---
 
-## 🙏 Credits
-
-This project is built on the excellent [LightRAG](https://github.com/HKUDS/LightRAG) framework:
-
-- **Original Framework**: [HKUDS/LightRAG](https://github.com/HKUDS/LightRAG)
-- **Research Paper**: [arXiv:2410.05779](https://arxiv.org/abs/2410.05779)
-- **License**: MIT
-
-### Customizations
-
-- Vietnamese insurance domain prompts
-- Optimized hyperparameters for legal documents
-- Production Docker deployment
-- 11 pre-indexed insurance documents
-
 ---
 
 ## 📄 License
 
 MIT License - see [LICENSE](LICENSE) file for details.
-
-This project inherits the MIT license from the original LightRAG framework.
 
 ---
 
@@ -314,11 +297,10 @@ Contributions welcome! Please:
 
 ## 📞 Support
 
-For issues related to:
+For issues or questions:
 
-- **This customization**: Open an issue in this repository
-- **LightRAG framework**: See [HKUDS/LightRAG](https://github.com/HKUDS/LightRAG)
-- **Insurance domain**: Review [docs/assessment/INSURANCE_CHATBOT_ASSESSMENT.md](docs/assessment/INSURANCE_CHATBOT_ASSESSMENT.md)
+- **Project Issues**: Open an issue in this repository
+- **Insurance Domain**: Review [docs/assessment/INSURANCE_CHATBOT_ASSESSMENT.md](docs/assessment/INSURANCE_CHATBOT_ASSESSMENT.md)
 
 ---
 

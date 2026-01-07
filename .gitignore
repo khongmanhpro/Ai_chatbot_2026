@@ -82,3 +82,9 @@ CLAUDE.md
 **/*.un~
 **/.*.un~
 .env.*
+
+# Large auto-generated files
+uv.lock
+.git.backup*
+.git.old/
+lightrag_webui/node_modules/

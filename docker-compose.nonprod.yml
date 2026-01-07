@@ -1,0 +1,125 @@
+version: '3.8'
+
+###########################################################################################
+# LightRAG Non-Production Docker Compose
+# Environment: Development/Staging/Testing
+# Last Updated: 2026-01-05
+#
+# Usage:
+#   docker-compose -f docker-compose.nonprod.yml up -d
+#   docker-compose -f docker-compose.nonprod.yml down
+#
+# Requirements:
+#   - Docker 20.10+
+#   - Docker Compose 2.0+
+#   - Update .env.nonprod with your API keys
+###########################################################################################
+
+services:
+  lightrag:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    container_name: lightrag-nonprod
+    restart: unless-stopped
+    ports:
+      - "9621:9621"
+    environment:
+      - ENV_FILE=.env.nonprod
+    env_file:
+      - .env.nonprod
+    volumes:
+      # Persist data
+      - ./data/nonprod/inputs:/app/data/inputs
+      - ./data/nonprod/rag_storage:/app/data/rag_storage
+      - ./data/nonprod/tiktoken:/app/data/tiktoken
+      - ./logs/nonprod:/app/logs
+
+      # Mount source for development (hot reload)
+      - ./lightrag:/app/lightrag
+      - ./lightrag_webui:/app/lightrag_webui
+    networks:
+      - lightrag-nonprod
+    healthcheck:
+      test: ["CMD", "curl", "-f", "http://localhost:9621/health"]
+      interval: 30s
+      timeout: 10s
+      retries: 3
+      start_period: 40s
+    depends_on:
+      - redis-nonprod
+    labels:
+      - "com.lightrag.environment=nonprod"
+      - "com.lightrag.version=1.4.9.11"
+
+  # Optional: Redis for caching (comment out if using JSON storage only)
+  redis-nonprod:
+    image: redis:7-alpine
+    container_name: redis-nonprod
+    restart: unless-stopped
+    ports:
+      - "6379:6379"
+    volumes:
+      - redis-nonprod-data:/data
+    command: redis-server --appendonly yes --appendfsync everysec
+    networks:
+      - lightrag-nonprod
+    healthcheck:
+      test: ["CMD", "redis-cli", "ping"]
+      interval: 10s
+      timeout: 3s
+      retries: 3
+
+  # Optional: PostgreSQL (uncomment if needed for nonprod)
+  # postgres-nonprod:
+  #   image: pgvector/pgvector:pg16
+  #   container_name: postgres-nonprod
+  #   restart: unless-stopped
+  #   ports:
+  #     - "5432:5432"
+  #   environment:
+  #     POSTGRES_DB: lightrag_nonprod
+  #     POSTGRES_USER: lightrag_dev
+  #     POSTGRES_PASSWORD: dev_password_change_me
+  #   volumes:
+  #     - postgres-nonprod-data:/var/lib/postgresql/data
+  #     - ./scripts/init-postgres.sql:/docker-entrypoint-initdb.d/init.sql
+  #   networks:
+  #     - lightrag-nonprod
+  #   healthcheck:
+  #     test: ["CMD-SHELL", "pg_isready -U lightrag_dev -d lightrag_nonprod"]
+  #     interval: 10s
+  #     timeout: 5s
+  #     retries: 5
+
+  # Optional: Ollama for local LLM (uncomment for FREE local deployment)
+  # ollama:
+  #   image: ollama/ollama:latest
+  #   container_name: ollama-nonprod
+  #   restart: unless-stopped
+  #   ports:
+  #     - "11434:11434"
+  #   volumes:
+  #     - ollama-models:/root/.ollama
+  #   networks:
+  #     - lightrag-nonprod
+  #   deploy:
+  #     resources:
+  #       reservations:
+  #         devices:
+  #           - driver: nvidia
+  #             count: 1
+  #             capabilities: [gpu]
+
+networks:
+  lightrag-nonprod:
+    name: lightrag-nonprod
+    driver: bridge
+
+volumes:
+  redis-nonprod-data:
+    name: lightrag-redis-nonprod
+  # postgres-nonprod-data:
+  #   name: lightrag-postgres-nonprod
+  # ollama-models:
+  #   name: ollama-models-nonprod

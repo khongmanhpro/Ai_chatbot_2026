@@ -1,0 +1,278 @@
+{
+  "doc-aa61d587b71415409ddb2cb57ac19976": {
+    "status": "processed",
+    "chunks_count": 3,
+    "chunks_list": [
+      "chunk-8f69e382e34f9bfdcaedb5eb2d8bc913",
+      "chunk-0637977fe11ed243c73668deea481ab5",
+      "chunk-d73f9bb4add2a6aec143c5fcfa39f81b"
+    ],
+    "content_summary": "---\ndoc_id: nd_03_2021_ndcp_tnds_chu_xe_co_gioi\ntitle: Nghị định 03/2021/NĐ-CP về bảo hiểm bắt buộc trách nhiệm dân sự của chủ xe\n  cơ giới\nissuer: Chính phủ\nsource: Chính phủ Việt Nam\njurisdiction: Việt Nam\nlanguage: vi\nproduct_line: shared\ndoc_type...",
+    "content_length": 7707,
+    "created_at": "2026-01-07T08:10:51.911100+00:00",
+    "updated_at": "2026-01-07T08:11:34.052222+00:00",
+    "file_path": "ND_03_2021_TNDS_regulation_normalized.md",
+    "track_id": "upload_20260107_081051_0afe9c48",
+    "metadata": {
+      "processing_start_time": 1767773451,
+      "processing_end_time": 1767773494
+    }
+  },
+  "doc-355283168650e3a51c545c176d75a564": {
+    "status": "processed",
+    "chunks_count": 11,
+    "chunks_list": [
+      "chunk-fc4076e0019c7cb0ecbfe2c646ad2099",
+      "chunk-503f507ce39b1c79ea0e10854d6f527a",
+      "chunk-f246955b88f5761f893e959b8a280ac5",
+      "chunk-34548b80291040d2a7570c75ddc6cb30",
+      "chunk-9141ee7384544c9a83c328733317ca5e",
+      "chunk-6330a13359a7d027fdfd0bdcc6f0496e",
+      "chunk-9f3ee94e34dd82289027339d0f6dde6e",
+      "chunk-a64d1447c233dd6da88f359d46f83296",
+      "chunk-f14613a2606ae617d41a3f7b2c8fa057",
+      "chunk-33ac9b96ba4a0b55b1ad967618ef3d54",
+      "chunk-0e154220ff772448c42b4c860ada981f"
+    ],
+    "content_summary": "---\ndoc_id: \"mic_auto_voluntary_rules_2025_v2025_1\"\ntitle: \"Quy tắc bảo hiểm tự nguyện xe ô tô (MIC 2025)\"\nissuer: \"Tổng Công ty CP Bảo hiểm Quân Đội (MIC)\"\njurisdiction: \"VN\"\nlanguage: \"vi\"\nproduct_line: \"auto\"\ndoc_type: \"rules\"\neffective_date: \"202...",
+    "content_length": 34086,
+    "created_at": "2026-01-07T08:12:13.591702+00:00",
+    "updated_at": "2026-01-07T08:14:18.654982+00:00",
+    "file_path": "MIC_auto_voluntary_rules_2025_normalized.md",
+    "track_id": "upload_20260107_081213_beec5347",
+    "metadata": {
+      "processing_start_time": 1767773533,
+      "processing_end_time": 1767773658
+    }
+  },
+  "doc-a8de0b4acd5fc19e192d314bbb5aac7f": {
+    "status": "processed",
+    "chunks_count": 10,
+    "chunks_list": [
+      "chunk-8076dbeb1a833ace0127824135a4db7d",
+      "chunk-1adc087de131a303dfcd11e627b2be48",
+      "chunk-6eb9f06932dd611bcf753f447b478704",
+      "chunk-c0f5a70cceb64e7a4f1d267e11437b37",
+      "chunk-b41ed360519fa208acab8935c80c972e",
+      "chunk-6092059a18c814d57fd009445825adb5",
+      "chunk-8871c544e05f6353e225619b00263745",
+      "chunk-6fe2b9bbe0b1b1ce8802acc962b5507b",
+      "chunk-16aea2d123f3b06e6e624b18b4141087",
+      "chunk-ebac2b5a89f481f8c97f108fd2809915"
+    ],
+    "content_summary": "---\ndoc_id: \"mic_health_miccare_rules_2025_v2025-07-01\"\ntitle: \"Quy tắc bảo hiểm Sức khỏe toàn diện (MIC CARE 2025)\"\nissuer: \"Tổng Công ty CP Bảo hiểm Quân Đội (MIC)\"\njurisdiction: \"VN\"\nlanguage: \"vi\"\nproduct_line: \"health\"\ndoc_type: \"rules\"\neffectiv...",
+    "content_length": 32238,
+    "created_at": "2026-01-07T08:12:13.614205+00:00",
+    "updated_at": "2026-01-07T08:19:15.423759+00:00",
+    "file_path": "MIC_CARE_health_rules_2025_normalized.md",
+    "track_id": "upload_20260107_081213_1dcc4a1e",
+    "metadata": {
+      "processing_start_time": 1767773658,
+      "processing_end_time": 1767773955
+    }
+  },
+  "doc-c58572d31ca1abaf31d56d9b3baadaf2": {
+    "status": "processed",
+    "chunks_count": 9,
+    "chunks_list": [
+      "chunk-4ba510b49408c72a2b5e9adc601a8533",
+      "chunk-1f95e5a77612f1280ddf25b5c6adf51b",
+      "chunk-a6ef07a06d2f6d2ffbd08af43f3acd5f",
+      "chunk-bf27025922fb75f2f43f294e9efe1260",
+      "chunk-a004d509d7b5b0d711d6a410e4dac2d3",
+      "chunk-89f30616382389aa8ebba2bc7065a2f2",
+      "chunk-1cb5377325585ba3a3f9cdfbb690d58a",
+      "chunk-2ad82e95eb355055745e2219735423e1",
+      "chunk-7da85a96e3094ad6eaf7f75b7a7ad7e0"
+    ],
+    "content_summary": "---\ndoc_id: mic_pa_rules_2025_v2025_1\ntitle: MIC — Quy tắc bảo hiểm Tai nạn con người\nissuer: MIC\njurisdiction: VN\nlanguage: vi\nproduct_line: health\nproduct_code: PA\ndoc_type: rules\neffective_date: '2025-07-01'\nversion: '2025.1'\nsource_file: MIC_Quy-...",
+    "content_length": 28642,
+    "created_at": "2026-01-07T08:12:13.630183+00:00",
+    "updated_at": "2026-01-07T08:17:39.283426+00:00",
+    "file_path": "MIC_personal_accident_rules_2025_normalized.md",
+    "track_id": "upload_20260107_081213_03e8ed00",
+    "metadata": {
+      "processing_start_time": 1767773658,
+      "processing_end_time": 1767773859
+    }
+  },
+  "doc-e0168ccc5720e4b01b2390622197393a": {
+    "status": "processed",
+    "chunks_count": 10,
+    "chunks_list": [
+      "chunk-4d42a014937982929d5e2474526803f9",
+      "chunk-f61282ff7560b22c13d62b8ba2bb6a60",
+      "chunk-01abb25309f4706fae5f347c21749278",
+      "chunk-93b7dc3ef8a0fc7640f0cb07ff54008c",
+      "chunk-7637fa2d80e160aceb46c3a438b312b2",
+      "chunk-d211f10d4b72c1e353ee54ccae7e9b7d",
+      "chunk-90b99dfb670a3bfaf87eda1d81a45b4f",
+      "chunk-e52766fde2b87864523906c0dbd48122",
+      "chunk-d10df87d58b72347262083caee9ea0c4",
+      "chunk-c8c72a6b8a3223b564b1e9c39072d19d"
+    ],
+    "content_summary": "---\ndoc_id: \"mic_travel_domestic_rules_20250701_v2025.07\"\ntitle: \"Quy tắc bảo hiểm Khách du lịch trong nước\"\nissuer: \"MIC\"\njurisdiction: \"VN\"\nlanguage: \"vi\"\nproduct_line: \"travel\"\ndoc_type: \"rules\"\neffective_date: \"2025-07-01\"\nversion: \"2025.07\"\nsour...",
+    "content_length": 33415,
+    "created_at": "2026-01-07T08:12:13.649277+00:00",
+    "updated_at": "2026-01-07T08:18:45.079633+00:00",
+    "file_path": "MIC_travel_domestic_rules_2025_normalized.md",
+    "track_id": "upload_20260107_081213_c325d750",
+    "metadata": {
+      "processing_start_time": 1767773658,
+      "processing_end_time": 1767773925
+    }
+  },
+  "doc-db108652e1d62994b16aa417a3dfde23": {
+    "status": "processed",
+    "chunks_count": 4,
+    "chunks_list": [
+      "chunk-7aed497c2466891c7eeeedeb682c7104",
+      "chunk-9d21db3a169b963a3ad9f6cfaa8e2195",
+      "chunk-e44b7420aee1e6f02cdda3cb5ab35b4e",
+      "chunk-4aceef99df6f53e07e8686c508cdc820"
+    ],
+    "content_summary": "---\ndoc_id: \"mic_travel_international_rules_2025\"\ntitle: \"Quy tắc bảo hiểm Người Việt Nam du lịch nước ngoài (MIC)\"\nissuer: \"Tổng Công ty Cổ phần Bảo hiểm Quân Đội (MIC)\"\njurisdiction: \"VN\"\nlanguage: \"vi\"\nproduct_line: \"travel\"\nproduct_code: \"TRAVEL_...",
+    "content_length": 9230,
+    "created_at": "2026-01-07T08:12:13.684541+00:00",
+    "updated_at": "2026-01-07T08:18:52.281840+00:00",
+    "file_path": "MIC_travel_international_rules_2025_normalized.md",
+    "track_id": "upload_20260107_081213_08119fa7",
+    "metadata": {
+      "processing_start_time": 1767773859,
+      "processing_end_time": 1767773932
+    }
+  },
+  "doc-304cfdc5f46283022147508dff4b42b0": {
+    "status": "processed",
+    "chunks_count": 3,
+    "chunks_list": [
+      "chunk-c64c7171c96f630a06962b29ef07a3f5",
+      "chunk-caa9c6ae2747da77ed86ced5da0795ef",
+      "chunk-a550d13644321c2d880bc3377347b018"
+    ],
+    "content_summary": "---\ndoc_id: \"mic_travel_worldwide_rules_2025\"\ntitle: \"Quy tắc bảo hiểm Du lịch toàn cầu (MIC) 2025\"\nissuer: \"Tổng Công ty Cổ phần Bảo hiểm Quân Đội (MIC)\"\njurisdiction: \"VN\"\nlanguage: \"vi\"\nproduct_line: \"travel\"\nproduct_code: \"TRAVEL_WORLDWIDE\"\ndoc_t...",
+    "content_length": 7698,
+    "created_at": "2026-01-07T08:12:13.733401+00:00",
+    "updated_at": "2026-01-07T08:19:31.080966+00:00",
+    "file_path": "MIC_travel_worldwide_rules_2025_normalized.md",
+    "track_id": "upload_20260107_081213_8f1c0591",
+    "metadata": {
+      "processing_start_time": 1767773925,
+      "processing_end_time": 1767773971
+    }
+  },
+  "doc-ae527dcdf3b07210f6f50c669a8c65e7": {
+    "status": "processed",
+    "chunks_count": 4,
+    "chunks_list": [
+      "chunk-998610ea4b582ed596e5650f9d9dc51b",
+      "chunk-7ec7f991c1ba4ed0a539981d0bb4e5ed",
+      "chunk-754e711132fd1ab8677102fa2c1341d0",
+      "chunk-3fb18408961bd7138ffe851869c076ad"
+    ],
+    "content_summary": "---\ndoc_id: \"pvi_personal_accident_rules_2025\"\ntitle: \"Quy tắc bảo hiểm Tai nạn con người (PVI) 2025\"\nissuer: \"Tổng Công ty Bảo hiểm PVI\"\njurisdiction: \"VN\"\nlanguage: \"vi\"\nproduct_line: \"health\"\nproduct_code: \"PA\"\ndoc_type: \"rules\"\neffective_date: \"2...",
+    "content_length": 8239,
+    "created_at": "2026-01-07T08:20:51.637956+00:00",
+    "updated_at": "2026-01-07T08:21:34.020040+00:00",
+    "file_path": "PVI_personal_accident_rules_2025_normalized.md",
+    "track_id": "upload_20260107_082051_3e3802f0",
+    "metadata": {
+      "processing_start_time": 1767774051,
+      "processing_end_time": 1767774094
+    }
+  },
+  "doc-e4906601c7c35ae1e3b78538847585a8": {
+    "status": "processed",
+    "chunks_count": 32,
+    "chunks_list": [
+      "chunk-1bb6a01b15c403e339b5f53ae49a6fcc",
+      "chunk-a0661a08e6950dc1aaa9525eab575fca",
+      "chunk-a580b32a5bcfeba7f4b042e164587de0",
+      "chunk-1d6d1110e311c9eb3ed6645b8d807e3a",
+      "chunk-4fc3f02033b1be399604ad6ff0795e76",
+      "chunk-73d7acf1e06a393db8584b17cc7e5b03",
+      "chunk-a08e0ad5276d50487c7b13e708988615",
+      "chunk-6bcca569d779c33ea3dcfc9c2448808b",
+      "chunk-25dd9c643ae967e45af690756cee409a",
+      "chunk-bfacedc7ad3f8708aef2f7b88f679b03",
+      "chunk-19d2ca8cd9448610ddd1ebb196e3d8fc",
+      "chunk-a9fe472149b373deecd874b18cdaf78b",
+      "chunk-fc77b19f95abe8c1ecba5e57b1b9ad8d",
+      "chunk-ad2ad52a64532cbab08dbb6e2c16c8c1",
+      "chunk-55a851f90f39ce14e4262660bed1ce9e",
+      "chunk-080ebfb8e6c4a7bd4caf186931606e48",
+      "chunk-e0e2c486f1b5f2889922f48971f22326",
+      "chunk-0406e5bc8444fd4078af4abc113b766c",
+      "chunk-f71a3965d913b513f0dc5ce63ff571cf",
+      "chunk-d61d3c946d70ccbc63d1ed7e9594d645",
+      "chunk-2ea1b3a230417988016d133de988ff75",
+      "chunk-fa6e62eadc81c782537e18dbe56dfac5",
+      "chunk-5d4fa9157d6f891ad0333a8effb94a4f",
+      "chunk-843e23b5af2963054fe0a8a65ce5aa95",
+      "chunk-f6e211e38e7e32930e21feba53a624ee",
+      "chunk-a17a4c5d01aad524bba2ee56df5daef7",
+      "chunk-8312a1c4b115487f5ebb8c44a1e2a659",
+      "chunk-b28f401044d95a2e3828859d4104d977",
+      "chunk-18161bb890e47ece4a08f6af937c3e0b",
+      "chunk-59553d8eb31dafc902744b0ff13e4962",
+      "chunk-d3d64ba7b49269ddf33e9e5ac8acb621",
+      "chunk-851e490751c72d49db444a44c2cc3904"
+    ],
+    "content_summary": "---\ntitle: Thuật ngữ Bảo hiểm Phi nhân thọ\nproduct_line: shared\ndoc_type: glossary\neffective_date: '2025-01-01'\nversion: '1.0'\nlanguage: vi-VN\nissuer: internal\nsource: Thuật ngữ bảo hiểm phi nhân thọ\nsource_file: thuat-ngu-bao-hiem-phi-nhan-tho.md\nch...",
+    "content_length": 109972,
+    "created_at": "2026-01-07T08:20:51.689989+00:00",
+    "updated_at": "2026-01-07T08:23:27.914215+00:00",
+    "file_path": "shared_nonlife_glossary_terms_normalized.md",
+    "track_id": "upload_20260107_082051_b163538e",
+    "metadata": {
+      "processing_start_time": 1767774094,
+      "processing_end_time": 1767774207
+    }
+  },
+  "doc-477096c7b39623768fb31174f74f34c9": {
+    "status": "processed",
+    "chunks_count": 8,
+    "chunks_list": [
+      "chunk-5f8a6bf83891141e34045c64d39d6ad4",
+      "chunk-be1ea137e8efec74697a6ea24b4f82fc",
+      "chunk-2a15e9c9f1d4abab9d7b174e4ac0c8e1",
+      "chunk-c3f3f1f6e434ee13cefc61f98d040b48",
+      "chunk-dac5b17ee7e498057d400b7395f103ce",
+      "chunk-900eb748c3b70721ad30c0900d484c2b",
+      "chunk-02afddd8bbdebae5f704bce49674b3a2",
+      "chunk-864f0a7131ad72a07187d677c5079fd9"
+    ],
+    "content_summary": "---\ndoc_id: \"vn_reg_ttbtc_04_2021\"\ntitle: \"Thông tư 04/2021/TT-BTC - Bảo hiểm bắt buộc TNDS của chủ xe cơ giới\"\nproduct_line: \"shared\"\ndoc_type: \"regulation\"\neffective_date: \"2021-03-01\"\nversion: \"2021.04\"\nsource_file: \"04-2021-TTBTC_Bảo hiểm bắ...",
+    "content_length": 22511,
+    "created_at": "2026-01-07T08:20:51.710190+00:00",
+    "updated_at": "2026-01-07T08:22:19.294628+00:00",
+    "file_path": "TTBTC_04_2021_regulation_normalized.md",
+    "track_id": "upload_20260107_082051_a77505a1",
+    "metadata": {
+      "processing_start_time": 1767774094,
+      "processing_end_time": 1767774139
+    }
+  },
+  "doc-30363226c56ef0d75670301638693f9c": {
+    "status": "processed",
+    "chunks_count": 6,
+    "chunks_list": [
+      "chunk-e74e6f0374b2d17f4200dc31f3d4d0e7",
+      "chunk-c7f6be72ba04c40c1a4600a930cc737e",
+      "chunk-228c28e9b6d28455f3132b53d0662ed2",
+      "chunk-39c965fdd78691384273067b5c625151",
+      "chunk-c243bff315ed309de5ea1c62192b85d1",
+      "chunk-c5204e2076aee0a86cfc20f2f3245a8c"
+    ],
+    "content_summary": "---\ndoc_id: vni_home_private_rules_2019_v1\ntitle: Quy tắc bảo hiểm Nhà tư nhân (VNI) 2019\nissuer: Tổng Công ty Cổ phần Bảo hiểm Hàng không (VNI)\njurisdiction: VN\nlanguage: vi\nproduct_line: property\ndoc_type: rules\neffective_date: '2019-03-01'\nversion...",
+    "content_length": 15413,
+    "created_at": "2026-01-07T08:20:51.730270+00:00",
+    "updated_at": "2026-01-07T08:22:23.500854+00:00",
+    "file_path": "VNI_home_private_rules_2019_normalized.md",
+    "track_id": "upload_20260107_082051_b0f2da7a",
+    "metadata": {
+      "processing_start_time": 1767774094,
+      "processing_end_time": 1767774143
+    }
+  }
+}

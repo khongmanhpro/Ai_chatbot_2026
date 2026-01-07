@@ -1,0 +1,2554 @@
+{
+  "doc-aa61d587b71415409ddb2cb57ac19976": {
+    "relation_pairs": [
+      [
+        "Bồi Thường",
+        "Tai Nạn"
+      ],
+      [
+        "Nghị Định 03/2021/NĐ-CP",
+        "Quỹ Bảo Hiểm Xe Cơ Giới"
+      ],
+      [
+        "Bảng Quy Định Trả Tiền Bồi Thường",
+        "Bồi Thường"
+      ],
+      [
+        "Nghị Định 03/2021/NĐ-CP",
+        "Việt Nam"
+      ],
+      [
+        "Hợp Đồng TNDS Bắt Buộc",
+        "Nghị Định 03/2021/NĐ-CP"
+      ],
+      [
+        "Xe",
+        "Đăng Kiểm"
+      ],
+      [
+        "Bồi Thường",
+        "Mức Trách Nhiệm"
+      ],
+      [
+        "Bộ Tài Chính",
+        "Mức Trách Nhiệm"
+      ],
+      [
+        "Bộ Tài Chính",
+        "Cơ Sở Dữ Liệu Bảo Hiểm"
+      ],
+      [
+        "DNBH",
+        "Giấy Chứng Nhận Bảo Hiểm"
+      ],
+      [
+        "DNBH",
+        "Phí Bảo Hiểm"
+      ],
+      [
+        "CSDL Bảo Hiểm TNDS",
+        "Nghị Định 03/2021/NĐ-CP"
+      ],
+      [
+        "Chính Phủ",
+        "Nghị Định 03/2021/NĐ-CP"
+      ],
+      [
+        "Gian Lận",
+        "Đơn Phương Đình Chỉ"
+      ],
+      [
+        "Bồi Thường",
+        "Doanh Nghiệp Bảo Hiểm"
+      ],
+      [
+        "Bồi Thường",
+        "Quỹ Bảo Hiểm Xe Cơ Giới"
+      ],
+      [
+        "Bộ Tài Chính",
+        "Quỹ Bảo Hiểm Xe Cơ Giới"
+      ],
+      [
+        "Hồ Sơ Bồi Thường",
+        "Thủ Tục Bồi Thường"
+      ],
+      [
+        "Xe",
+        "Đăng Ký"
+      ],
+      [
+        "Bộ Công An",
+        "Vi Phạm"
+      ],
+      [
+        "Chủ Xe",
+        "Xe"
+      ],
+      [
+        "Hậu Quả Pháp Lý",
+        "Phí TNDS"
+      ],
+      [
+        "Bộ Tài Chính",
+        "Nghị Định Thư Số 5 (ASEAN)"
+      ]
+    ],
+    "count": 23,
+    "create_time": 1767773494,
+    "update_time": 1767773494,
+    "_id": "doc-aa61d587b71415409ddb2cb57ac19976"
+  },
+  "doc-355283168650e3a51c545c176d75a564": {
+    "relation_pairs": [
+      [
+        "Vòng Hay Thương Tật Thân Thể",
+        "Xe Không Tự Lưu Hành"
+      ],
+      [
+        "Giảm Trừ Bồi Thường",
+        "Mức Khấu Trừ"
+      ],
+      [
+        "Quy Tắc Bảo Hiểm Tự Nguyện Xe Ô Tô (MIC 2025)",
+        "Tổng Công ty CP Bảo Hiểm Quân Đội (MIC)"
+      ],
+      [
+        "Bảo Hiểm Xe Tập Lái Sát Hạch",
+        "Chủ Xe Cơ Giới"
+      ],
+      [
+        "Quy Tắc Bảo Hiểm Tự Nguyện",
+        "Xe Ô Tô Chuyên Dùng"
+      ],
+      [
+        "MIC",
+        "Thiên Tai"
+      ],
+      [
+        "Bảo Hiểm Vật Chất Xe Ô Tô Lưu Hành Tạm Thời",
+        "MIC"
+      ],
+      [
+        "Bên Mua Bảo Hiểm",
+        "MIC"
+      ],
+      [
+        "Bồi Thường",
+        "MIC"
+      ],
+      [
+        "Bồi Thường Tổn Thất Bộ Phận",
+        "Số Tiền Bảo Hiểm"
+      ],
+      [
+        "Bồi Thường Thiệt Hại Tài Sản",
+        "Nghị Định Số 67/2023/NĐ-CP"
+      ],
+      [
+        "Bảo Hiểm Tự Nguyện Trách Nhiệm Dân Sự",
+        "Tai Nạn Ngoài Lãnh Thổ"
+      ],
+      [
+        "Chủ Xe",
+        "Giấy Chứng Nhận Kiểm Định"
+      ],
+      [
+        "MIC",
+        "Người Được Bảo Hiểm"
+      ],
+      [
+        "Bảng Quy Định Trả Tiền Bồi Thường",
+        "Mức Trách Nhiệm Tự Nguyện"
+      ],
+      [
+        "HĐBH/GCNBH",
+        "Quy Tắc Bảo Hiểm"
+      ],
+      [
+        "Chủ Xe",
+        "Người Ngồi Trên Xe"
+      ],
+      [
+        "Khấu Trừ",
+        "MIC"
+      ],
+      [
+        "Giấy Chứng Nhận Bảo Hiểm",
+        "Hợp Đồng Bảo Hiểm"
+      ],
+      [
+        "Bảo Hiểm Thay Thế Mới",
+        "MIC"
+      ],
+      [
+        "Bảo Hiểm Lựa Chọn Cơ Sở Sửa Chữa",
+        "MIC"
+      ],
+      [
+        "Chủ Xe",
+        "Hàng Hóa Vận Chuyển"
+      ],
+      [
+        "MIC",
+        "Mức Trách Nhiệm Bảo Hiểm"
+      ],
+      [
+        "Hành Vi Ác Ý",
+        "MIC"
+      ],
+      [
+        "Sự Kiện Bảo Hiểm",
+        "Thời Gian Sử Dụng Xe"
+      ],
+      [
+        "Hợp Đồng Bảo Hiểm",
+        "MIC"
+      ],
+      [
+        "Chủ Xe Cơ Giới",
+        "Thỏa Thuận Bảo Hiểm Khác"
+      ],
+      [
+        "Chủ Xe",
+        "Xe Đang Hoạt Động"
+      ],
+      [
+        "Người Được Bảo Hiểm",
+        "Tổn Thất"
+      ],
+      [
+        "Hợp Đồng Vận Chuyển",
+        "MIC"
+      ],
+      [
+        "Chủ Xe",
+        "Hợp Đồng Bảo Hiểm (HĐBH)"
+      ],
+      [
+        "30 Ngày",
+        "Bảo Hiểm Tổn Thất Của Động Cơ"
+      ],
+      [
+        "Bảo Hiểm Tự Nguyện Trách Nhiệm Dân Sự",
+        "Điều Khoản Bảo Hiểm"
+      ],
+      [
+        "Quyền Lợi Bảo Hiểm",
+        "Xe Ô Tô Chở Người Không Kinh Doanh Vận Tải"
+      ],
+      [
+        "MIC",
+        "Tai Nạn Bất Ngờ"
+      ],
+      [
+        "Bảo Hiểm Tổn Thất Của Động Cơ",
+        "MIC"
+      ],
+      [
+        "Người Mua Bảo Hiểm",
+        "Người Được Bảo Hiểm"
+      ],
+      [
+        "Hành Vi Gian Lận",
+        "Tổn Thất Do Hàng Hóa"
+      ],
+      [
+        "Bảo Hiểm Vật Chất Xe Ô Tô",
+        "Bảo Hiểm Xe Bị Mất Trộm"
+      ],
+      [
+        "Học Viên",
+        "Loại Trừ Bảo Hiểm"
+      ],
+      [
+        "Hợp Đồng Bảo Hiểm",
+        "Xe Tải Van"
+      ],
+      [
+        "Bảo Hiểm Bổ Sung",
+        "Bảo Hiểm Vật Chất Xe Ô Tô"
+      ],
+      [
+        "Người Ngồi Trên Xe",
+        "Số Tiền Bảo Hiểm"
+      ],
+      [
+        "Bảo Hiểm Bổ Sung",
+        "Chi Phí Thuê Xe"
+      ],
+      [
+        "10% Số Tiền Bảo Hiểm",
+        "Chi Phí Cứu Hộ"
+      ],
+      [
+        "Chi Phí Ngăn Ngừa",
+        "MIC"
+      ],
+      [
+        "Bảo Hiểm Xe Tập Lái Sát Hạch",
+        "Quyền Lợi Bảo Hiểm"
+      ],
+      [
+        "Bảo Hiểm Bổ Sung",
+        "Nghị Định Số 67/2023/NĐ-CP"
+      ],
+      [
+        "Bảo Hiểm Thuê Xe Trong Thời Gian Sửa Chữa",
+        "MIC"
+      ],
+      [
+        "Giấy Phép Lái Xe",
+        "MIC"
+      ],
+      [
+        "Chi Phí Cứu Hộ",
+        "MIC"
+      ],
+      [
+        "Các Trường Hợp Loại Trừ",
+        "Người Ngồi Trên Xe"
+      ],
+      [
+        "Chủ xe/Người được bảo hiểm",
+        "Người Điều Khiển Xe"
+      ],
+      [
+        "Quyền Lợi Của Người Được Bảo Hiểm",
+        "Vòng Hay Thương Tật Thân Thể"
+      ],
+      [
+        "Người Mua Bảo Hiểm",
+        "Người Thụ Hưởng"
+      ],
+      [
+        "Bảo Hiểm Trách Nhiệm Dân Sự",
+        "MIC"
+      ],
+      [
+        "Người Ngồi Trên Xe",
+        "Phạm Vi Bảo Hiểm"
+      ],
+      [
+        "MIC",
+        "Tổn Thất Ngoài Lãnh Thổ"
+      ],
+      [
+        "Người Điều Khiển Xe",
+        "Tai Nạn Bất Ngờ"
+      ],
+      [
+        "Chủ Xe",
+        "Mức Khấu Trừ"
+      ],
+      [
+        "Chủ Xe",
+        "MIC"
+      ],
+      [
+        "Chi Phí Bồi Thường",
+        "MIC"
+      ],
+      [
+        "Chủ xe/Người được bảo hiểm",
+        "Người Thứ Ba"
+      ],
+      [
+        "Bảo Hiểm Xe Tập Lái Sát Hạch",
+        "Loại Trừ Bảo Hiểm"
+      ],
+      [
+        "Phí Bảo Hiểm",
+        "Xe Ô Tô Điện"
+      ],
+      [
+        "Chủ xe/Người được bảo hiểm",
+        "Thời Hạn Thông Báo Tổn Thất"
+      ],
+      [
+        "Bồi Thường Tổn Thất Bộ Phận",
+        "Bồi Thường Tổn Thất Toàn Bộ"
+      ],
+      [
+        "Chi Phí Thuê Xe",
+        "MIC"
+      ],
+      [
+        "Người Điều Khiển Xe",
+        "Xe Chở Hàng"
+      ],
+      [
+        "Bảo Hiểm Tự Nguyện Trách Nhiệm Dân Sự",
+        "Chiến Tranh Và Khủng Bố"
+      ],
+      [
+        "Mức Trách Nhiệm Bảo Hiểm",
+        "Quyền Lợi Bảo Hiểm"
+      ]
+    ],
+    "count": 71,
+    "create_time": 1767773658,
+    "update_time": 1767773658,
+    "_id": "doc-355283168650e3a51c545c176d75a564"
+  },
+  "doc-c58572d31ca1abaf31d56d9b3baadaf2": {
+    "relation_pairs": [
+      [
+        "Người Được Bảo Hiểm",
+        "Rượu, Bia, Ma Túy"
+      ],
+      [
+        "Bên Mua Bảo Hiểm",
+        "MIC"
+      ],
+      [
+        "Tai Nạn",
+        "Thương Tật"
+      ],
+      [
+        "Người Được Bảo Hiểm",
+        "Số Tiền Bảo Hiểm"
+      ],
+      [
+        "MIC",
+        "Người Được Bảo Hiểm"
+      ],
+      [
+        "Người Được Bảo Hiểm",
+        "Tai Nạn Giao Thông"
+      ],
+      [
+        "Giấy Chứng Nhận Bảo Hiểm",
+        "Hợp Đồng Bảo Hiểm"
+      ],
+      [
+        "Chấm Dứt Hợp Đồng Bảo Hiểm",
+        "Hợp Đồng Bảo Hiểm"
+      ],
+      [
+        "Người Thụ Hưởng",
+        "Người Được Bảo Hiểm"
+      ],
+      [
+        "MIC",
+        "Thời Hiệu Khởi Kiện"
+      ],
+      [
+        "Hợp Đồng Bảo Hiểm",
+        "MIC"
+      ],
+      [
+        "Thương Tật",
+        "Thương Tật Toàn Bộ Vĩnh Viễn"
+      ],
+      [
+        "Các Chất Kích Thích Tương Tự",
+        "Người Được Bảo Hiểm"
+      ],
+      [
+        "Bên Mua Bảo Hiểm",
+        "Người Được Bảo Hiểm"
+      ],
+      [
+        "Giấy Chứng Tử",
+        "Hồ Sơ Yêu Cầu Bồi Thường"
+      ],
+      [
+        "Người Được Bảo Hiểm",
+        "Thương Tật Tạm Thời"
+      ],
+      [
+        "MIC",
+        "Thương Tật Tạm Thời"
+      ],
+      [
+        "Hợp Đồng Bảo Hiểm",
+        "Người Được Bảo Hiểm"
+      ],
+      [
+        "Người Được Bảo Hiểm",
+        "Thời Hạn Chi Trả Tiền Bảo Hiểm"
+      ],
+      [
+        "MIC",
+        "Thời Hạn Chi Trả Tiền Bảo Hiểm"
+      ],
+      [
+        "Giấy Yêu Cầu Trả Tiền Bảo Hiểm",
+        "Người Được Bảo Hiểm"
+      ],
+      [
+        "Hành Động Đánh Nhau",
+        "Người Được Bảo Hiểm"
+      ],
+      [
+        "Thời Gian Nộp Hồ Sơ",
+        "Thời Hạn Chi Trả Tiền Bảo Hiểm"
+      ],
+      [
+        "Bên Mua Bảo Hiểm",
+        "Hợp Đồng Bảo Hiểm"
+      ],
+      [
+        "Người Được Bảo Hiểm",
+        "Thời Gian Xảy Ra Sự Kiện Bất Khả Kháng"
+      ],
+      [
+        "Hợp Đồng Bảo Hiểm",
+        "Thời Hiệu Khởi Kiện"
+      ],
+      [
+        "Hồ Sơ Yêu Cầu Trả Tiền Bảo Hiểm",
+        "MIC"
+      ],
+      [
+        "Các Hoạt Động Thể Thao Nguy Hiểm",
+        "Hợp Đồng Bảo Hiểm"
+      ],
+      [
+        "Bác Sỹ",
+        "Chi Phí Y Tế Thực Tế"
+      ],
+      [
+        "Chi Phí Y Tế",
+        "Người Được Bảo Hiểm"
+      ],
+      [
+        "MIC",
+        "Phòng Phát Triển Sản Phẩm"
+      ],
+      [
+        "Giải Quyết Tranh Chấp",
+        "Hợp Đồng Bảo Hiểm"
+      ],
+      [
+        "Giấy Chứng Tử",
+        "Người Được Bảo Hiểm"
+      ],
+      [
+        "Các Hoạt Động Thể Thao Chuyên Nghiệp",
+        "Hợp Đồng Bảo Hiểm"
+      ],
+      [
+        "Người Được Bảo Hiểm",
+        "Ngộ Độc Thức Ăn"
+      ],
+      [
+        "Người Được Bảo Hiểm",
+        "Tai Nạn Sinh Hoạt"
+      ],
+      [
+        "Người Được Bảo Hiểm",
+        "Thời Hạn Yêu Cầu Trả Tiền Bảo Hiểm"
+      ],
+      [
+        "Người Được Bảo Hiểm",
+        "Tai Nạn Lao Động"
+      ],
+      [
+        "MIC",
+        "Tai Nạn Con Người"
+      ],
+      [
+        "Người Được Bảo Hiểm",
+        "Thương Tật Toàn Bộ Vĩnh Viễn"
+      ],
+      [
+        "Giải Quyết Tranh Chấp",
+        "Việt Nam"
+      ],
+      [
+        "Chi Phí Tạo Hình Thẩm Mỹ",
+        "Người Được Bảo Hiểm"
+      ],
+      [
+        "Bên Mua Bảo Hiểm",
+        "Hồ Sơ Yêu Cầu Bồi Thường"
+      ],
+      [
+        "Người Được Bảo Hiểm",
+        "Điều Trị Y Tế Không Đúng Quy Định"
+      ],
+      [
+        "Người Được Bảo Hiểm",
+        "Tai Nạn"
+      ],
+      [
+        "Người Được Bảo Hiểm",
+        "Thương Tật Bộ Phận Vĩnh Viễn"
+      ],
+      [
+        "Giấy Phép Thành Lập",
+        "MIC"
+      ]
+    ],
+    "count": 47,
+    "create_time": 1767773859,
+    "update_time": 1767773859,
+    "_id": "doc-c58572d31ca1abaf31d56d9b3baadaf2"
+  },
+  "doc-e0168ccc5720e4b01b2390622197393a": {
+    "relation_pairs": [
+      [
+        "Người Được Bảo Hiểm",
+        "Điều Trị Không Theo Chỉ Dẫn"
+      ],
+      [
+        "Hồ Sơ Y TẾ",
+        "Khiếu Nại Thẻ Ngân Hàng"
+      ],
+      [
+        "Người Được Bảo Hiểm",
+        "Quyền Lợi Bảo Hiểm"
+      ],
+      [
+        "Người Được Bảo Hiểm",
+        "Thương Tật"
+      ],
+      [
+        "Bệnh Có Sẵn",
+        "Người Được Bảo Hiểm"
+      ],
+      [
+        "Hồ Sơ Bệnh Án",
+        "Hồ Sơ Y Tế"
+      ],
+      [
+        "Người Được Bảo Hiểm",
+        "Trách Nhiệm Của Người Được Bảo Hiểm"
+      ],
+      [
+        "Bên Mua Bảo Hiểm",
+        "Khiếu Nại Về Mất/Hư Hỏng Dụng Cụ Chơi Golf"
+      ],
+      [
+        "Bên Mua Bảo Hiểm",
+        "MIC"
+      ],
+      [
+        "Người Được Bảo Hiểm",
+        "Rượu, Bia, Ma Túy"
+      ],
+      [
+        "Người Được Bảo Hiểm",
+        "Tử Vong"
+      ],
+      [
+        "MIC",
+        "Người Được Bảo Hiểm"
+      ],
+      [
+        "Giấy Chứng Nhận Bảo Hiểm",
+        "Hợp Đồng Bảo Hiểm"
+      ],
+      [
+        "Hợp Đồng Bảo Hiểm/Giấy Chứng Nhận Bảo Hiểm",
+        "Số Tiền Bảo Hiểm"
+      ],
+      [
+        "Chi Phí Liên Quan Đến Nha Khoa",
+        "Tự Tử"
+      ],
+      [
+        "Khiếu Nại Bắt Cóc",
+        "MIC"
+      ],
+      [
+        "Bảo Hiểm Thất Lạc Thẻ Ngân Hàng",
+        "Hợp Đồng Bảo Hiểm"
+      ],
+      [
+        "Hợp Đồng Bảo Hiểm",
+        "MIC"
+      ],
+      [
+        "Bác Sỹ",
+        "Người Được Bảo Hiểm"
+      ],
+      [
+        "Bệnh Lao",
+        "Bệnh Mãn Tính"
+      ],
+      [
+        "Bên Mua Bảo Hiểm",
+        "Người Được Bảo Hiểm"
+      ],
+      [
+        "Dụng Cụ Chơi Golf",
+        "Người Được Bảo Hiểm"
+      ],
+      [
+        "Bắt Cóc và Con Tin",
+        "Hợp Đồng Bảo Hiểm"
+      ],
+      [
+        "Người Được Bảo Hiểm",
+        "Tổn Thất"
+      ],
+      [
+        "Loại Trừ Bảo Hiểm",
+        "MIC"
+      ],
+      [
+        "Người Được Bảo Hiểm",
+        "Ốm Đau, Bệnh Tật"
+      ],
+      [
+        "Bắt Cóc",
+        "Con Tin"
+      ],
+      [
+        "Người Được Bảo Hiểm",
+        "Thương Tật Tạm Thời"
+      ],
+      [
+        "MIC",
+        "Quy Tắc Bảo Hiểm Khách Du Lịch Trong Nước"
+      ],
+      [
+        "Hợp Đồng Bảo Hiểm/Giấy Chứng Nhận Bảo Hiểm",
+        "Người Được Bảo Hiểm"
+      ],
+      [
+        "Người Được Bảo Hiểm",
+        "Tuổi Được Bảo Hiểm"
+      ],
+      [
+        "Hợp Đồng Bảo Hiểm",
+        "Người Được Bảo Hiểm"
+      ],
+      [
+        "Hồ Sơ Y Tế",
+        "Khiếu Nại Về Mất/Hư Hỏng Dụng Cụ Chơi Golf"
+      ],
+      [
+        "Giấy Chứng Nhận Bảo Hiểm",
+        "Hợp Đồng Bảo Hiểm/Giấy Chứng Nhận Bảo Hiểm"
+      ],
+      [
+        "Bảng Tỷ Lệ Trả Tiền Thương Tật",
+        "Hợp Đồng Bảo Hiểm"
+      ],
+      [
+        "Bên Mua Bảo Hiểm",
+        "Khiếu Nại Trách Nhiệm Cá Nhân"
+      ],
+      [
+        "Dụng Cụ Chơi Golf",
+        "Hợp Đồng Bảo Hiểm"
+      ],
+      [
+        "Hao Mòn Tự Nhiên",
+        "Người Được Bảo Hiểm"
+      ],
+      [
+        "Bên Mua Bảo Hiểm",
+        "Hợp Đồng Bảo Hiểm"
+      ],
+      [
+        "Hồ Sơ Yêu Cầu Trả Tiền Bảo Hiểm",
+        "MIC"
+      ],
+      [
+        "Hợp Đồng Bảo Hiểm",
+        "Thời Hạn Khiếu Nại"
+      ],
+      [
+        "Bệnh Mãn Tính",
+        "Hội Chứng Liên Quan Đến AIDS"
+      ],
+      [
+        "Chi Phí Y Tế",
+        "Người Được Bảo Hiểm"
+      ],
+      [
+        "Bệnh Lây Truyền Qua Đường Tình Dục",
+        "Người Được Bảo Hiểm"
+      ],
+      [
+        "MIC",
+        "Điều Khoản Loại Trừ"
+      ],
+      [
+        "Ngộ Độc",
+        "Tự Tử"
+      ],
+      [
+        "Hợp Đồng Bảo Hiểm/Giấy Chứng Nhận Bảo Hiểm",
+        "Thời Hạn Bảo Hiểm"
+      ],
+      [
+        "Hợp Đồng Bảo Hiểm",
+        "Việt Nam"
+      ],
+      [
+        "Hợp Đồng Bảo Hiểm",
+        "Người Thụ Hưởng"
+      ],
+      [
+        "Hợp Đồng Bảo Hiểm/Giấy Chứng Nhận Bảo Hiểm",
+        "Thỏa Thuận Khác"
+      ],
+      [
+        "Bệnh Mãn Tính",
+        "Bệnh Đái Tháo Đường"
+      ],
+      [
+        "Người Được Bảo Hiểm",
+        "Thương Tật Toàn Bộ Vĩnh Viễn"
+      ],
+      [
+        "Mất Tích",
+        "Người Được Bảo Hiểm"
+      ],
+      [
+        "Hợp Đồng Bảo Hiểm",
+        "Mất hoặc Hư Hỏng Dụng Cụ Chơi Golf"
+      ],
+      [
+        "Bệnh Đái Tháo Đường",
+        "Đột Quỵ"
+      ],
+      [
+        "Bắt Cóc",
+        "Người Được Bảo Hiểm"
+      ],
+      [
+        "MIC",
+        "Sự Kiện Bảo Hiểm"
+      ],
+      [
+        "Người Được Bảo Hiểm",
+        "Tai Nạn"
+      ],
+      [
+        "Người Được Bảo Hiểm",
+        "Trách Nhiệm Cá Nhân"
+      ],
+      [
+        "Chấm Dứt Bảo Hiểm",
+        "Hợp Đồng Bảo Hiểm/Giấy Chứng Nhận Bảo Hiểm"
+      ],
+      [
+        "Người Được Bảo Hiểm",
+        "Số Tiền Bảo Hiểm"
+      ],
+      [
+        "Người Được Bảo Hiểm",
+        "Thương Tật Bộ Phận Vĩnh Viễn"
+      ],
+      [
+        "Hợp Đồng Bảo Hiểm",
+        "Luật Kinh Doanh Bảo Hiểm"
+      ],
+      [
+        "Hợp Đồng Bảo Hiểm/Giấy Chứng Nhận Bảo Hiểm",
+        "Phí Bảo Hiểm"
+      ]
+    ],
+    "count": 64,
+    "create_time": 1767773925,
+    "update_time": 1767773925,
+    "_id": "doc-e0168ccc5720e4b01b2390622197393a"
+  },
+  "doc-db108652e1d62994b16aa417a3dfde23": {
+    "relation_pairs": [
+      [
+        "Chi Phí Y Tế",
+        "Số Tiền Bảo Hiểm (STBH)"
+      ],
+      [
+        "Quy Tắc Bảo Hiểm Người Việt Nam Du Lịch Nước Ngoài (MIC)",
+        "Tổng Công Ty Cổ Phần Bảo Hiểm Quân Đội (MIC)"
+      ],
+      [
+        "Bệnh Mãn Tính",
+        "Loại Trừ Riêng"
+      ],
+      [
+        "Bệnh Lây Qua Đường Tình Dục",
+        "Loại Trừ Riêng"
+      ],
+      [
+        "HĐBH/GCNBH",
+        "NĐBH"
+      ],
+      [
+        "Loại Trừ Riêng",
+        "Tâm Thần, Mang Thai/Sinh Đẻ"
+      ],
+      [
+        "Số Tiền Bảo Hiểm (STBH)",
+        "Tử Vong/Thương Tật Vĩnh Viễn do Tai Nạn"
+      ],
+      [
+        "Chi Phí Thực Tế",
+        "Hồi Hương Thi Hài & Chi Phí Mai Táng"
+      ],
+      [
+        "Hợp Đồng Bảo Hiểm (HĐBH)",
+        "Người Được Bảo Hiểm (NĐBH)"
+      ],
+      [
+        "HĐBH/GCNBH",
+        "Số Tiền Bảo Hiểm (STBH)"
+      ],
+      [
+        "HĐBH/GCNBH",
+        "Mất, Thiệt Hại Hành Lý & Vật Dụng Cá Nhân"
+      ],
+      [
+        "MIC",
+        "Thông Báo Sự Kiện"
+      ],
+      [
+        "Luật Việt Nam",
+        "Tòa án VN"
+      ],
+      [
+        "HĐBH/GCNBH",
+        "Thời Hạn Bảo Hiểm"
+      ],
+      [
+        "HĐBH",
+        "Hủy Đơn Phương Chấm Dứt HĐBH"
+      ],
+      [
+        "Nghĩa Vụ Bên Mua Bảo Hiểm",
+        "Quyền Bên Mua Bảo Hiểm"
+      ],
+      [
+        "HĐBH",
+        "Mức Độ Chi Trả"
+      ],
+      [
+        "30 Ngày Thương Lượng",
+        "Tòa án VN"
+      ],
+      [
+        "Bệnh Có Sẵn",
+        "Người Được Bảo Hiểm (NĐBH)"
+      ],
+      [
+        "HĐBH",
+        "Đề Phòng-Hạn Chế Tổn Thất"
+      ],
+      [
+        "Hợp Đồng Bảo Hiểm (HĐBH)",
+        "Thời Hạn Bảo Hiểm"
+      ],
+      [
+        "Nghĩa Vụ MIC",
+        "Quyền MIC"
+      ],
+      [
+        "Thông Báo Sự Kiện",
+        "Thời Hạn Nộp Hồ Sơ"
+      ],
+      [
+        "Người Được Bảo Hiểm (NĐBH)",
+        "Tai Nạn"
+      ],
+      [
+        "MIC",
+        "Thời Hạn Chi Trả"
+      ],
+      [
+        "Người Thụ Hưởng",
+        "Người Được Bảo Hiểm (NĐBH)"
+      ],
+      [
+        "Giải Thích Bằng Văn Bản",
+        "HĐBH"
+      ],
+      [
+        "HĐBH",
+        "Trả Tiền Bảo Hiểm"
+      ],
+      [
+        "Bệnh Có Sẵn",
+        "Loại Trừ Riêng"
+      ],
+      [
+        "03 Năm Thời Hiệu Khởi Kiện",
+        "Luật Việt Nam"
+      ],
+      [
+        "Chi Phí Y Tế",
+        "Tử Vong/Thương Tật Vĩnh Viễn do Tai Nạn"
+      ]
+    ],
+    "count": 31,
+    "create_time": 1767773932,
+    "update_time": 1767773932,
+    "_id": "doc-db108652e1d62994b16aa417a3dfde23"
+  },
+  "doc-a8de0b4acd5fc19e192d314bbb5aac7f": {
+    "relation_pairs": [
+      [
+        "MIC",
+        "Quyền Lợi Bảo Hiểm"
+      ],
+      [
+        "Bên Mua Bảo Hiểm",
+        "MIC"
+      ],
+      [
+        "Các Hoạt Động Thể Thao Nguy Hiểm",
+        "MIC"
+      ],
+      [
+        "Hóa Đơn Thu Phí Bảo Hiểm",
+        "MIC"
+      ],
+      [
+        "Quyền và Nghĩa Vụ của Bên Mua Bảo Hiểm",
+        "Quyền và Nghĩa Vụ của MIC"
+      ],
+      [
+        "Chiến Tranh và Khủng Bố",
+        "Người Được Bảo Hiểm"
+      ],
+      [
+        "Bên Mua Bảo Hiểm",
+        "Người Được Bảo Hiểm"
+      ],
+      [
+        "Cái Chết Không Rõ Nguyên Nhân",
+        "Người Được Bảo Hiểm"
+      ],
+      [
+        "Hợp Đồng Bảo Hiểm",
+        "Tranh Chấp"
+      ],
+      [
+        "Người Được Bảo Hiểm",
+        "Tuổi được Bảo Hiểm"
+      ],
+      [
+        "Bệnh Di Truyền",
+        "Bệnh Đặc Biệt"
+      ],
+      [
+        "Biên Bản Kết Luận",
+        "Tai Nạn Giao Thông"
+      ],
+      [
+        "Bác Sỹ",
+        "Bệnh Di Truyền"
+      ],
+      [
+        "Hợp Đồng Bảo Hiểm",
+        "Quy Tắc Bảo Hiểm"
+      ],
+      [
+        "Người Được Bảo Hiểm",
+        "Rủi Ro Thảm Họa"
+      ],
+      [
+        "Bên Mua Bảo Hiểm",
+        "Hợp Đồng Bảo Hiểm"
+      ],
+      [
+        "Quy Tắc Bảo Hiểm Sức Khỏe Toàn Diện (MIC CARE 2025)",
+        "Tổng Công ty CP Bảo hiểm Quân Đội (MIC)"
+      ],
+      [
+        "Bệnh Bẩm Sinh",
+        "Bệnh Đặc Biệt"
+      ],
+      [
+        "Bệnh Hệ Tuần Hoàn",
+        "Bệnh Mạch Máu"
+      ],
+      [
+        "MIC",
+        "Sự Kiện Bảo Hiểm"
+      ],
+      [
+        "Người Được Bảo Hiểm",
+        "Sự Kiện Bảo Hiểm"
+      ],
+      [
+        "Người Được Bảo Hiểm",
+        "Thuốc Đông Y"
+      ],
+      [
+        "Người Được Bảo Hiểm",
+        "Trợ Cấp Nằm Viện"
+      ],
+      [
+        "Giấy Chứng Nhận Bảo Hiểm",
+        "Hợp Đồng Bảo Hiểm"
+      ],
+      [
+        "Người Được Bảo Hiểm",
+        "Đánh Nhau"
+      ],
+      [
+        "Luật An Toàn Giao Thông",
+        "Người Được Bảo Hiểm"
+      ],
+      [
+        "Bệnh Lây Qua Đường Tình Dục",
+        "Người Được Bảo Hiểm"
+      ],
+      [
+        "Bệnh Hệ Thần Kinh",
+        "Bệnh Đặc Biệt"
+      ],
+      [
+        "Hợp Đồng Bảo Hiểm",
+        "Số Tiền Bảo Hiểm"
+      ],
+      [
+        "Cấp Tín Dụng",
+        "Hợp Đồng Tín Dụng"
+      ],
+      [
+        "MIC",
+        "Người Thụ Hưởng"
+      ],
+      [
+        "Người Được Bảo Hiểm",
+        "Ngộ Độc"
+      ],
+      [
+        "MIC",
+        "Thời Hạn Chi Trả Tiền Bảo Hiểm"
+      ],
+      [
+        "Hạn Chế Chi Trả",
+        "MIC"
+      ],
+      [
+        "Hợp Đồng Bảo Hiểm",
+        "Thời Gian Chờ"
+      ],
+      [
+        "Biên Bản Tường Trình Tai Nạn",
+        "Tai Nạn Giao Thông"
+      ],
+      [
+        "Bệnh Có Sẵn",
+        "Bệnh Đặc Biệt"
+      ],
+      [
+        "Người Được Bảo Hiểm",
+        "Thời Hạn Yêu Cầu Trả Tiền Bảo Hiểm"
+      ],
+      [
+        "Tai Nạn",
+        "Thương Tật Toàn Bộ Vĩnh Viễn"
+      ],
+      [
+        "Người Được Bảo Hiểm",
+        "Thương Tật Toàn Bộ Vĩnh Viễn Do Tai Nạn"
+      ],
+      [
+        "Người Thụ Hưởng",
+        "Yêu Cầu Giải Quyết Khiếu Nại"
+      ],
+      [
+        "Hợp Đồng Tín Dụng",
+        "Tổ Chức Tín Dụng"
+      ],
+      [
+        "Giấy Chứng Nhận Bảo Hiểm",
+        "Người Được Bảo Hiểm"
+      ],
+      [
+        "Bác Sỹ",
+        "Điều Trị Nội Trú"
+      ],
+      [
+        "Người Được Bảo Hiểm",
+        "Tử Vong Do Bệnh Tật"
+      ],
+      [
+        "Người Được Bảo Hiểm",
+        "Tai Nạn"
+      ],
+      [
+        "Người Được Bảo Hiểm",
+        "Rượu, Bia, Ma Túy"
+      ],
+      [
+        "Hợp Đồng Bảo Hiểm",
+        "Phí Bảo Hiểm"
+      ],
+      [
+        "Bên Mua Bảo Hiểm",
+        "Tổng Công ty CP Bảo hiểm Quân Đội (MIC)"
+      ],
+      [
+        "Quy Tắc Bảo Hiểm",
+        "Tái Tục Liên Tục"
+      ],
+      [
+        "Bệnh Đặc Biệt",
+        "Giám Định Và Xác Nhận"
+      ],
+      [
+        "Người Được Bảo Hiểm",
+        "Thương Tật Bộ Phận Vĩnh Viễn Do Tai Nạn"
+      ],
+      [
+        "Giấy Chứng Thương",
+        "Tai Nạn Giao Thông"
+      ],
+      [
+        "Thời Hạn Khiếu Nại",
+        "Tranh Chấp"
+      ],
+      [
+        "Bên Mua Bảo Hiểm",
+        "Người Thụ Hưởng"
+      ],
+      [
+        "Bệnh Hệ Nội Tiết",
+        "Bệnh Đặc Biệt"
+      ],
+      [
+        "Bệnh Hệ Hô Hấp",
+        "Bệnh Đặc Biệt"
+      ],
+      [
+        "Giấy Đăng Ký Xe",
+        "Tai Nạn Giao Thông"
+      ],
+      [
+        "Hợp Đồng Bảo Hiểm",
+        "Thời Hạn Bảo Hiểm"
+      ],
+      [
+        "Bệnh Viện",
+        "Điều Trị Nội Trú"
+      ],
+      [
+        "Giám Định Và Xác Nhận",
+        "Phạm Vi Địa Lý"
+      ],
+      [
+        "Cấp Tín Dụng",
+        "Dư Nợ Tín Dụng"
+      ],
+      [
+        "Hoạt Động Hàng Không",
+        "Người Được Bảo Hiểm"
+      ],
+      [
+        "MIC",
+        "Người Được Bảo Hiểm"
+      ],
+      [
+        "Bác Sỹ",
+        "Dị Tật Bẩm Sinh"
+      ],
+      [
+        "Người Thụ Hưởng",
+        "Người Được Bảo Hiểm"
+      ],
+      [
+        "Hợp Đồng Bảo Hiểm",
+        "MIC"
+      ],
+      [
+        "Quy Tắc Bảo Hiểm",
+        "Thời Gian Chờ"
+      ],
+      [
+        "Hợp Đồng Bảo Hiểm",
+        "Người Được Bảo Hiểm"
+      ],
+      [
+        "Hợp Đồng Tín Dụng",
+        "Người Được Bảo Hiểm"
+      ],
+      [
+        "Các Hoạt Động Thể Thao Chuyên Nghiệp",
+        "Người Được Bảo Hiểm"
+      ],
+      [
+        "Người Được Bảo Hiểm",
+        "Tử Vong Do Tai Nạn"
+      ],
+      [
+        "Bệnh Đặc Biệt",
+        "Ốm Đau, Bệnh Tật"
+      ],
+      [
+        "Phạm Vi Địa Lý",
+        "Quy Tắc Bảo Hiểm"
+      ],
+      [
+        "Hợp Đồng Bảo Hiểm",
+        "Người Mua Bảo Hiểm"
+      ],
+      [
+        "Giấy Phép Lái Xe",
+        "Tai Nạn Giao Thông"
+      ],
+      [
+        "Người Được Bảo Hiểm",
+        "Thể Thao Chuyên Nghiệp"
+      ],
+      [
+        "Người Được Bảo Hiểm",
+        "Tổng Công ty CP Bảo hiểm Quân Đội (MIC)"
+      ]
+    ],
+    "count": 78,
+    "create_time": 1767773955,
+    "update_time": 1767773955,
+    "_id": "doc-a8de0b4acd5fc19e192d314bbb5aac7f"
+  },
+  "doc-304cfdc5f46283022147508dff4b42b0": {
+    "relation_pairs": [
+      [
+        "Chi Trả",
+        "Nộp Hồ Sơ"
+      ],
+      [
+        "Nộp Hồ Sơ",
+        "Thông Báo Sự Kiện"
+      ],
+      [
+        "Nguy Hiểm",
+        "Điều Trị"
+      ],
+      [
+        "Bên Mua Bảo Hiểm (BMBH)",
+        "Hợp Đồng Gia Đình"
+      ],
+      [
+        "Pháp luật Việt Nam",
+        "Thời Hiệu Khởi Kiện"
+      ],
+      [
+        "Hỗ Trợ Tai Nạn Cá Nhân",
+        "Tử Vong/TT Vĩnh Viễn Do Tai Nạn"
+      ],
+      [
+        "Chuyến Đi Một Chi Chiều",
+        "Quyền Yêu Cầu Bồi Hoàn"
+      ],
+      [
+        "Bên Mua Bảo Hiểm (BMBH)",
+        "Hợp Đồng Bảo Hiểm (HĐBH)"
+      ],
+      [
+        "Chương Trình 1",
+        "Chương Trình 2"
+      ],
+      [
+        "Chuyến Đi Một Chi Chiều",
+        "HĐ Gia Đình"
+      ],
+      [
+        "Chi Phí Y Tế",
+        "Hồi Hương Thi Hài & Chi Phí Mai Táng"
+      ],
+      [
+        "Chương Trình 3",
+        "Chương Trình 4"
+      ],
+      [
+        "Hồ Sơ",
+        "Quyền Yêu Cầu Hồ Sơ"
+      ],
+      [
+        "Bên Mua Bảo Hiểm (BMBH)",
+        "Người Được Bảo Hiểm (NĐBH)"
+      ],
+      [
+        "Chăm Sóc Trẻ Em",
+        "Hỗ Trợ Y Tế Ở Nước Ngoài"
+      ],
+      [
+        "Chi Phí Y Tế",
+        "Quy Tắc Bảo Hiểm Du Lịch Toàn Cầu (MIC) 2025"
+      ],
+      [
+        "Bệnh Mãn Tính/Danh Mục",
+        "Nha Khoa Trừ Do Tại Nạn"
+      ],
+      [
+        "Quy Tắc Bảo Hiểm Du Lịch Toàn Cầu (MIC) 2025",
+        "Tổng Công Ty Cổ Phần Bảo Hiểm Quân Đội (MIC)"
+      ],
+      [
+        "Chương Trình 2",
+        "Chương Trình 3"
+      ],
+      [
+        "Người Được Bảo Hiểm (NĐBH)",
+        "Tai Nạn"
+      ],
+      [
+        "Chi Phí Y Tế",
+        "Hỗ Trợ Tai Nạn Cá Nhân"
+      ],
+      [
+        "Người Thụ Hưởng",
+        "Người Được Bảo Hiểm (NĐBH)"
+      ],
+      [
+        "Người Được Bảo Hiểm (NĐBH)",
+        "Thương Tật"
+      ]
+    ],
+    "count": 23,
+    "create_time": 1767773971,
+    "update_time": 1767773971,
+    "_id": "doc-304cfdc5f46283022147508dff4b42b0"
+  },
+  "doc-ae527dcdf3b07210f6f50c669a8c65e7": {
+    "relation_pairs": [
+      [
+        "Hồ Sơ Đề Nghị",
+        "Thời Hạn Yêu Cầu"
+      ],
+      [
+        "Hợp Đồng Bảo Hiểm",
+        "Thương Tật Tạm Thời Do Tai Nạn"
+      ],
+      [
+        "BMBH",
+        "PVI"
+      ],
+      [
+        "Người Thụ Hưởng",
+        "Người Được Bảo Hiểm"
+      ],
+      [
+        "Quy Tắc Bảo Hiểm Tai Nạn Con Người (PVI) 2025",
+        "Tổng Công Ty Bảo Hiểm PVI"
+      ],
+      [
+        "Hợp Đồng Bảo Hiểm",
+        "Thương Tật Thân Thể"
+      ],
+      [
+        "Hoạt Động Rủi Ro Cao",
+        "Thể Thao Chuyên Nghiệp"
+      ],
+      [
+        "Hậu Quả Tai Nạn",
+        "Quyền Lợi Bổ Sung"
+      ],
+      [
+        "Người Được Bảo Hiểm",
+        "Thành Viên Gia Đình"
+      ],
+      [
+        "Phạm Vi Loại Trừ",
+        "Sự Kiện Ngoài Lãnh Thổ VN"
+      ],
+      [
+        "Hợp Đồng Bảo Hiểm",
+        "Người Được Bảo Hiểm"
+      ],
+      [
+        "Chiến Tranh",
+        "Quyền Lợi Bổ Sung"
+      ],
+      [
+        "Sự Kiện Bảo Hiểm",
+        "Tai Nạn"
+      ],
+      [
+        "Ngộ Độc",
+        "Phạm Vi Bảo Hiểm"
+      ],
+      [
+        "Hợp Đồng Bảo Hiểm",
+        "Người Nước Ngoài"
+      ],
+      [
+        "Tai Nạn",
+        "Trợ Cấp Ngày Nằm Viện"
+      ],
+      [
+        "Biểu Phí",
+        "Quy Tắc Bảo Hiểm Tai Nạn Con Người (PVI) 2025"
+      ],
+      [
+        "Hợp Đồng Bảo Hiểm",
+        "PVI"
+      ],
+      [
+        "Hợp Đồng Bảo Hiểm",
+        "Người Mua Bảo Hiểm"
+      ],
+      [
+        "Chi Phí Y Tế Cần Thiết & Hợp Lý",
+        "Thương Tật Tạm Thời Do Tai Nạn"
+      ],
+      [
+        "Hợp Đồng Bảo Hiểm",
+        "Thương Tật Vĩnh Viễn Do Tai Nạn"
+      ],
+      [
+        "Công Dân VN",
+        "Hợp Đồng Bảo Hiểm"
+      ]
+    ],
+    "count": 22,
+    "create_time": 1767774094,
+    "update_time": 1767774094,
+    "_id": "doc-ae527dcdf3b07210f6f50c669a8c65e7"
+  },
+  "doc-477096c7b39623768fb31174f74f34c9": {
+    "relation_pairs": [
+      [
+        "Thông Tư Số 04/2021/TT-BTC",
+        "Thông Tư Số 151/2012/TT-BTC"
+      ],
+      [
+        "Thông Tư Số 04/2021/TT-BTC",
+        "Thông Tư Số 43/2014/TT-BTC"
+      ],
+      [
+        "Hà Nội",
+        "Việt Nam"
+      ],
+      [
+        "Hồ Sơ Đề Nghị Hoàn Trả Tạm Ứng Bồi Thường",
+        "Đơn Đề Nghị Hoàn Trả"
+      ],
+      [
+        "Bộ Tài Chính",
+        "Tai Nạn"
+      ],
+      [
+        "Ban Kiểm Soát Quỹ",
+        "Quỹ Bảo Hiểm Xe Cơ Giới"
+      ],
+      [
+        "Hiệp Hội Bảo Hiểm Việt Nam",
+        "Hội Đồng Quản Lý Quỹ"
+      ],
+      [
+        "Nghị Định Số 03/2021/NĐ-CP",
+        "Thông Tư Số 04/2021/TT-BTC"
+      ],
+      [
+        "Ban Điều Hành Quỹ",
+        "Quyết Toán Quỹ"
+      ],
+      [
+        "Bộ Tài Chính",
+        "Bộ Tư Pháp"
+      ],
+      [
+        "Luật Kinh Doanh Bảo Hiểm",
+        "Thông Tư 04/2021/TT-BTC"
+      ],
+      [
+        "Quỹ Bảo Hiểm Xe Cơ Giới",
+        "Thông Tư 04/2021/TT-BTC"
+      ],
+      [
+        "Ngày 01 Tháng 3 Năm 2021",
+        "Thông Tư"
+      ],
+      [
+        "Quỹ Bảo Hiểm Xe Cơ Giới",
+        "Tỷ Lệ Chi"
+      ],
+      [
+        "Thông Tư Số 04/2021/TT-BTC",
+        "Thông Tư Số 103/2009/TT-BTC"
+      ],
+      [
+        "Hồ Sơ Chi Hỗ Trợ Nhân Đạo",
+        "Quỹ Bảo Hiểm Xe Cơ Giới"
+      ],
+      [
+        "Hồ Sơ Đề Nghị Hoàn Trả Tạm Ứng Bồi Thường",
+        "Quỹ Bảo Hiểm Xe Cơ Giới"
+      ],
+      [
+        "Ban Điều Hành Quỹ",
+        "Bộ Tài Chính"
+      ],
+      [
+        "Hồ Sơ Chi Hỗ Trợ Nhân Đạo",
+        "Thông Tư"
+      ],
+      [
+        "Phó Thủ tướng",
+        "Thủ tướng"
+      ],
+      [
+        "Nghị Định số 03/2021/NĐ-CP",
+        "Quỹ Bảo Hiểm Xe Cơ Giới"
+      ],
+      [
+        "Tòa án Nhân Dân Tối Cao",
+        "Viện Kiểm Sát Nhân Dân Tối Cao"
+      ],
+      [
+        "Bản Sao Công Chứng Văn Bản Giải Quyết Bồi Thường",
+        "Hồ Sơ Đề Nghị Hoàn Trả Tạm Ứng Bồi Thường"
+      ],
+      [
+        "Cơ Quan Trung Ương Của Các Hội Và Đoàn Thể",
+        "Văn Phòng Chính Phủ"
+      ],
+      [
+        "Bộ Tư Pháp",
+        "Cục Kiểm Tra Văn Bản QPPL"
+      ],
+      [
+        "Nghị Định 03/2021/NĐ-CP",
+        "Thông Tư 04/2021/TT-BTC"
+      ],
+      [
+        "Ban Điều Hành Quỹ",
+        "Quỹ Bảo Hiểm Xe Cơ Giới"
+      ],
+      [
+        "Hồ Sơ Hỗ Trợ Nhân Đạo",
+        "Tai Nạn"
+      ],
+      [
+        "Chi Cho Hoạt Động Tuyên Truyền",
+        "Quỹ Bảo Hiểm Xe Cơ Giới"
+      ],
+      [
+        "Doanh Nghiệp Bảo Hiểm",
+        "Quỹ Bảo Hiểm Xe Cơ Giới"
+      ],
+      [
+        "Bộ Tài Chính",
+        "Huỳnh Quang Hải"
+      ],
+      [
+        "Mức Chi Hỗ Trợ Nhân Đạo",
+        "Quỹ Bảo Hiểm Xe Cơ Giới"
+      ],
+      [
+        "Mức Trách Nhiệm Bảo Hiểm",
+        "Quỹ Bảo Hiểm Xe Cơ Giới"
+      ],
+      [
+        "Mẫu Đơn Đề Nghị Chi Hỗ Trợ Nhân Đạo",
+        "Quỹ Bảo Hiểm Xe Cơ Giới"
+      ],
+      [
+        "Người Bị Thiệt Hại",
+        "Quỹ Bảo Hiểm Xe Cơ Giới"
+      ],
+      [
+        "Bộ Tài Chính",
+        "Quỹ Bảo Hiểm Xe Cơ Giới"
+      ],
+      [
+        "Thông Tư Số 04/2021/TT-BTC",
+        "Thông Tư Số 22/2016/TT-BTC"
+      ],
+      [
+        "Quỹ Bảo Hiểm Xe Cơ Giới",
+        "Đơn Đề Nghị Hoàn Trả Tạm Ứng Bồi Thường"
+      ],
+      [
+        "Doanh Nghiệp Bảo Hiểm Phi Nhân Thọ",
+        "Quỹ Bảo Hiểm Xe Cơ Giới"
+      ],
+      [
+        "Doanh Nghiệp Bảo Hiểm",
+        "Thông Tư 04/2021/TT-BTC"
+      ],
+      [
+        "Doanh Nghiệp Bảo Hiểm",
+        "Hồ Sơ Đề Nghị Hoàn Trả Tạm Ứng Bồi Thường"
+      ],
+      [
+        "Ban Điều Hành Quỹ",
+        "Dự Toán Quỹ"
+      ],
+      [
+        "Chủ Xe Cơ Giới",
+        "Thông Tư 04/2021/TT-BTC"
+      ],
+      [
+        "Quỹ Bảo Hiểm Xe Cơ Giới",
+        "Số Giấy Chứng Nhận Bảo Hiểm"
+      ],
+      [
+        "Hội Đồng Quản Lý Quỹ",
+        "Quỹ Bảo Hiểm Xe Cơ Giới"
+      ]
+    ],
+    "count": 45,
+    "create_time": 1767774139,
+    "update_time": 1767774139,
+    "_id": "doc-477096c7b39623768fb31174f74f34c9"
+  },
+  "doc-30363226c56ef0d75670301638693f9c": {
+    "relation_pairs": [
+      [
+        "Giấy Yêu Cầu Bảo Hiểm",
+        "Người Được Bảo Hiểm (NĐBH)"
+      ],
+      [
+        "Hợp Đồng Bảo Hiểm",
+        "Người Được Bảo Hiểm (NĐBH)"
+      ],
+      [
+        "NĐBH",
+        "Quyền Lợi Bồi Thường"
+      ],
+      [
+        "Hợp đồng Bảo Hiểm",
+        "Thời Hạn Bảo Hiểm"
+      ],
+      [
+        "Tổn Hại Do Sét Đánh",
+        "VNI"
+      ],
+      [
+        "Hợp Đồng Bảo Hiểm",
+        "Phạm Vi Bảo Hiểm"
+      ],
+      [
+        "Cháy do Lửa Ngầm",
+        "Loại Trừ Bảo Hiểm"
+      ],
+      [
+        "Mất Quyền Lợi",
+        "NĐBH"
+      ],
+      [
+        "Chấm Dứt Hợp Đồng Bảo Hiểm",
+        "VNI"
+      ],
+      [
+        "Chi Phí Bổ Sung",
+        "Vỡ hoặc Tràn Nước"
+      ],
+      [
+        "NĐBH",
+        "Thông Báo Thay Đổi"
+      ],
+      [
+        "Loại Trừ Bảo Hiểm",
+        "Nổ"
+      ],
+      [
+        "Quy Tắc Bảo Hiểm Nhà Tư Nhân (VNI) 2019",
+        "Tổng Công Ty Cổ Phần Bảo Hiểm Hàng Không (VNI)"
+      ],
+      [
+        "Hợp Đồng Bảo Hiểm Khác",
+        "VNI"
+      ],
+      [
+        "Giới Hạn Bồi Thường",
+        "VNI"
+      ],
+      [
+        "Giông, Bão, Lũ Lụt",
+        "Mở Rộng I"
+      ],
+      [
+        "Hồ Sơ Khiếu Nại",
+        "Trách Nhiệm Của Người Được Bảo Hiểm"
+      ],
+      [
+        "Hồ Sơ Khiếu Nại",
+        "NĐBH"
+      ],
+      [
+        "Ngôi Nhà Được Bảo Hiểm",
+        "Tổn Thất Tiền Thuê Nhà"
+      ],
+      [
+        "Chứng Từ Liên Quan",
+        "VNI"
+      ],
+      [
+        "Loại Trừ Bảo Hiểm",
+        "Nguyên Liệu/Vũ Khí Hạt Nhân"
+      ],
+      [
+        "Loại Trừ Bảo Hiểm",
+        "Phóng Xạ Ion Hóa/Nhiễm Phóng Xạ"
+      ],
+      [
+        "NĐBH",
+        "VNI"
+      ],
+      [
+        "Thiệt Hại",
+        "Trách Nhiệm Của Người Được Bảo Hiểm"
+      ],
+      [
+        "Ngôi Nhà Được Bảo Hiểm",
+        "Tài Sản Không Được Bảo Hiểm"
+      ],
+      [
+        "Giải Quyết Tranh Chấp",
+        "Tòa Án Tại Việt Nam"
+      ],
+      [
+        "Hợp đồng Bảo Hiểm",
+        "NĐBH"
+      ],
+      [
+        "Mở Rộng I",
+        "Trộm Cướp"
+      ],
+      [
+        "NĐBH",
+        "Thiệt Hại Do Nổ"
+      ],
+      [
+        "Thông Tin Về Hợp Đồng Bảo Hiểm Khác",
+        "Trách Nhiệm Của Người Được Bảo Hiểm"
+      ],
+      [
+        "Hợp Đồng Bảo Hiểm",
+        "Điều Khoản Bổ Sung"
+      ],
+      [
+        "Loại Trừ Bảo Hiểm",
+        "Tên Lửa/Vũ Khí Chiến Tranh"
+      ],
+      [
+        "NĐBH",
+        "Phí Bảo Hiểm"
+      ],
+      [
+        "Giấy Chứng Nhận Bảo Hiểm",
+        "Tổng Công Ty Cổ Phần Bảo Hiểm Hàng Không (VNI)"
+      ],
+      [
+        "Người Được Bảo Hiểm (NĐBH)",
+        "Tổng Công Ty Cổ Phần Bảo Hiểm Hàng Không (VNI)"
+      ],
+      [
+        "Ngôi Nhà Được Bảo Hiểm",
+        "Tài Sản Được Bảo Hiểm"
+      ]
+    ],
+    "count": 36,
+    "create_time": 1767774143,
+    "update_time": 1767774143,
+    "_id": "doc-30363226c56ef0d75670301638693f9c"
+  },
+  "doc-e4906601c7c35ae1e3b78538847585a8": {
+    "relation_pairs": [
+      [
+        "Hiểm Họa Của Biển",
+        "Tai Nạn Bất Ngờ"
+      ],
+      [
+        "Điều Trị Phục Hồi Chức Năng",
+        "Đại Lý Bảo Hiểm"
+      ],
+      [
+        "Excluded Risks",
+        "Rủi Ro"
+      ],
+      [
+        "Hợp Đồng Đại Lý",
+        "Đại Lý Tàu Biển"
+      ],
+      [
+        "Các Rủi Ro Khác",
+        "Rủi Ro"
+      ],
+      [
+        "Bảo Hiểm Đường Hầm",
+        "Tổn Thất Phát Sinh"
+      ],
+      [
+        "Chủ Xe Cũ",
+        "Chủ Xe Mới"
+      ],
+      [
+        "Biến Chứng Thai Sản",
+        "Thuật Ngữ Bảo Hiểm Phi Nhân Thọ"
+      ],
+      [
+        "Tàu Container",
+        "Vận Đơn Tàu Chợ"
+      ],
+      [
+        "Tiền Ký Quỹ",
+        "Tổn Thất Chung"
+      ],
+      [
+        "Vận Đơn Chuyển Tải",
+        "Vận Đơn Chở Suốt"
+      ],
+      [
+        "Bảo Hiểm Cầu",
+        "Bảo Hiểm Cầu Đang Xây Dựng"
+      ],
+      [
+        "Tổn Thất Riêng",
+        "Việc Kiểm Đếm Hàng"
+      ],
+      [
+        "Cước Phí",
+        "Hợp Đồng Bồi Thường"
+      ],
+      [
+        "Bảo Hiểm Chi Phí Y Tế",
+        "Mức Miễn Giảm"
+      ],
+      [
+        "Công Ty Giám Định",
+        "Người Được Bảo Hiểm"
+      ],
+      [
+        "Biểu Cước",
+        "Cước Vận Chuyển"
+      ],
+      [
+        "Ngày Bốc Và Dỡ Hàng Tính Gộp",
+        "Ngày Bốc/Dỡ Chậm"
+      ],
+      [
+        "Bảo Hiểm Thiệt Hại Động Cơ Do Hiện Tượng Thủy Kích",
+        "Bảo Hiểm Xe Ô Tô Và Xe Máy Chuyên Dùng"
+      ],
+      [
+        "Ngày Bốc/Dỡ Chậm",
+        "Thời Gian Chờ"
+      ],
+      [
+        "Điều Khoản Chiến Tranh",
+        "Điều Khoản Giao Hàng Qua Mạn Tàu"
+      ],
+      [
+        "Chủ Hàng",
+        "Người Thuê Bao"
+      ],
+      [
+        "Giá Trị Phục Hồi",
+        "Số Tiền Bảo Hiểm"
+      ],
+      [
+        "Chủ Tàu",
+        "Công Ty Bảo Hiểm"
+      ],
+      [
+        "Cước Dự Kiến",
+        "Cước Trả Thủy"
+      ],
+      [
+        "Cước Thuê Chuyến",
+        "Lịch Trình Chạy Tàu"
+      ],
+      [
+        "Chủ Tàu",
+        "Tổn Thất Hàng Hóa"
+      ],
+      [
+        "Phí Làm Hàng",
+        "Phí Điều Chỉnh Giá Nhiên Liệu"
+      ],
+      [
+        "Bảo Hiểm Thân Tàu",
+        "Bảo Hiểm Đường Hầm"
+      ],
+      [
+        "Giấy Chứng Nhận Hạng Thứ",
+        "Sổ Danh Bạ của Lloyd's"
+      ],
+      [
+        "Vận Đơn Không Lưu Thông",
+        "Vận Đơn Lưu Thông"
+      ],
+      [
+        "Cước Chết",
+        "Cước Khoán"
+      ],
+      [
+        "Bảo Đảm Đóng Góp Tổn Thất Chung",
+        "Bệnh / Thương Tật Có Sẵn"
+      ],
+      [
+        "Cước Theo Tỷ Lệ Đoạn Đường",
+        "Hợp Đồng Thuê Tàu"
+      ],
+      [
+        "Rủi Ro Ô Nhiễm",
+        "Thuyền Viên"
+      ],
+      [
+        "Hợp Đồng Thuê Tàu Chuyến",
+        "Ngày Bốc/Dỡ Chậm"
+      ],
+      [
+        "Lloyd's",
+        "Máy Chính"
+      ],
+      [
+        "Chi Phí Y Tế Hợp Lý",
+        "Chi Phí Điều Trị Trước Khi Nhập Viện"
+      ],
+      [
+        "Rủi Ro Phạt Vạ",
+        "Rủi Ro Ô Nhiễm"
+      ],
+      [
+        "Hợp Đồng Đại Lý",
+        "Lỗi Hàng Vận"
+      ],
+      [
+        "Lịch Trình Chạy Tàu",
+        "Việc Thuê Chuyến Định Hạn"
+      ],
+      [
+        "Bảo Hiểm Chi Phí Y Tế",
+        "Mạng Lưới Giải Quyết Bảo Lãnh Viện Phí"
+      ],
+      [
+        "Người Được Bảo Hiểm",
+        "Tổn Thất Hàng Hóa"
+      ],
+      [
+        "Công Ước Brúc-xen 1924",
+        "Điều Khoản Đứng Đầu"
+      ],
+      [
+        "Bảo Hiểm Bổ Sung Chương Trình Chăm Sóc Y Tế",
+        "Bảo Hiểm Chi Phí Y Tế"
+      ],
+      [
+        "Chuyến Định Hạn",
+        "Quy Định Cước Phụ Trội"
+      ],
+      [
+        "Giấy Chứng Nhận Hạng Thứ",
+        "Lloyd's"
+      ],
+      [
+        "Số Tiền Bảo Hiểm",
+        "Thời Gian Bốc/Dỡ Hàng"
+      ],
+      [
+        "Bảo Lãnh Để Nhận Hàng",
+        "Chi Phí Y Tế Hợp Lý"
+      ],
+      [
+        "Giới Hạn Bồi Thường",
+        "Hợp Đồng Vận Tải"
+      ],
+      [
+        "Bảo Hiểm Chi Phí Chữa Răng",
+        "Doanh Nghiệp Bảo Hiểm"
+      ],
+      [
+        "Paris",
+        "Phòng Thương Mại Quốc Tế"
+      ],
+      [
+        "Bản Khai Gói Chở Kèm",
+        "Thuật Ngữ Bảo Hiểm Phi Nhân Thọ"
+      ],
+      [
+        "Cước Khống",
+        "Cước Trả Tại Đích Đến"
+      ],
+      [
+        "Công Ty ABS",
+        "Công Ty Đăng Kiểm Tàu Việt Nam"
+      ],
+      [
+        "Mức Miễn Giảm",
+        "Mức Miễn Thường Có Khấu Trừ"
+      ],
+      [
+        "Liên Doanh Chuyên Chở",
+        "Liên Đoàn Bảo Hiểm Lloyd's"
+      ],
+      [
+        "Hợp Đồng Mẫu Gencon",
+        "Điều Khoản Đến Gần"
+      ],
+      [
+        "Bảo Hiểm",
+        "Hao Hụt Tự Nhiên"
+      ],
+      [
+        "Bảo Hiểm Bảo Vệ Người Đi Biển",
+        "Nằm Viện"
+      ],
+      [
+        "Giấy Phép Xuất Kho Ngoại Quan",
+        "Thủ Tục Xuất Nhập Khẩu"
+      ],
+      [
+        "Ngày Niên Lịch",
+        "Thuật Ngữ Bảo Hiểm Phi Nhân Thọ"
+      ],
+      [
+        "Tàu Chở Hàng Lóng",
+        "Tàu Chợ"
+      ],
+      [
+        "Biên Khả Năng Thanh Toán",
+        "Thuật Ngữ Bảo Hiểm Phi Nhân Thọ"
+      ],
+      [
+        "Công Ty NK",
+        "Công Ty Đăng Kiểm Tàu Việt Nam"
+      ],
+      [
+        "Bảo Hiểm Chết Vì Tai Nạn",
+        "Thuật Ngữ Bảo Hiểm Phi Nhân Thọ"
+      ],
+      [
+        "Người Trên Xe",
+        "Xe Cơ Giới"
+      ],
+      [
+        "Cước Trả Trước",
+        "Hợp Đồng Thuê Tàu"
+      ],
+      [
+        "Thời Gian Nhận Hàng",
+        "Thời Gian Trung Chuyển"
+      ],
+      [
+        "Công Ty BV",
+        "Công Ty Đăng Kiểm Tàu Việt Nam"
+      ],
+      [
+        "Giao Hàng Từng Phần",
+        "Giá Trị Bảo Hiểm"
+      ],
+      [
+        "Hợp Đồng Thuê Tàu",
+        "Tiền Tạm Ứng Trên Cước"
+      ],
+      [
+        "Bảo Hiểm Căn Hộ Tập Thể",
+        "Bảo Hiểm Cải Tạo Và Nâng Cấp Nhà"
+      ],
+      [
+        "Điều Trị Nguyên Trú",
+        "Điều Trị Nội Trú"
+      ],
+      [
+        "Rủi Ro Phạt Vạ",
+        "Đối Tượng Của Hợp Đồng Bảo Hiểm Trách Nhiệm Dân Sự"
+      ],
+      [
+        "Cảng Đăng Ký",
+        "Phí Buộc Dây"
+      ],
+      [
+        "Cước Phí Bốc Dỡ",
+        "Hợp Đồng Bồi Thường"
+      ],
+      [
+        "Cước Trả Trước",
+        "Cước Vận Chuyển"
+      ],
+      [
+        "Hatch Tally",
+        "Tallyman"
+      ],
+      [
+        "Tai Họa Bất Ngờ",
+        "Thiên Tai"
+      ],
+      [
+        "Bản Dự Thảo Hợp Đồng Thuê Tàu",
+        "Thuật Ngữ Bảo Hiểm Phi Nhân Thọ"
+      ],
+      [
+        "Giám Định Chấm Dứt Thuê",
+        "Giám Định Tiếp Nhận Thuê"
+      ],
+      [
+        "Đối Tượng Của Hợp Đồng Bảo Hiểm Trách Nhiệm Dân Sự",
+        "Đối Với Di Dời Xác Tàu"
+      ],
+      [
+        "Hợp Đồng Bảo Hiểm",
+        "Ngày Tàu Đến Cảng Bốc Hàng"
+      ],
+      [
+        "Điều Trị Sau Khi Xuất Viện",
+        "Điều Trị Y Tế"
+      ],
+      [
+        "Chi Phí Phát Sinh",
+        "Rủi Ro Phạt Vạ"
+      ],
+      [
+        "Tai Nạn",
+        "Thiên Tai"
+      ],
+      [
+        "Hợp Đồng Đại Lý",
+        "Lượng Rẽ Nước Tàu Rỗng"
+      ],
+      [
+        "Bảo Hiểm Chi Phí Y Tế",
+        "Bệnh Bất Ngờ"
+      ],
+      [
+        "Cam Kết Để Nhận Vận Đơn Sạch",
+        "Chi Phí Được Thanh Toán"
+      ],
+      [
+        "Điều Trị Phục Hồi Chức Năng",
+        "Điều Trị Y Tế"
+      ],
+      [
+        "Cảng Thủy Triều",
+        "Phí Thả Neo"
+      ],
+      [
+        "Băng Chuyền",
+        "Thuật Ngữ Bảo Hiểm Phi Nhân Thọ"
+      ],
+      [
+        "Phí Nhận Container",
+        "Quy Tắc Hague"
+      ],
+      [
+        "Chăm Sóc Thai Sản",
+        "Người Được Bảo Hiểm"
+      ],
+      [
+        "Vận Đơn Gộp Chung Hàng",
+        "Vận Đơn Nhận Hàng Trước Để Chở"
+      ],
+      [
+        "Công Ty Giám Định",
+        "Công Ty Đăng Kiểm Tàu Biển Lloyd's"
+      ],
+      [
+        "Bảo Hiểm Rò Rỉ Hệ Thống Tự Động Phun Nước Chống Cháy",
+        "Bảo Hiểm Trách Nhiệm Pháp Lý Do Rò Rỉ Hệ Thống Tự Động Phun Nước Chống Cháy"
+      ],
+      [
+        "Hàng Hóa",
+        "Tàu"
+      ],
+      [
+        "Phòng và Giường Điều Trị",
+        "Rủi Ro Được Bảo Hiểm"
+      ],
+      [
+        "Tàu Chở Xà Lan",
+        "Tàu Chợ"
+      ],
+      [
+        "Nằm Viện",
+        "Phòng và Giường Điều Trị"
+      ],
+      [
+        "Đại Lý Giao Nhận",
+        "Đối Tượng Của Hợp Đồng Bảo Hiểm Trách Nhiệm Dân Sự"
+      ],
+      [
+        "Thời Gian Nhận Hàng",
+        "Tiền Ký Quỹ Tổn Thất Chung"
+      ],
+      [
+        "Hợp Đồng Thuê Tàu",
+        "Hợp Đồng Đại Lý"
+      ],
+      [
+        "Cước Trả Tại Cảng Đi",
+        "Cước Vận Chuyển"
+      ],
+      [
+        "Điều Trị Cấp Cứu",
+        "Điều Trị Y Tế"
+      ],
+      [
+        "Sự Bảo Đảm",
+        "Tai Nạn"
+      ],
+      [
+        "Điều Kiện Bốc Dỡ Tàu Chợ",
+        "Đơn Vị Vận Tải"
+      ],
+      [
+        "Ngày Có Hiệu Lực Của Hợp Đồng Bảo Hiểm",
+        "Ngày Tái Tục Bảo Hiểm"
+      ],
+      [
+        "Bảo Hiểm Các Phương Tiện Trợ Giúp Giao Thông",
+        "Bảo Hiểm Cây Trồng"
+      ],
+      [
+        "Chủ Xe Cũ",
+        "Phí Hoàn"
+      ],
+      [
+        "Hoa Hồng Đại Lý",
+        "Đại Lý Tàu Biển"
+      ],
+      [
+        "Người Vận Tải Công Cộng Không Tàu",
+        "Người Vận Tải Nối Tiếp"
+      ],
+      [
+        "Chi Phí Điều Trị Trước Khi Nhập Viện",
+        "Người Được Bảo Hiểm"
+      ],
+      [
+        "Bảo Hiểm Rò Rỉ Hệ Thống Tự Động Phun Nước Chống Cháy Sprinkler",
+        "Bảo Hiểm Trách Nhiệm Pháp Lý Do Rò Rỉ Hệ Thống Tự Động Phun Nước Chống Cháy Sprinkler"
+      ],
+      [
+        "Chi Phí Y Tế",
+        "Lần Khám/Điều Trị"
+      ],
+      [
+        "Hệ Thống Bơm",
+        "Lloyd's"
+      ],
+      [
+        "Chủ Tàu",
+        "Người Được Bảo Hiểm"
+      ],
+      [
+        "Vứt Hàng Xuống Biển",
+        "Điều Khoản Chiến Tranh"
+      ],
+      [
+        "Biên Nhận",
+        "Tiền Ký Quỹ"
+      ],
+      [
+        "Điều Khoản Đình Thuê",
+        "Điều Kiện Hợp Đồng"
+      ],
+      [
+        "Lloyd's",
+        "Máy Phụ"
+      ],
+      [
+        "Bảo Hiểm Chi Phí Y Tế",
+        "Chi Phí Y Tế"
+      ],
+      [
+        "Chính Sách Bảo Hiểm",
+        "Điều Kiện Giao Hàng"
+      ],
+      [
+        "Người Gửi Hàng",
+        "Người Vận Tải Đa Phương Thức"
+      ],
+      [
+        "Công Ty Lloyd",
+        "Công Ty Đăng Kiểm Tàu Việt Nam"
+      ],
+      [
+        "Chăm Sóc Trẻ Mới Sinh",
+        "Người Được Bảo Hiểm"
+      ],
+      [
+        "Phòng Thương Mại Quốc Tế",
+        "Phòng và Giường Điều Trị"
+      ],
+      [
+        "Ngày Có Hiệu Lực Của Hợp Đồng Bảo Hiểm",
+        "Người Phụ Thuộc"
+      ],
+      [
+        "Vận Đơn",
+        "Điều Khoản Hợp Đồng"
+      ],
+      [
+        "Giám Định Tai Nạn",
+        "Giải Quyết Hậu Quả Tai Nạn"
+      ],
+      [
+        "Hàng Chuyên Chở",
+        "Người Thuê Bao"
+      ],
+      [
+        "Điều Khoản Đến Gần",
+        "Điều Khoản Đứng Đầu"
+      ],
+      [
+        "Bảo Hiểm Bắt Cóc",
+        "Hợp Đồng Thuê Tàu"
+      ],
+      [
+        "Công Ty Giám Định",
+        "Phạm Vi Bảo Hiểm"
+      ],
+      [
+        "Giấy Chứng Nhận Quốc Tế Mức Chuyên Chở",
+        "Giấy Phép Xuất Kho Ngoại Quan"
+      ],
+      [
+        "Điều Khoản Đình Thuê",
+        "Điều Khoản Đứng Đầu"
+      ],
+      [
+        "Bảo Hiểm Tài Sản Về Trộm Cắp Tài Sản Cá Nhân",
+        "Bảo Hiểm Vật Chất Xe Đối Với Xe Tạm Nhập, Tái Xuất"
+      ],
+      [
+        "Điều Trị Phục Hồi Chức Năng",
+        "Điều Trị Sau Khi Xuất Viện"
+      ],
+      [
+        "Cách Làm Đóng Bao Hàng Rời",
+        "Điều Trị Phục Hồi Chức Năng"
+      ],
+      [
+        "Cảng Gửi",
+        "Cảng Đích"
+      ],
+      [
+        "Trọng Lượng Bao Bì",
+        "Tổn Thất Chung"
+      ],
+      [
+        "Người Chuyên Chở",
+        "Vận Đơn Nhận Hàng Trước Để Chở"
+      ],
+      [
+        "Bảo Hiểm Gia Đình",
+        "Bệnh Viện"
+      ],
+      [
+        "Tổn Thất Toàn Bộ Thực Tế",
+        "Việc Kiểm Đếm Hàng"
+      ],
+      [
+        "Thuê (Tàu) Chuyến",
+        "Thuê Bao (Con Tàu)"
+      ],
+      [
+        "Cước Vận Chuyển",
+        "Lịch Trình Chạy Tàu"
+      ],
+      [
+        "Bảo Hiểm Chi Phí Phẫu Thuật",
+        "Rủi Ro Được Bảo Hiểm"
+      ],
+      [
+        "Công ước Quốc Tế Về Mức Chuyên Chở Tàu Biển",
+        "Giấy Chứng Nhận"
+      ],
+      [
+        "Thương Tật Bộ Phận Vĩnh Viễn",
+        "Thương Tật Toàn Bộ Vĩnh Viễn"
+      ],
+      [
+        "Sức Chở Hàng",
+        "Tàu Chở Hàng Lóng"
+      ],
+      [
+        "Giải Quyết Hậu Quả Tai Nạn",
+        "Giới Hạn Bồi Thường"
+      ],
+      [
+        "Cước Vận Chuyển",
+        "Phụ Phí"
+      ],
+      [
+        "Thời Gian Bốc Dỡ Bù Trừ",
+        "Thời Gian Bốc Dỡ Không Bù Trừ"
+      ],
+      [
+        "Bảo Hiểm Thiết Bị Của Thầy Thuốc Và Bác Sỹ Phẫu Thuật",
+        "Bảo Hiểm Thiệt Hại Động Cơ Do Hiện Tượng Thủy Kích"
+      ],
+      [
+        "Hiệp Hội Vận Tải Tàu Chợ",
+        "Điều Kiện Bốc Dỡ Tàu Chợ"
+      ],
+      [
+        "Quy Tắc Vận Chuyển Hàng Nguy Hiểm (IMDG Code)",
+        "Rủi Ro"
+      ],
+      [
+        "Giấy Chứng Nhận Đăng Ký",
+        "Đăng Kiểm Tàu"
+      ],
+      [
+        "Liên Đoàn Bảo Hiểm Lloyd's",
+        "Liên Đoàn Quốc Tế Các Hiệp Hội Giao Nhận"
+      ],
+      [
+        "Lloyd's",
+        "Quy Tắc và Tiêu Chuẩn Kỹ Thuật của Lloyd's"
+      ],
+      [
+        "Hợp Đồng Thuê Tàu Định Hạn",
+        "Điều Khoản Đình Thuê"
+      ],
+      [
+        "Quy Tắc Hague",
+        "Quy Tắc Hamburg"
+      ],
+      [
+        "Việc Chuyển Đổi Địa Chỉ",
+        "Việc Kiểm Đếm Hàng"
+      ],
+      [
+        "Bảo Hiểm Rò Rỉ Hệ Thống Tự Động Phun Nước Chống Cháy Sprinkler",
+        "Bảo Hiểm Trách Nhiệm Pháp Lý Do Rò Rỉ Hệ Thống"
+      ],
+      [
+        "Bảo Hiểm Bảo Vệ Người Đi Biển",
+        "Phí Bảo Hiểm"
+      ],
+      [
+        "Cước Trả Khi Nhận",
+        "Cước Vận Chuyển"
+      ],
+      [
+        "Chi Phí Phát Sinh",
+        "Hợp Đồng Bồi Thường"
+      ],
+      [
+        "Bảo Hiểm P&I",
+        "Hợp Đồng Bồi Thường"
+      ],
+      [
+        "Hàng Rời",
+        "Thông Gió"
+      ],
+      [
+        "Điều Khoản Đến Gần",
+        "Điều Kiện Hợp Đồng"
+      ],
+      [
+        "Bảo Hiểm Lựa Chọn Cơ Sở Sửa Chữa",
+        "Bảo Hiểm Mới Thay Cũ"
+      ],
+      [
+        "Cảng Phí",
+        "Cảng Đăng Ký"
+      ],
+      [
+        "Miễn Thường",
+        "Người Được Bảo Hiểm"
+      ],
+      [
+        "Giới Hạn Bồi Thường",
+        "Luật Pháp Có Liên Quan"
+      ],
+      [
+        "Hợp Đồng Đại Lý",
+        "Lỗi Thương Mại Về Quản Lý Và Làm Hàng"
+      ]
+    ],
+    "count": 176,
+    "create_time": 1767774207,
+    "update_time": 1767774207,
+    "_id": "doc-e4906601c7c35ae1e3b78538847585a8"
+  }
+}

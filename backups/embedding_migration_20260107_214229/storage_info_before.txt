@@ -1,0 +1,12 @@
+total 86304
+-rw-r--r--  1 macbook  staff    13K Jan  7 15:23 kv_store_doc_status.json
+-rw-r--r--  1 macbook  staff   205K Jan  7 15:23 kv_store_entity_chunks.json
+-rw-r--r--  1 macbook  staff   405K Jan  7 15:20 kv_store_full_docs.json
+-rw-r--r--  1 macbook  staff    38K Jan  7 15:23 kv_store_full_entities.json
+-rw-r--r--  1 macbook  staff    57K Jan  7 15:23 kv_store_full_relations.json
+-rw-r--r--  1 macbook  staff   4.8M Jan  7 15:51 kv_store_llm_response_cache.json
+-rw-r--r--  1 macbook  staff   168K Jan  7 15:23 kv_store_relation_chunks.json
+-rw-r--r--  1 macbook  staff   528K Jan  7 15:23 kv_store_text_chunks.json
+-rw-r--r--  1 macbook  staff   2.8M Jan  7 15:23 vdb_chunks.json
+-rw-r--r--  1 macbook  staff    20M Jan  7 15:23 vdb_entities.json
+-rw-r--r--  1 macbook  staff    14M Jan  7 15:23 vdb_relationships.json

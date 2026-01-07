@@ -1,0 +1,5253 @@
+{
+  "Hậu Quả Pháp Lý<SEP>Phí TNDS": {
+    "chunk_ids": [
+      "chunk-0637977fe11ed243c73668deea481ab5"
+    ],
+    "count": 1,
+    "create_time": 1767773485,
+    "update_time": 1767773485,
+    "_id": "Hậu Quả Pháp Lý<SEP>Phí TNDS"
+  },
+  "Bộ Công An<SEP>Vi Phạm": {
+    "chunk_ids": [
+      "chunk-d73f9bb4add2a6aec143c5fcfa39f81b"
+    ],
+    "count": 1,
+    "create_time": 1767773485,
+    "update_time": 1767773485,
+    "_id": "Bộ Công An<SEP>Vi Phạm"
+  },
+  "Bồi Thường<SEP>Quỹ Bảo Hiểm Xe Cơ Giới": {
+    "chunk_ids": [
+      "chunk-0637977fe11ed243c73668deea481ab5"
+    ],
+    "count": 1,
+    "create_time": 1767773485,
+    "update_time": 1767773485,
+    "_id": "Bồi Thường<SEP>Quỹ Bảo Hiểm Xe Cơ Giới"
+  },
+  "Gian Lận<SEP>Đơn Phương Đình Chỉ": {
+    "chunk_ids": [
+      "chunk-0637977fe11ed243c73668deea481ab5"
+    ],
+    "count": 1,
+    "create_time": 1767773485,
+    "update_time": 1767773485,
+    "_id": "Gian Lận<SEP>Đơn Phương Đình Chỉ"
+  },
+  "DNBH<SEP>Phí Bảo Hiểm": {
+    "chunk_ids": [
+      "chunk-8f69e382e34f9bfdcaedb5eb2d8bc913"
+    ],
+    "count": 1,
+    "create_time": 1767773485,
+    "update_time": 1767773485,
+    "_id": "DNBH<SEP>Phí Bảo Hiểm"
+  },
+  "Chủ Xe<SEP>Xe": {
+    "chunk_ids": [
+      "chunk-d73f9bb4add2a6aec143c5fcfa39f81b"
+    ],
+    "count": 1,
+    "create_time": 1767773485,
+    "update_time": 1767773485,
+    "_id": "Chủ Xe<SEP>Xe"
+  },
+  "Hồ Sơ Bồi Thường<SEP>Thủ Tục Bồi Thường": {
+    "chunk_ids": [
+      "chunk-0637977fe11ed243c73668deea481ab5"
+    ],
+    "count": 1,
+    "create_time": 1767773485,
+    "update_time": 1767773485,
+    "_id": "Hồ Sơ Bồi Thường<SEP>Thủ Tục Bồi Thường"
+  },
+  "Chính Phủ<SEP>Nghị Định 03/2021/NĐ-CP": {
+    "chunk_ids": [
+      "chunk-8f69e382e34f9bfdcaedb5eb2d8bc913"
+    ],
+    "count": 1,
+    "create_time": 1767773485,
+    "update_time": 1767773485,
+    "_id": "Chính Phủ<SEP>Nghị Định 03/2021/NĐ-CP"
+  },
+  "Xe<SEP>Đăng Ký": {
+    "chunk_ids": [
+      "chunk-d73f9bb4add2a6aec143c5fcfa39f81b"
+    ],
+    "count": 1,
+    "create_time": 1767773487,
+    "update_time": 1767773487,
+    "_id": "Xe<SEP>Đăng Ký"
+  },
+  "Nghị Định 03/2021/NĐ-CP<SEP>Việt Nam": {
+    "chunk_ids": [
+      "chunk-8f69e382e34f9bfdcaedb5eb2d8bc913"
+    ],
+    "count": 1,
+    "create_time": 1767773487,
+    "update_time": 1767773487,
+    "_id": "Nghị Định 03/2021/NĐ-CP<SEP>Việt Nam"
+  },
+  "Bộ Tài Chính<SEP>Quỹ Bảo Hiểm Xe Cơ Giới": {
+    "chunk_ids": [
+      "chunk-0637977fe11ed243c73668deea481ab5",
+      "chunk-02afddd8bbdebae5f704bce49674b3a2"
+    ],
+    "count": 2,
+    "update_time": 1767774111,
+    "_id": "Bộ Tài Chính<SEP>Quỹ Bảo Hiểm Xe Cơ Giới"
+  },
+  "Bồi Thường<SEP>Mức Trách Nhiệm": {
+    "chunk_ids": [
+      "chunk-0637977fe11ed243c73668deea481ab5"
+    ],
+    "count": 1,
+    "create_time": 1767773487,
+    "update_time": 1767773487,
+    "_id": "Bồi Thường<SEP>Mức Trách Nhiệm"
+  },
+  "DNBH<SEP>Giấy Chứng Nhận Bảo Hiểm": {
+    "chunk_ids": [
+      "chunk-8f69e382e34f9bfdcaedb5eb2d8bc913"
+    ],
+    "count": 1,
+    "create_time": 1767773487,
+    "update_time": 1767773487,
+    "_id": "DNBH<SEP>Giấy Chứng Nhận Bảo Hiểm"
+  },
+  "Bộ Tài Chính<SEP>Cơ Sở Dữ Liệu Bảo Hiểm": {
+    "chunk_ids": [
+      "chunk-0637977fe11ed243c73668deea481ab5"
+    ],
+    "count": 1,
+    "create_time": 1767773488,
+    "update_time": 1767773488,
+    "_id": "Bộ Tài Chính<SEP>Cơ Sở Dữ Liệu Bảo Hiểm"
+  },
+  "Xe<SEP>Đăng Kiểm": {
+    "chunk_ids": [
+      "chunk-d73f9bb4add2a6aec143c5fcfa39f81b"
+    ],
+    "count": 1,
+    "create_time": 1767773488,
+    "update_time": 1767773488,
+    "_id": "Xe<SEP>Đăng Kiểm"
+  },
+  "Nghị Định 03/2021/NĐ-CP<SEP>Quỹ Bảo Hiểm Xe Cơ Giới": {
+    "chunk_ids": [
+      "chunk-8f69e382e34f9bfdcaedb5eb2d8bc913"
+    ],
+    "count": 1,
+    "create_time": 1767773488,
+    "update_time": 1767773488,
+    "_id": "Nghị Định 03/2021/NĐ-CP<SEP>Quỹ Bảo Hiểm Xe Cơ Giới"
+  },
+  "Bồi Thường<SEP>Doanh Nghiệp Bảo Hiểm": {
+    "chunk_ids": [
+      "chunk-d73f9bb4add2a6aec143c5fcfa39f81b"
+    ],
+    "count": 1,
+    "create_time": 1767773488,
+    "update_time": 1767773488,
+    "_id": "Bồi Thường<SEP>Doanh Nghiệp Bảo Hiểm"
+  },
+  "CSDL Bảo Hiểm TNDS<SEP>Nghị Định 03/2021/NĐ-CP": {
+    "chunk_ids": [
+      "chunk-8f69e382e34f9bfdcaedb5eb2d8bc913"
+    ],
+    "count": 1,
+    "create_time": 1767773490,
+    "update_time": 1767773490,
+    "_id": "CSDL Bảo Hiểm TNDS<SEP>Nghị Định 03/2021/NĐ-CP"
+  },
+  "Bộ Tài Chính<SEP>Mức Trách Nhiệm": {
+    "chunk_ids": [
+      "chunk-d73f9bb4add2a6aec143c5fcfa39f81b"
+    ],
+    "count": 1,
+    "create_time": 1767773490,
+    "update_time": 1767773490,
+    "_id": "Bộ Tài Chính<SEP>Mức Trách Nhiệm"
+  },
+  "Bảng Quy Định Trả Tiền Bồi Thường<SEP>Bồi Thường": {
+    "chunk_ids": [
+      "chunk-d73f9bb4add2a6aec143c5fcfa39f81b"
+    ],
+    "count": 1,
+    "create_time": 1767773490,
+    "update_time": 1767773490,
+    "_id": "Bảng Quy Định Trả Tiền Bồi Thường<SEP>Bồi Thường"
+  },
+  "Hợp Đồng TNDS Bắt Buộc<SEP>Nghị Định 03/2021/NĐ-CP": {
+    "chunk_ids": [
+      "chunk-8f69e382e34f9bfdcaedb5eb2d8bc913"
+    ],
+    "count": 1,
+    "create_time": 1767773491,
+    "update_time": 1767773491,
+    "_id": "Hợp Đồng TNDS Bắt Buộc<SEP>Nghị Định 03/2021/NĐ-CP"
+  },
+  "Bộ Tài Chính<SEP>Nghị Định Thư Số 5 (ASEAN)": {
+    "chunk_ids": [
+      "chunk-d73f9bb4add2a6aec143c5fcfa39f81b"
+    ],
+    "count": 1,
+    "create_time": 1767773491,
+    "update_time": 1767773491,
+    "_id": "Bộ Tài Chính<SEP>Nghị Định Thư Số 5 (ASEAN)"
+  },
+  "Bồi Thường<SEP>Tai Nạn": {
+    "chunk_ids": [
+      "chunk-d73f9bb4add2a6aec143c5fcfa39f81b"
+    ],
+    "count": 1,
+    "create_time": 1767773492,
+    "update_time": 1767773492,
+    "_id": "Bồi Thường<SEP>Tai Nạn"
+  },
+  "Quyền Lợi Của Người Được Bảo Hiểm<SEP>Vòng Hay Thương Tật Thân Thể": {
+    "chunk_ids": [
+      "chunk-a64d1447c233dd6da88f359d46f83296"
+    ],
+    "count": 1,
+    "create_time": 1767773571,
+    "update_time": 1767773571,
+    "_id": "Quyền Lợi Của Người Được Bảo Hiểm<SEP>Vòng Hay Thương Tật Thân Thể"
+  },
+  "Bảo Hiểm Xe Tập Lái Sát Hạch<SEP>Chủ Xe Cơ Giới": {
+    "chunk_ids": [
+      "chunk-0e154220ff772448c42b4c860ada981f"
+    ],
+    "count": 1,
+    "create_time": 1767773571,
+    "update_time": 1767773571,
+    "_id": "Bảo Hiểm Xe Tập Lái Sát Hạch<SEP>Chủ Xe Cơ Giới"
+  },
+  "Chủ Xe<SEP>MIC": {
+    "chunk_ids": [
+      "chunk-6330a13359a7d027fdfd0bdcc6f0496e",
+      "chunk-f246955b88f5761f893e959b8a280ac5"
+    ],
+    "count": 2,
+    "create_time": 1767773571,
+    "update_time": 1767773571,
+    "_id": "Chủ Xe<SEP>MIC"
+  },
+  "Mức Trách Nhiệm Bảo Hiểm<SEP>Quyền Lợi Bảo Hiểm": {
+    "chunk_ids": [
+      "chunk-a64d1447c233dd6da88f359d46f83296"
+    ],
+    "count": 1,
+    "create_time": 1767773571,
+    "update_time": 1767773571,
+    "_id": "Mức Trách Nhiệm Bảo Hiểm<SEP>Quyền Lợi Bảo Hiểm"
+  },
+  "Bồi Thường Tổn Thất Bộ Phận<SEP>Số Tiền Bảo Hiểm": {
+    "chunk_ids": [
+      "chunk-34548b80291040d2a7570c75ddc6cb30"
+    ],
+    "count": 1,
+    "create_time": 1767773571,
+    "update_time": 1767773571,
+    "_id": "Bồi Thường Tổn Thất Bộ Phận<SEP>Số Tiền Bảo Hiểm"
+  },
+  "Hợp Đồng Bảo Hiểm<SEP>Xe Tải Van": {
+    "chunk_ids": [
+      "chunk-503f507ce39b1c79ea0e10854d6f527a"
+    ],
+    "count": 1,
+    "create_time": 1767773571,
+    "update_time": 1767773571,
+    "_id": "Hợp Đồng Bảo Hiểm<SEP>Xe Tải Van"
+  },
+  "Người Điều Khiển Xe<SEP>Xe Chở Hàng": {
+    "chunk_ids": [
+      "chunk-503f507ce39b1c79ea0e10854d6f527a"
+    ],
+    "count": 1,
+    "create_time": 1767773571,
+    "update_time": 1767773571,
+    "_id": "Người Điều Khiển Xe<SEP>Xe Chở Hàng"
+  },
+  "Giảm Trừ Bồi Thường<SEP>Mức Khấu Trừ": {
+    "chunk_ids": [
+      "chunk-34548b80291040d2a7570c75ddc6cb30"
+    ],
+    "count": 1,
+    "create_time": 1767773571,
+    "update_time": 1767773571,
+    "_id": "Giảm Trừ Bồi Thường<SEP>Mức Khấu Trừ"
+  },
+  "Bảo Hiểm Tự Nguyện Trách Nhiệm Dân Sự<SEP>Chiến Tranh Và Khủng Bố": {
+    "chunk_ids": [
+      "chunk-a64d1447c233dd6da88f359d46f83296"
+    ],
+    "count": 1,
+    "create_time": 1767773571,
+    "update_time": 1767773571,
+    "_id": "Bảo Hiểm Tự Nguyện Trách Nhiệm Dân Sự<SEP>Chiến Tranh Và Khủng Bố"
+  },
+  "Phí Bảo Hiểm<SEP>Xe Ô Tô Điện": {
+    "chunk_ids": [
+      "chunk-503f507ce39b1c79ea0e10854d6f527a"
+    ],
+    "count": 1,
+    "create_time": 1767773571,
+    "update_time": 1767773571,
+    "_id": "Phí Bảo Hiểm<SEP>Xe Ô Tô Điện"
+  },
+  "Sự Kiện Bảo Hiểm<SEP>Thời Gian Sử Dụng Xe": {
+    "chunk_ids": [
+      "chunk-503f507ce39b1c79ea0e10854d6f527a"
+    ],
+    "count": 1,
+    "create_time": 1767773571,
+    "update_time": 1767773571,
+    "_id": "Sự Kiện Bảo Hiểm<SEP>Thời Gian Sử Dụng Xe"
+  },
+  "Học Viên<SEP>Loại Trừ Bảo Hiểm": {
+    "chunk_ids": [
+      "chunk-0e154220ff772448c42b4c860ada981f"
+    ],
+    "count": 1,
+    "create_time": 1767773571,
+    "update_time": 1767773571,
+    "_id": "Học Viên<SEP>Loại Trừ Bảo Hiểm"
+  },
+  "Người Ngồi Trên Xe<SEP>Phạm Vi Bảo Hiểm": {
+    "chunk_ids": [
+      "chunk-9f3ee94e34dd82289027339d0f6dde6e"
+    ],
+    "count": 1,
+    "create_time": 1767773571,
+    "update_time": 1767773571,
+    "_id": "Người Ngồi Trên Xe<SEP>Phạm Vi Bảo Hiểm"
+  },
+  "Quy Tắc Bảo Hiểm Tự Nguyện<SEP>Xe Ô Tô Chuyên Dùng": {
+    "chunk_ids": [
+      "chunk-503f507ce39b1c79ea0e10854d6f527a"
+    ],
+    "count": 1,
+    "create_time": 1767773571,
+    "update_time": 1767773571,
+    "_id": "Quy Tắc Bảo Hiểm Tự Nguyện<SEP>Xe Ô Tô Chuyên Dùng"
+  },
+  "Hành Vi Gian Lận<SEP>Tổn Thất Do Hàng Hóa": {
+    "chunk_ids": [
+      "chunk-34548b80291040d2a7570c75ddc6cb30"
+    ],
+    "count": 1,
+    "create_time": 1767773571,
+    "update_time": 1767773571,
+    "_id": "Hành Vi Gian Lận<SEP>Tổn Thất Do Hàng Hóa"
+  },
+  "Giấy Chứng Nhận Bảo Hiểm<SEP>Hợp Đồng Bảo Hiểm": {
+    "chunk_ids": [
+      "chunk-503f507ce39b1c79ea0e10854d6f527a",
+      "chunk-bf27025922fb75f2f43f294e9efe1260",
+      "chunk-a6ef07a06d2f6d2ffbd08af43f3acd5f",
+      "chunk-d211f10d4b72c1e353ee54ccae7e9b7d",
+      "chunk-b41ed360519fa208acab8935c80c972e"
+    ],
+    "count": 5,
+    "update_time": 1767773934,
+    "_id": "Giấy Chứng Nhận Bảo Hiểm<SEP>Hợp Đồng Bảo Hiểm"
+  },
+  "Chủ Xe Cơ Giới<SEP>Thỏa Thuận Bảo Hiểm Khác": {
+    "chunk_ids": [
+      "chunk-0e154220ff772448c42b4c860ada981f"
+    ],
+    "count": 1,
+    "create_time": 1767773573,
+    "update_time": 1767773573,
+    "_id": "Chủ Xe Cơ Giới<SEP>Thỏa Thuận Bảo Hiểm Khác"
+  },
+  "Bảo Hiểm Xe Tập Lái Sát Hạch<SEP>Quyền Lợi Bảo Hiểm": {
+    "chunk_ids": [
+      "chunk-0e154220ff772448c42b4c860ada981f"
+    ],
+    "count": 1,
+    "create_time": 1767773573,
+    "update_time": 1767773573,
+    "_id": "Bảo Hiểm Xe Tập Lái Sát Hạch<SEP>Quyền Lợi Bảo Hiểm"
+  },
+  "Người Được Bảo Hiểm<SEP>Tổn Thất": {
+    "chunk_ids": [
+      "chunk-f246955b88f5761f893e959b8a280ac5",
+      "chunk-90b99dfb670a3bfaf87eda1d81a45b4f"
+    ],
+    "count": 2,
+    "update_time": 1767773739,
+    "_id": "Người Được Bảo Hiểm<SEP>Tổn Thất"
+  },
+  "Vòng Hay Thương Tật Thân Thể<SEP>Xe Không Tự Lưu Hành": {
+    "chunk_ids": [
+      "chunk-a64d1447c233dd6da88f359d46f83296"
+    ],
+    "count": 1,
+    "create_time": 1767773573,
+    "update_time": 1767773573,
+    "_id": "Vòng Hay Thương Tật Thân Thể<SEP>Xe Không Tự Lưu Hành"
+  },
+  "Người Điều Khiển Xe<SEP>Tai Nạn Bất Ngờ": {
+    "chunk_ids": [
+      "chunk-9f3ee94e34dd82289027339d0f6dde6e"
+    ],
+    "count": 1,
+    "create_time": 1767773573,
+    "update_time": 1767773573,
+    "_id": "Người Điều Khiển Xe<SEP>Tai Nạn Bất Ngờ"
+  },
+  "Bảo Hiểm Tự Nguyện Trách Nhiệm Dân Sự<SEP>Tai Nạn Ngoài Lãnh Thổ": {
+    "chunk_ids": [
+      "chunk-a64d1447c233dd6da88f359d46f83296"
+    ],
+    "count": 1,
+    "create_time": 1767773573,
+    "update_time": 1767773573,
+    "_id": "Bảo Hiểm Tự Nguyện Trách Nhiệm Dân Sự<SEP>Tai Nạn Ngoài Lãnh Thổ"
+  },
+  "Bồi Thường Tổn Thất Bộ Phận<SEP>Bồi Thường Tổn Thất Toàn Bộ": {
+    "chunk_ids": [
+      "chunk-34548b80291040d2a7570c75ddc6cb30"
+    ],
+    "count": 1,
+    "create_time": 1767773573,
+    "update_time": 1767773573,
+    "_id": "Bồi Thường Tổn Thất Bộ Phận<SEP>Bồi Thường Tổn Thất Toàn Bộ"
+  },
+  "Chủ Xe<SEP>Hàng Hóa Vận Chuyển": {
+    "chunk_ids": [
+      "chunk-6330a13359a7d027fdfd0bdcc6f0496e"
+    ],
+    "count": 1,
+    "create_time": 1767773573,
+    "update_time": 1767773573,
+    "_id": "Chủ Xe<SEP>Hàng Hóa Vận Chuyển"
+  },
+  "Bảng Quy Định Trả Tiền Bồi Thường<SEP>Mức Trách Nhiệm Tự Nguyện": {
+    "chunk_ids": [
+      "chunk-f14613a2606ae617d41a3f7b2c8fa057"
+    ],
+    "count": 1,
+    "create_time": 1767773573,
+    "update_time": 1767773573,
+    "_id": "Bảng Quy Định Trả Tiền Bồi Thường<SEP>Mức Trách Nhiệm Tự Nguyện"
+  },
+  "Bồi Thường Thiệt Hại Tài Sản<SEP>Nghị Định Số 67/2023/NĐ-CP": {
+    "chunk_ids": [
+      "chunk-f14613a2606ae617d41a3f7b2c8fa057"
+    ],
+    "count": 1,
+    "create_time": 1767773574,
+    "update_time": 1767773574,
+    "_id": "Bồi Thường Thiệt Hại Tài Sản<SEP>Nghị Định Số 67/2023/NĐ-CP"
+  },
+  "MIC<SEP>Người Được Bảo Hiểm": {
+    "chunk_ids": [
+      "chunk-6330a13359a7d027fdfd0bdcc6f0496e",
+      "chunk-f246955b88f5761f893e959b8a280ac5",
+      "chunk-a004d509d7b5b0d711d6a410e4dac2d3",
+      "chunk-bf27025922fb75f2f43f294e9efe1260",
+      "chunk-a6ef07a06d2f6d2ffbd08af43f3acd5f",
+      "chunk-1cb5377325585ba3a3f9cdfbb690d58a",
+      "chunk-7637fa2d80e160aceb46c3a438b312b2",
+      "chunk-90b99dfb670a3bfaf87eda1d81a45b4f",
+      "chunk-d211f10d4b72c1e353ee54ccae7e9b7d",
+      "chunk-ebac2b5a89f481f8c97f108fd2809915",
+      "chunk-6fe2b9bbe0b1b1ce8802acc962b5507b",
+      "chunk-b41ed360519fa208acab8935c80c972e"
+    ],
+    "count": 12,
+    "update_time": 1767773904,
+    "_id": "MIC<SEP>Người Được Bảo Hiểm"
+  },
+  "Bảo Hiểm Bổ Sung<SEP>Bảo Hiểm Vật Chất Xe Ô Tô": {
+    "chunk_ids": [
+      "chunk-f14613a2606ae617d41a3f7b2c8fa057"
+    ],
+    "count": 1,
+    "create_time": 1767773574,
+    "update_time": 1767773574,
+    "_id": "Bảo Hiểm Bổ Sung<SEP>Bảo Hiểm Vật Chất Xe Ô Tô"
+  },
+  "Các Trường Hợp Loại Trừ<SEP>Người Ngồi Trên Xe": {
+    "chunk_ids": [
+      "chunk-9f3ee94e34dd82289027339d0f6dde6e"
+    ],
+    "count": 1,
+    "create_time": 1767773575,
+    "update_time": 1767773575,
+    "_id": "Các Trường Hợp Loại Trừ<SEP>Người Ngồi Trên Xe"
+  },
+  "Bảo Hiểm Xe Tập Lái Sát Hạch<SEP>Loại Trừ Bảo Hiểm": {
+    "chunk_ids": [
+      "chunk-0e154220ff772448c42b4c860ada981f"
+    ],
+    "count": 1,
+    "create_time": 1767773575,
+    "update_time": 1767773575,
+    "_id": "Bảo Hiểm Xe Tập Lái Sát Hạch<SEP>Loại Trừ Bảo Hiểm"
+  },
+  "HĐBH/GCNBH<SEP>Quy Tắc Bảo Hiểm": {
+    "chunk_ids": [
+      "chunk-f14613a2606ae617d41a3f7b2c8fa057"
+    ],
+    "count": 1,
+    "create_time": 1767773575,
+    "update_time": 1767773575,
+    "_id": "HĐBH/GCNBH<SEP>Quy Tắc Bảo Hiểm"
+  },
+  "Bảo Hiểm Tự Nguyện Trách Nhiệm Dân Sự<SEP>Điều Khoản Bảo Hiểm": {
+    "chunk_ids": [
+      "chunk-a64d1447c233dd6da88f359d46f83296"
+    ],
+    "count": 1,
+    "create_time": 1767773575,
+    "update_time": 1767773575,
+    "_id": "Bảo Hiểm Tự Nguyện Trách Nhiệm Dân Sự<SEP>Điều Khoản Bảo Hiểm"
+  },
+  "Quy Tắc Bảo Hiểm Tự Nguyện Xe Ô Tô (MIC 2025)<SEP>Tổng Công ty CP Bảo Hiểm Quân Đội (MIC)": {
+    "chunk_ids": [
+      "chunk-fc4076e0019c7cb0ecbfe2c646ad2099"
+    ],
+    "count": 1,
+    "create_time": 1767773575,
+    "update_time": 1767773575,
+    "_id": "Quy Tắc Bảo Hiểm Tự Nguyện Xe Ô Tô (MIC 2025)<SEP>Tổng Công ty CP Bảo Hiểm Quân Đội (MIC)"
+  },
+  "Bên Mua Bảo Hiểm<SEP>MIC": {
+    "chunk_ids": [
+      "chunk-6330a13359a7d027fdfd0bdcc6f0496e",
+      "chunk-f246955b88f5761f893e959b8a280ac5",
+      "chunk-2ad82e95eb355055745e2219735423e1",
+      "chunk-d10df87d58b72347262083caee9ea0c4",
+      "chunk-d211f10d4b72c1e353ee54ccae7e9b7d",
+      "chunk-4d42a014937982929d5e2474526803f9",
+      "chunk-ebac2b5a89f481f8c97f108fd2809915"
+    ],
+    "count": 7,
+    "update_time": 1767773928,
+    "_id": "Bên Mua Bảo Hiểm<SEP>MIC"
+  },
+  "Người Mua Bảo Hiểm<SEP>Người Được Bảo Hiểm": {
+    "chunk_ids": [
+      "chunk-fc4076e0019c7cb0ecbfe2c646ad2099"
+    ],
+    "count": 1,
+    "create_time": 1767773576,
+    "update_time": 1767773576,
+    "_id": "Người Mua Bảo Hiểm<SEP>Người Được Bảo Hiểm"
+  },
+  "Bảo Hiểm Vật Chất Xe Ô Tô<SEP>Bảo Hiểm Xe Bị Mất Trộm": {
+    "chunk_ids": [
+      "chunk-f14613a2606ae617d41a3f7b2c8fa057"
+    ],
+    "count": 1,
+    "create_time": 1767773576,
+    "update_time": 1767773576,
+    "_id": "Bảo Hiểm Vật Chất Xe Ô Tô<SEP>Bảo Hiểm Xe Bị Mất Trộm"
+  },
+  "Quyền Lợi Bảo Hiểm<SEP>Xe Ô Tô Chở Người Không Kinh Doanh Vận Tải": {
+    "chunk_ids": [
+      "chunk-33ac9b96ba4a0b55b1ad967618ef3d54"
+    ],
+    "count": 1,
+    "create_time": 1767773576,
+    "update_time": 1767773576,
+    "_id": "Quyền Lợi Bảo Hiểm<SEP>Xe Ô Tô Chở Người Không Kinh Doanh Vận Tải"
+  },
+  "Người Ngồi Trên Xe<SEP>Số Tiền Bảo Hiểm": {
+    "chunk_ids": [
+      "chunk-9f3ee94e34dd82289027339d0f6dde6e"
+    ],
+    "count": 1,
+    "create_time": 1767773576,
+    "update_time": 1767773576,
+    "_id": "Người Ngồi Trên Xe<SEP>Số Tiền Bảo Hiểm"
+  },
+  "Chủ Xe<SEP>Người Ngồi Trên Xe": {
+    "chunk_ids": [
+      "chunk-9f3ee94e34dd82289027339d0f6dde6e"
+    ],
+    "count": 1,
+    "create_time": 1767773578,
+    "update_time": 1767773578,
+    "_id": "Chủ Xe<SEP>Người Ngồi Trên Xe"
+  },
+  "Người Mua Bảo Hiểm<SEP>Người Thụ Hưởng": {
+    "chunk_ids": [
+      "chunk-fc4076e0019c7cb0ecbfe2c646ad2099"
+    ],
+    "count": 1,
+    "create_time": 1767773578,
+    "update_time": 1767773578,
+    "_id": "Người Mua Bảo Hiểm<SEP>Người Thụ Hưởng"
+  },
+  "Chủ xe/Người được bảo hiểm<SEP>Thời Hạn Thông Báo Tổn Thất": {
+    "chunk_ids": [
+      "chunk-9141ee7384544c9a83c328733317ca5e"
+    ],
+    "count": 1,
+    "create_time": 1767773578,
+    "update_time": 1767773578,
+    "_id": "Chủ xe/Người được bảo hiểm<SEP>Thời Hạn Thông Báo Tổn Thất"
+  },
+  "Hợp Đồng Vận Chuyển<SEP>MIC": {
+    "chunk_ids": [
+      "chunk-6330a13359a7d027fdfd0bdcc6f0496e"
+    ],
+    "count": 1,
+    "create_time": 1767773578,
+    "update_time": 1767773578,
+    "_id": "Hợp Đồng Vận Chuyển<SEP>MIC"
+  },
+  "Chủ Xe<SEP>Mức Khấu Trừ": {
+    "chunk_ids": [
+      "chunk-9f3ee94e34dd82289027339d0f6dde6e"
+    ],
+    "count": 1,
+    "create_time": 1767773579,
+    "update_time": 1767773579,
+    "_id": "Chủ Xe<SEP>Mức Khấu Trừ"
+  },
+  "Chi Phí Bồi Thường<SEP>MIC": {
+    "chunk_ids": [
+      "chunk-6330a13359a7d027fdfd0bdcc6f0496e"
+    ],
+    "count": 1,
+    "create_time": 1767773579,
+    "update_time": 1767773579,
+    "_id": "Chi Phí Bồi Thường<SEP>MIC"
+  },
+  "Chủ xe/Người được bảo hiểm<SEP>Người Thứ Ba": {
+    "chunk_ids": [
+      "chunk-9141ee7384544c9a83c328733317ca5e"
+    ],
+    "count": 1,
+    "create_time": 1767773581,
+    "update_time": 1767773581,
+    "_id": "Chủ xe/Người được bảo hiểm<SEP>Người Thứ Ba"
+  },
+  "MIC<SEP>Mức Trách Nhiệm Bảo Hiểm": {
+    "chunk_ids": [
+      "chunk-6330a13359a7d027fdfd0bdcc6f0496e"
+    ],
+    "count": 1,
+    "create_time": 1767773581,
+    "update_time": 1767773581,
+    "_id": "MIC<SEP>Mức Trách Nhiệm Bảo Hiểm"
+  },
+  "Chủ Xe<SEP>Hợp Đồng Bảo Hiểm (HĐBH)": {
+    "chunk_ids": [
+      "chunk-f246955b88f5761f893e959b8a280ac5"
+    ],
+    "count": 1,
+    "create_time": 1767773581,
+    "update_time": 1767773581,
+    "_id": "Chủ Xe<SEP>Hợp Đồng Bảo Hiểm (HĐBH)"
+  },
+  "Chủ Xe<SEP>Giấy Chứng Nhận Kiểm Định": {
+    "chunk_ids": [
+      "chunk-f246955b88f5761f893e959b8a280ac5"
+    ],
+    "count": 1,
+    "create_time": 1767773582,
+    "update_time": 1767773582,
+    "_id": "Chủ Xe<SEP>Giấy Chứng Nhận Kiểm Định"
+  },
+  "Giấy Phép Lái Xe<SEP>MIC": {
+    "chunk_ids": [
+      "chunk-9f3ee94e34dd82289027339d0f6dde6e"
+    ],
+    "count": 1,
+    "create_time": 1767773582,
+    "update_time": 1767773582,
+    "_id": "Giấy Phép Lái Xe<SEP>MIC"
+  },
+  "Chủ xe/Người được bảo hiểm<SEP>Người Điều Khiển Xe": {
+    "chunk_ids": [
+      "chunk-9141ee7384544c9a83c328733317ca5e"
+    ],
+    "count": 1,
+    "create_time": 1767773582,
+    "update_time": 1767773582,
+    "_id": "Chủ xe/Người được bảo hiểm<SEP>Người Điều Khiển Xe"
+  },
+  "Chi Phí Ngăn Ngừa<SEP>MIC": {
+    "chunk_ids": [
+      "chunk-f246955b88f5761f893e959b8a280ac5"
+    ],
+    "count": 1,
+    "create_time": 1767773584,
+    "update_time": 1767773584,
+    "_id": "Chi Phí Ngăn Ngừa<SEP>MIC"
+  },
+  "Chủ Xe<SEP>Xe Đang Hoạt Động": {
+    "chunk_ids": [
+      "chunk-fc4076e0019c7cb0ecbfe2c646ad2099"
+    ],
+    "count": 1,
+    "create_time": 1767773584,
+    "update_time": 1767773584,
+    "_id": "Chủ Xe<SEP>Xe Đang Hoạt Động"
+  },
+  "Chi Phí Cứu Hộ<SEP>MIC": {
+    "chunk_ids": [
+      "chunk-f246955b88f5761f893e959b8a280ac5"
+    ],
+    "count": 1,
+    "create_time": 1767773586,
+    "update_time": 1767773586,
+    "_id": "Chi Phí Cứu Hộ<SEP>MIC"
+  },
+  "10% Số Tiền Bảo Hiểm<SEP>Chi Phí Cứu Hộ": {
+    "chunk_ids": [
+      "chunk-f246955b88f5761f893e959b8a280ac5"
+    ],
+    "count": 1,
+    "create_time": 1767773587,
+    "update_time": 1767773587,
+    "_id": "10% Số Tiền Bảo Hiểm<SEP>Chi Phí Cứu Hộ"
+  },
+  "MIC<SEP>Thiên Tai": {
+    "chunk_ids": [
+      "chunk-f246955b88f5761f893e959b8a280ac5"
+    ],
+    "count": 1,
+    "create_time": 1767773587,
+    "update_time": 1767773587,
+    "_id": "MIC<SEP>Thiên Tai"
+  },
+  "MIC<SEP>Tai Nạn Bất Ngờ": {
+    "chunk_ids": [
+      "chunk-f246955b88f5761f893e959b8a280ac5"
+    ],
+    "count": 1,
+    "create_time": 1767773589,
+    "update_time": 1767773589,
+    "_id": "MIC<SEP>Tai Nạn Bất Ngờ"
+  },
+  "Hành Vi Ác Ý<SEP>MIC": {
+    "chunk_ids": [
+      "chunk-f246955b88f5761f893e959b8a280ac5"
+    ],
+    "count": 1,
+    "create_time": 1767773591,
+    "update_time": 1767773591,
+    "_id": "Hành Vi Ác Ý<SEP>MIC"
+  },
+  "MIC<SEP>Tổn Thất Ngoài Lãnh Thổ": {
+    "chunk_ids": [
+      "chunk-f246955b88f5761f893e959b8a280ac5"
+    ],
+    "count": 1,
+    "create_time": 1767773593,
+    "update_time": 1767773593,
+    "_id": "MIC<SEP>Tổn Thất Ngoài Lãnh Thổ"
+  },
+  "Chi Phí Thuê Xe<SEP>MIC": {
+    "chunk_ids": [
+      "chunk-33ac9b96ba4a0b55b1ad967618ef3d54"
+    ],
+    "count": 1,
+    "create_time": 1767773594,
+    "update_time": 1767773594,
+    "_id": "Chi Phí Thuê Xe<SEP>MIC"
+  },
+  "Bảo Hiểm Bổ Sung<SEP>Chi Phí Thuê Xe": {
+    "chunk_ids": [
+      "chunk-f14613a2606ae617d41a3f7b2c8fa057"
+    ],
+    "count": 1,
+    "create_time": 1767773596,
+    "update_time": 1767773596,
+    "_id": "Bảo Hiểm Bổ Sung<SEP>Chi Phí Thuê Xe"
+  },
+  "Bảo Hiểm Tổn Thất Của Động Cơ<SEP>MIC": {
+    "chunk_ids": [
+      "chunk-33ac9b96ba4a0b55b1ad967618ef3d54"
+    ],
+    "count": 1,
+    "create_time": 1767773596,
+    "update_time": 1767773596,
+    "_id": "Bảo Hiểm Tổn Thất Của Động Cơ<SEP>MIC"
+  },
+  "Bảo Hiểm Bổ Sung<SEP>Nghị Định Số 67/2023/NĐ-CP": {
+    "chunk_ids": [
+      "chunk-f14613a2606ae617d41a3f7b2c8fa057"
+    ],
+    "count": 1,
+    "create_time": 1767773597,
+    "update_time": 1767773597,
+    "_id": "Bảo Hiểm Bổ Sung<SEP>Nghị Định Số 67/2023/NĐ-CP"
+  },
+  "30 Ngày<SEP>Bảo Hiểm Tổn Thất Của Động Cơ": {
+    "chunk_ids": [
+      "chunk-33ac9b96ba4a0b55b1ad967618ef3d54"
+    ],
+    "count": 1,
+    "create_time": 1767773597,
+    "update_time": 1767773597,
+    "_id": "30 Ngày<SEP>Bảo Hiểm Tổn Thất Của Động Cơ"
+  },
+  "Bảo Hiểm Trách Nhiệm Dân Sự<SEP>MIC": {
+    "chunk_ids": [
+      "chunk-33ac9b96ba4a0b55b1ad967618ef3d54"
+    ],
+    "count": 1,
+    "create_time": 1767773597,
+    "update_time": 1767773597,
+    "_id": "Bảo Hiểm Trách Nhiệm Dân Sự<SEP>MIC"
+  },
+  "Bảo Hiểm Thuê Xe Trong Thời Gian Sửa Chữa<SEP>MIC": {
+    "chunk_ids": [
+      "chunk-33ac9b96ba4a0b55b1ad967618ef3d54"
+    ],
+    "count": 1,
+    "create_time": 1767773599,
+    "update_time": 1767773599,
+    "_id": "Bảo Hiểm Thuê Xe Trong Thời Gian Sửa Chữa<SEP>MIC"
+  },
+  "Bảo Hiểm Thay Thế Mới<SEP>MIC": {
+    "chunk_ids": [
+      "chunk-33ac9b96ba4a0b55b1ad967618ef3d54"
+    ],
+    "count": 1,
+    "create_time": 1767773601,
+    "update_time": 1767773601,
+    "_id": "Bảo Hiểm Thay Thế Mới<SEP>MIC"
+  },
+  "Bảo Hiểm Lựa Chọn Cơ Sở Sửa Chữa<SEP>MIC": {
+    "chunk_ids": [
+      "chunk-33ac9b96ba4a0b55b1ad967618ef3d54"
+    ],
+    "count": 1,
+    "create_time": 1767773602,
+    "update_time": 1767773602,
+    "_id": "Bảo Hiểm Lựa Chọn Cơ Sở Sửa Chữa<SEP>MIC"
+  },
+  "Bảo Hiểm Vật Chất Xe Ô Tô Lưu Hành Tạm Thời<SEP>MIC": {
+    "chunk_ids": [
+      "chunk-33ac9b96ba4a0b55b1ad967618ef3d54"
+    ],
+    "count": 1,
+    "create_time": 1767773604,
+    "update_time": 1767773604,
+    "_id": "Bảo Hiểm Vật Chất Xe Ô Tô Lưu Hành Tạm Thời<SEP>MIC"
+  },
+  "Khấu Trừ<SEP>MIC": {
+    "chunk_ids": [
+      "chunk-9141ee7384544c9a83c328733317ca5e"
+    ],
+    "count": 1,
+    "create_time": 1767773653,
+    "update_time": 1767773653,
+    "_id": "Khấu Trừ<SEP>MIC"
+  },
+  "Bồi Thường<SEP>MIC": {
+    "chunk_ids": [
+      "chunk-9141ee7384544c9a83c328733317ca5e"
+    ],
+    "count": 1,
+    "create_time": 1767773655,
+    "update_time": 1767773655,
+    "_id": "Bồi Thường<SEP>MIC"
+  },
+  "Hợp Đồng Bảo Hiểm<SEP>MIC": {
+    "chunk_ids": [
+      "chunk-9141ee7384544c9a83c328733317ca5e",
+      "chunk-2ad82e95eb355055745e2219735423e1",
+      "chunk-a004d509d7b5b0d711d6a410e4dac2d3",
+      "chunk-7637fa2d80e160aceb46c3a438b312b2",
+      "chunk-01abb25309f4706fae5f347c21749278",
+      "chunk-c8c72a6b8a3223b564b1e9c39072d19d",
+      "chunk-8871c544e05f6353e225619b00263745",
+      "chunk-16aea2d123f3b06e6e624b18b4141087"
+    ],
+    "count": 8,
+    "update_time": 1767773919,
+    "_id": "Hợp Đồng Bảo Hiểm<SEP>MIC"
+  },
+  "Giấy Chứng Tử<SEP>Hồ Sơ Yêu Cầu Bồi Thường": {
+    "chunk_ids": [
+      "chunk-2ad82e95eb355055745e2219735423e1"
+    ],
+    "count": 1,
+    "create_time": 1767773700,
+    "update_time": 1767773700,
+    "_id": "Giấy Chứng Tử<SEP>Hồ Sơ Yêu Cầu Bồi Thường"
+  },
+  "Bác Sỹ<SEP>Chi Phí Y Tế Thực Tế": {
+    "chunk_ids": [
+      "chunk-a6ef07a06d2f6d2ffbd08af43f3acd5f"
+    ],
+    "count": 1,
+    "create_time": 1767773700,
+    "update_time": 1767773700,
+    "_id": "Bác Sỹ<SEP>Chi Phí Y Tế Thực Tế"
+  },
+  "Thời Gian Nộp Hồ Sơ<SEP>Thời Hạn Chi Trả Tiền Bảo Hiểm": {
+    "chunk_ids": [
+      "chunk-1cb5377325585ba3a3f9cdfbb690d58a"
+    ],
+    "count": 1,
+    "create_time": 1767773702,
+    "update_time": 1767773702,
+    "_id": "Thời Gian Nộp Hồ Sơ<SEP>Thời Hạn Chi Trả Tiền Bảo Hiểm"
+  },
+  "Thương Tật<SEP>Thương Tật Toàn Bộ Vĩnh Viễn": {
+    "chunk_ids": [
+      "chunk-4ba510b49408c72a2b5e9adc601a8533"
+    ],
+    "count": 1,
+    "create_time": 1767773703,
+    "update_time": 1767773703,
+    "_id": "Thương Tật<SEP>Thương Tật Toàn Bộ Vĩnh Viễn"
+  },
+  "Tai Nạn<SEP>Thương Tật": {
+    "chunk_ids": [
+      "chunk-4ba510b49408c72a2b5e9adc601a8533"
+    ],
+    "count": 1,
+    "create_time": 1767773704,
+    "update_time": 1767773704,
+    "_id": "Tai Nạn<SEP>Thương Tật"
+  },
+  "MIC<SEP>Tai Nạn Con Người": {
+    "chunk_ids": [
+      "chunk-4ba510b49408c72a2b5e9adc601a8533"
+    ],
+    "count": 1,
+    "create_time": 1767773707,
+    "update_time": 1767773707,
+    "_id": "MIC<SEP>Tai Nạn Con Người"
+  },
+  "Chi Phí Y Tế<SEP>Người Được Bảo Hiểm": {
+    "chunk_ids": [
+      "chunk-a004d509d7b5b0d711d6a410e4dac2d3",
+      "chunk-01abb25309f4706fae5f347c21749278"
+    ],
+    "count": 2,
+    "update_time": 1767773755,
+    "_id": "Chi Phí Y Tế<SEP>Người Được Bảo Hiểm"
+  },
+  "Hồ Sơ Y TẾ<SEP>Khiếu Nại Thẻ Ngân Hàng": {
+    "chunk_ids": [
+      "chunk-d10df87d58b72347262083caee9ea0c4"
+    ],
+    "count": 1,
+    "create_time": 1767773708,
+    "update_time": 1767773708,
+    "_id": "Hồ Sơ Y TẾ<SEP>Khiếu Nại Thẻ Ngân Hàng"
+  },
+  "Hồ Sơ Bệnh Án<SEP>Hồ Sơ Y Tế": {
+    "chunk_ids": [
+      "chunk-d10df87d58b72347262083caee9ea0c4"
+    ],
+    "count": 1,
+    "create_time": 1767773708,
+    "update_time": 1767773708,
+    "_id": "Hồ Sơ Bệnh Án<SEP>Hồ Sơ Y Tế"
+  },
+  "Bệnh Mãn Tính<SEP>Hội Chứng Liên Quan Đến AIDS": {
+    "chunk_ids": [
+      "chunk-e52766fde2b87864523906c0dbd48122"
+    ],
+    "count": 1,
+    "create_time": 1767773708,
+    "update_time": 1767773708,
+    "_id": "Bệnh Mãn Tính<SEP>Hội Chứng Liên Quan Đến AIDS"
+  },
+  "Giấy Phép Thành Lập<SEP>MIC": {
+    "chunk_ids": [
+      "chunk-4ba510b49408c72a2b5e9adc601a8533"
+    ],
+    "count": 1,
+    "create_time": 1767773709,
+    "update_time": 1767773709,
+    "_id": "Giấy Phép Thành Lập<SEP>MIC"
+  },
+  "Bệnh Mãn Tính<SEP>Bệnh Đái Tháo Đường": {
+    "chunk_ids": [
+      "chunk-e52766fde2b87864523906c0dbd48122"
+    ],
+    "count": 1,
+    "create_time": 1767773709,
+    "update_time": 1767773709,
+    "_id": "Bệnh Mãn Tính<SEP>Bệnh Đái Tháo Đường"
+  },
+  "Hồ Sơ Y Tế<SEP>Khiếu Nại Về Mất/Hư Hỏng Dụng Cụ Chơi Golf": {
+    "chunk_ids": [
+      "chunk-d10df87d58b72347262083caee9ea0c4"
+    ],
+    "count": 1,
+    "create_time": 1767773709,
+    "update_time": 1767773709,
+    "_id": "Hồ Sơ Y Tế<SEP>Khiếu Nại Về Mất/Hư Hỏng Dụng Cụ Chơi Golf"
+  },
+  "Chi Phí Liên Quan Đến Nha Khoa<SEP>Tự Tử": {
+    "chunk_ids": [
+      "chunk-e52766fde2b87864523906c0dbd48122"
+    ],
+    "count": 1,
+    "create_time": 1767773709,
+    "update_time": 1767773709,
+    "_id": "Chi Phí Liên Quan Đến Nha Khoa<SEP>Tự Tử"
+  },
+  "Người Được Bảo Hiểm<SEP>Thương Tật Tạm Thời": {
+    "chunk_ids": [
+      "chunk-a004d509d7b5b0d711d6a410e4dac2d3",
+      "chunk-7637fa2d80e160aceb46c3a438b312b2"
+    ],
+    "count": 2,
+    "update_time": 1767773735,
+    "_id": "Người Được Bảo Hiểm<SEP>Thương Tật Tạm Thời"
+  },
+  "MIC<SEP>Phòng Phát Triển Sản Phẩm": {
+    "chunk_ids": [
+      "chunk-4ba510b49408c72a2b5e9adc601a8533"
+    ],
+    "count": 1,
+    "create_time": 1767773711,
+    "update_time": 1767773711,
+    "_id": "MIC<SEP>Phòng Phát Triển Sản Phẩm"
+  },
+  "Bệnh Lao<SEP>Bệnh Mãn Tính": {
+    "chunk_ids": [
+      "chunk-e52766fde2b87864523906c0dbd48122"
+    ],
+    "count": 1,
+    "create_time": 1767773711,
+    "update_time": 1767773711,
+    "_id": "Bệnh Lao<SEP>Bệnh Mãn Tính"
+  },
+  "Người Được Bảo Hiểm<SEP>Thương Tật Bộ Phận Vĩnh Viễn": {
+    "chunk_ids": [
+      "chunk-a004d509d7b5b0d711d6a410e4dac2d3",
+      "chunk-bf27025922fb75f2f43f294e9efe1260",
+      "chunk-7637fa2d80e160aceb46c3a438b312b2",
+      "chunk-f61282ff7560b22c13d62b8ba2bb6a60"
+    ],
+    "count": 4,
+    "update_time": 1767773734,
+    "_id": "Người Được Bảo Hiểm<SEP>Thương Tật Bộ Phận Vĩnh Viễn"
+  },
+  "MIC<SEP>Thời Hiệu Khởi Kiện": {
+    "chunk_ids": [
+      "chunk-2ad82e95eb355055745e2219735423e1"
+    ],
+    "count": 1,
+    "create_time": 1767773712,
+    "update_time": 1767773712,
+    "_id": "MIC<SEP>Thời Hiệu Khởi Kiện"
+  },
+  "Ngộ Độc<SEP>Tự Tử": {
+    "chunk_ids": [
+      "chunk-e52766fde2b87864523906c0dbd48122"
+    ],
+    "count": 1,
+    "create_time": 1767773712,
+    "update_time": 1767773712,
+    "_id": "Ngộ Độc<SEP>Tự Tử"
+  },
+  "Người Được Bảo Hiểm<SEP>Tai Nạn": {
+    "chunk_ids": [
+      "chunk-bf27025922fb75f2f43f294e9efe1260",
+      "chunk-4d42a014937982929d5e2474526803f9",
+      "chunk-1adc087de131a303dfcd11e627b2be48"
+    ],
+    "count": 3,
+    "update_time": 1767773914,
+    "_id": "Người Được Bảo Hiểm<SEP>Tai Nạn"
+  },
+  "Bệnh Đái Tháo Đường<SEP>Đột Quỵ": {
+    "chunk_ids": [
+      "chunk-e52766fde2b87864523906c0dbd48122"
+    ],
+    "count": 1,
+    "create_time": 1767773713,
+    "update_time": 1767773713,
+    "_id": "Bệnh Đái Tháo Đường<SEP>Đột Quỵ"
+  },
+  "Người Được Bảo Hiểm<SEP>Thương Tật Toàn Bộ Vĩnh Viễn": {
+    "chunk_ids": [
+      "chunk-bf27025922fb75f2f43f294e9efe1260",
+      "chunk-7637fa2d80e160aceb46c3a438b312b2",
+      "chunk-4d42a014937982929d5e2474526803f9",
+      "chunk-f61282ff7560b22c13d62b8ba2bb6a60"
+    ],
+    "count": 4,
+    "update_time": 1767773732,
+    "_id": "Người Được Bảo Hiểm<SEP>Thương Tật Toàn Bộ Vĩnh Viễn"
+  },
+  "Người Được Bảo Hiểm<SEP>Số Tiền Bảo Hiểm": {
+    "chunk_ids": [
+      "chunk-a6ef07a06d2f6d2ffbd08af43f3acd5f",
+      "chunk-01abb25309f4706fae5f347c21749278"
+    ],
+    "count": 2,
+    "update_time": 1767773751,
+    "_id": "Người Được Bảo Hiểm<SEP>Số Tiền Bảo Hiểm"
+  },
+  "Giấy Yêu Cầu Trả Tiền Bảo Hiểm<SEP>Người Được Bảo Hiểm": {
+    "chunk_ids": [
+      "chunk-1cb5377325585ba3a3f9cdfbb690d58a"
+    ],
+    "count": 1,
+    "create_time": 1767773717,
+    "update_time": 1767773717,
+    "_id": "Giấy Yêu Cầu Trả Tiền Bảo Hiểm<SEP>Người Được Bảo Hiểm"
+  },
+  "Người Được Bảo Hiểm<SEP>Tai Nạn Sinh Hoạt": {
+    "chunk_ids": [
+      "chunk-1cb5377325585ba3a3f9cdfbb690d58a"
+    ],
+    "count": 1,
+    "create_time": 1767773719,
+    "update_time": 1767773719,
+    "_id": "Người Được Bảo Hiểm<SEP>Tai Nạn Sinh Hoạt"
+  },
+  "Người Thụ Hưởng<SEP>Người Được Bảo Hiểm": {
+    "chunk_ids": [
+      "chunk-4ba510b49408c72a2b5e9adc601a8533",
+      "chunk-a004d509d7b5b0d711d6a410e4dac2d3",
+      "chunk-6fe2b9bbe0b1b1ce8802acc962b5507b",
+      "chunk-998610ea4b582ed596e5650f9d9dc51b"
+    ],
+    "count": 4,
+    "update_time": 1767774083,
+    "_id": "Người Thụ Hưởng<SEP>Người Được Bảo Hiểm"
+  },
+  "Người Được Bảo Hiểm<SEP>Tai Nạn Lao Động": {
+    "chunk_ids": [
+      "chunk-1cb5377325585ba3a3f9cdfbb690d58a"
+    ],
+    "count": 1,
+    "create_time": 1767773722,
+    "update_time": 1767773722,
+    "_id": "Người Được Bảo Hiểm<SEP>Tai Nạn Lao Động"
+  },
+  "Người Được Bảo Hiểm<SEP>Tai Nạn Giao Thông": {
+    "chunk_ids": [
+      "chunk-1cb5377325585ba3a3f9cdfbb690d58a"
+    ],
+    "count": 1,
+    "create_time": 1767773724,
+    "update_time": 1767773724,
+    "_id": "Người Được Bảo Hiểm<SEP>Tai Nạn Giao Thông"
+  },
+  "Bên Mua Bảo Hiểm<SEP>Người Được Bảo Hiểm": {
+    "chunk_ids": [
+      "chunk-4ba510b49408c72a2b5e9adc601a8533",
+      "chunk-d211f10d4b72c1e353ee54ccae7e9b7d",
+      "chunk-c0f5a70cceb64e7a4f1d267e11437b37"
+    ],
+    "count": 3,
+    "update_time": 1767773950,
+    "_id": "Bên Mua Bảo Hiểm<SEP>Người Được Bảo Hiểm"
+  },
+  "Người Được Bảo Hiểm<SEP>Quyền Lợi Bảo Hiểm": {
+    "chunk_ids": [
+      "chunk-7637fa2d80e160aceb46c3a438b312b2"
+    ],
+    "count": 1,
+    "create_time": 1767773727,
+    "update_time": 1767773727,
+    "_id": "Người Được Bảo Hiểm<SEP>Quyền Lợi Bảo Hiểm"
+  },
+  "Người Được Bảo Hiểm<SEP>Trách Nhiệm Cá Nhân": {
+    "chunk_ids": [
+      "chunk-7637fa2d80e160aceb46c3a438b312b2"
+    ],
+    "count": 1,
+    "create_time": 1767773728,
+    "update_time": 1767773728,
+    "_id": "Người Được Bảo Hiểm<SEP>Trách Nhiệm Cá Nhân"
+  },
+  "Người Được Bảo Hiểm<SEP>Tử Vong": {
+    "chunk_ids": [
+      "chunk-7637fa2d80e160aceb46c3a438b312b2"
+    ],
+    "count": 1,
+    "create_time": 1767773731,
+    "update_time": 1767773731,
+    "_id": "Người Được Bảo Hiểm<SEP>Tử Vong"
+  },
+  "Dụng Cụ Chơi Golf<SEP>Người Được Bảo Hiểm": {
+    "chunk_ids": [
+      "chunk-90b99dfb670a3bfaf87eda1d81a45b4f"
+    ],
+    "count": 1,
+    "create_time": 1767773737,
+    "update_time": 1767773737,
+    "_id": "Dụng Cụ Chơi Golf<SEP>Người Được Bảo Hiểm"
+  },
+  "Hao Mòn Tự Nhiên<SEP>Người Được Bảo Hiểm": {
+    "chunk_ids": [
+      "chunk-90b99dfb670a3bfaf87eda1d81a45b4f"
+    ],
+    "count": 1,
+    "create_time": 1767773740,
+    "update_time": 1767773740,
+    "_id": "Hao Mòn Tự Nhiên<SEP>Người Được Bảo Hiểm"
+  },
+  "Người Được Bảo Hiểm<SEP>Rượu, Bia, Ma Túy": {
+    "chunk_ids": [
+      "chunk-90b99dfb670a3bfaf87eda1d81a45b4f",
+      "chunk-89f30616382389aa8ebba2bc7065a2f2",
+      "chunk-6fe2b9bbe0b1b1ce8802acc962b5507b"
+    ],
+    "count": 3,
+    "update_time": 1767773887,
+    "_id": "Người Được Bảo Hiểm<SEP>Rượu, Bia, Ma Túy"
+  },
+  "Người Được Bảo Hiểm<SEP>Điều Trị Không Theo Chỉ Dẫn": {
+    "chunk_ids": [
+      "chunk-90b99dfb670a3bfaf87eda1d81a45b4f"
+    ],
+    "count": 1,
+    "create_time": 1767773743,
+    "update_time": 1767773743,
+    "_id": "Người Được Bảo Hiểm<SEP>Điều Trị Không Theo Chỉ Dẫn"
+  },
+  "Bệnh Có Sẵn<SEP>Người Được Bảo Hiểm": {
+    "chunk_ids": [
+      "chunk-90b99dfb670a3bfaf87eda1d81a45b4f",
+      "chunk-f61282ff7560b22c13d62b8ba2bb6a60"
+    ],
+    "count": 2,
+    "create_time": 1767773745,
+    "update_time": 1767773745,
+    "_id": "Bệnh Có Sẵn<SEP>Người Được Bảo Hiểm"
+  },
+  "Bệnh Lây Truyền Qua Đường Tình Dục<SEP>Người Được Bảo Hiểm": {
+    "chunk_ids": [
+      "chunk-90b99dfb670a3bfaf87eda1d81a45b4f"
+    ],
+    "count": 1,
+    "create_time": 1767773746,
+    "update_time": 1767773746,
+    "_id": "Bệnh Lây Truyền Qua Đường Tình Dục<SEP>Người Được Bảo Hiểm"
+  },
+  "Bác Sỹ<SEP>Người Được Bảo Hiểm": {
+    "chunk_ids": [
+      "chunk-01abb25309f4706fae5f347c21749278",
+      "chunk-f61282ff7560b22c13d62b8ba2bb6a60"
+    ],
+    "count": 2,
+    "create_time": 1767773748,
+    "update_time": 1767773748,
+    "_id": "Bác Sỹ<SEP>Người Được Bảo Hiểm"
+  },
+  "Bắt Cóc<SEP>Người Được Bảo Hiểm": {
+    "chunk_ids": [
+      "chunk-01abb25309f4706fae5f347c21749278"
+    ],
+    "count": 1,
+    "create_time": 1767773750,
+    "update_time": 1767773750,
+    "_id": "Bắt Cóc<SEP>Người Được Bảo Hiểm"
+  },
+  "Bắt Cóc<SEP>Con Tin": {
+    "chunk_ids": [
+      "chunk-01abb25309f4706fae5f347c21749278"
+    ],
+    "count": 1,
+    "create_time": 1767773751,
+    "update_time": 1767773751,
+    "_id": "Bắt Cóc<SEP>Con Tin"
+  },
+  "Giấy Chứng Tử<SEP>Người Được Bảo Hiểm": {
+    "chunk_ids": [
+      "chunk-1cb5377325585ba3a3f9cdfbb690d58a"
+    ],
+    "count": 1,
+    "create_time": 1767773753,
+    "update_time": 1767773753,
+    "_id": "Giấy Chứng Tử<SEP>Người Được Bảo Hiểm"
+  },
+  "Hành Động Đánh Nhau<SEP>Người Được Bảo Hiểm": {
+    "chunk_ids": [
+      "chunk-89f30616382389aa8ebba2bc7065a2f2"
+    ],
+    "count": 1,
+    "create_time": 1767773758,
+    "update_time": 1767773758,
+    "_id": "Hành Động Đánh Nhau<SEP>Người Được Bảo Hiểm"
+  },
+  "Người Được Bảo Hiểm<SEP>Điều Trị Y Tế Không Đúng Quy Định": {
+    "chunk_ids": [
+      "chunk-89f30616382389aa8ebba2bc7065a2f2"
+    ],
+    "count": 1,
+    "create_time": 1767773759,
+    "update_time": 1767773759,
+    "_id": "Người Được Bảo Hiểm<SEP>Điều Trị Y Tế Không Đúng Quy Định"
+  },
+  "Chi Phí Tạo Hình Thẩm Mỹ<SEP>Người Được Bảo Hiểm": {
+    "chunk_ids": [
+      "chunk-89f30616382389aa8ebba2bc7065a2f2"
+    ],
+    "count": 1,
+    "create_time": 1767773761,
+    "update_time": 1767773761,
+    "_id": "Chi Phí Tạo Hình Thẩm Mỹ<SEP>Người Được Bảo Hiểm"
+  },
+  "Người Được Bảo Hiểm<SEP>Ngộ Độc Thức Ăn": {
+    "chunk_ids": [
+      "chunk-89f30616382389aa8ebba2bc7065a2f2"
+    ],
+    "count": 1,
+    "create_time": 1767773765,
+    "update_time": 1767773765,
+    "_id": "Người Được Bảo Hiểm<SEP>Ngộ Độc Thức Ăn"
+  },
+  "Người Được Bảo Hiểm<SEP>Thời Hạn Yêu Cầu Trả Tiền Bảo Hiểm": {
+    "chunk_ids": [
+      "chunk-89f30616382389aa8ebba2bc7065a2f2",
+      "chunk-6fe2b9bbe0b1b1ce8802acc962b5507b"
+    ],
+    "count": 2,
+    "update_time": 1767773903,
+    "_id": "Người Được Bảo Hiểm<SEP>Thời Hạn Yêu Cầu Trả Tiền Bảo Hiểm"
+  },
+  "MIC<SEP>Thương Tật Tạm Thời": {
+    "chunk_ids": [
+      "chunk-a004d509d7b5b0d711d6a410e4dac2d3"
+    ],
+    "count": 1,
+    "create_time": 1767773774,
+    "update_time": 1767773774,
+    "_id": "MIC<SEP>Thương Tật Tạm Thời"
+  },
+  "Người Được Bảo Hiểm<SEP>Thời Hạn Chi Trả Tiền Bảo Hiểm": {
+    "chunk_ids": [
+      "chunk-89f30616382389aa8ebba2bc7065a2f2"
+    ],
+    "count": 1,
+    "create_time": 1767773775,
+    "update_time": 1767773775,
+    "_id": "Người Được Bảo Hiểm<SEP>Thời Hạn Chi Trả Tiền Bảo Hiểm"
+  },
+  "MIC<SEP>Thời Hạn Chi Trả Tiền Bảo Hiểm": {
+    "chunk_ids": [
+      "chunk-1cb5377325585ba3a3f9cdfbb690d58a",
+      "chunk-6fe2b9bbe0b1b1ce8802acc962b5507b"
+    ],
+    "count": 2,
+    "update_time": 1767773917,
+    "_id": "MIC<SEP>Thời Hạn Chi Trả Tiền Bảo Hiểm"
+  },
+  "Hợp Đồng Bảo Hiểm/Giấy Chứng Nhận Bảo Hiểm<SEP>Người Được Bảo Hiểm": {
+    "chunk_ids": [
+      "chunk-93b7dc3ef8a0fc7640f0cb07ff54008c"
+    ],
+    "count": 1,
+    "create_time": 1767773777,
+    "update_time": 1767773777,
+    "_id": "Hợp Đồng Bảo Hiểm/Giấy Chứng Nhận Bảo Hiểm<SEP>Người Được Bảo Hiểm"
+  },
+  "Hợp Đồng Bảo Hiểm/Giấy Chứng Nhận Bảo Hiểm<SEP>Số Tiền Bảo Hiểm": {
+    "chunk_ids": [
+      "chunk-93b7dc3ef8a0fc7640f0cb07ff54008c"
+    ],
+    "count": 1,
+    "create_time": 1767773779,
+    "update_time": 1767773779,
+    "_id": "Hợp Đồng Bảo Hiểm/Giấy Chứng Nhận Bảo Hiểm<SEP>Số Tiền Bảo Hiểm"
+  },
+  "Hồ Sơ Yêu Cầu Trả Tiền Bảo Hiểm<SEP>MIC": {
+    "chunk_ids": [
+      "chunk-1cb5377325585ba3a3f9cdfbb690d58a",
+      "chunk-e52766fde2b87864523906c0dbd48122"
+    ],
+    "count": 2,
+    "update_time": 1767773817,
+    "_id": "Hồ Sơ Yêu Cầu Trả Tiền Bảo Hiểm<SEP>MIC"
+  },
+  "Người Được Bảo Hiểm<SEP>Thời Gian Xảy Ra Sự Kiện Bất Khả Kháng": {
+    "chunk_ids": [
+      "chunk-89f30616382389aa8ebba2bc7065a2f2"
+    ],
+    "count": 1,
+    "create_time": 1767773779,
+    "update_time": 1767773779,
+    "_id": "Người Được Bảo Hiểm<SEP>Thời Gian Xảy Ra Sự Kiện Bất Khả Kháng"
+  },
+  "Hợp Đồng Bảo Hiểm/Giấy Chứng Nhận Bảo Hiểm<SEP>Phí Bảo Hiểm": {
+    "chunk_ids": [
+      "chunk-93b7dc3ef8a0fc7640f0cb07ff54008c"
+    ],
+    "count": 1,
+    "create_time": 1767773782,
+    "update_time": 1767773782,
+    "_id": "Hợp Đồng Bảo Hiểm/Giấy Chứng Nhận Bảo Hiểm<SEP>Phí Bảo Hiểm"
+  },
+  "Hợp Đồng Bảo Hiểm/Giấy Chứng Nhận Bảo Hiểm<SEP>Thời Hạn Bảo Hiểm": {
+    "chunk_ids": [
+      "chunk-93b7dc3ef8a0fc7640f0cb07ff54008c"
+    ],
+    "count": 1,
+    "create_time": 1767773784,
+    "update_time": 1767773784,
+    "_id": "Hợp Đồng Bảo Hiểm/Giấy Chứng Nhận Bảo Hiểm<SEP>Thời Hạn Bảo Hiểm"
+  },
+  "Chấm Dứt Bảo Hiểm<SEP>Hợp Đồng Bảo Hiểm/Giấy Chứng Nhận Bảo Hiểm": {
+    "chunk_ids": [
+      "chunk-93b7dc3ef8a0fc7640f0cb07ff54008c"
+    ],
+    "count": 1,
+    "create_time": 1767773785,
+    "update_time": 1767773785,
+    "_id": "Chấm Dứt Bảo Hiểm<SEP>Hợp Đồng Bảo Hiểm/Giấy Chứng Nhận Bảo Hiểm"
+  },
+  "Hợp Đồng Bảo Hiểm/Giấy Chứng Nhận Bảo Hiểm<SEP>Thỏa Thuận Khác": {
+    "chunk_ids": [
+      "chunk-93b7dc3ef8a0fc7640f0cb07ff54008c"
+    ],
+    "count": 1,
+    "create_time": 1767773787,
+    "update_time": 1767773787,
+    "_id": "Hợp Đồng Bảo Hiểm/Giấy Chứng Nhận Bảo Hiểm<SEP>Thỏa Thuận Khác"
+  },
+  "Các Chất Kích Thích Tương Tự<SEP>Người Được Bảo Hiểm": {
+    "chunk_ids": [
+      "chunk-89f30616382389aa8ebba2bc7065a2f2"
+    ],
+    "count": 1,
+    "create_time": 1767773787,
+    "update_time": 1767773787,
+    "_id": "Các Chất Kích Thích Tương Tự<SEP>Người Được Bảo Hiểm"
+  },
+  "Người Được Bảo Hiểm<SEP>Trách Nhiệm Của Người Được Bảo Hiểm": {
+    "chunk_ids": [
+      "chunk-d211f10d4b72c1e353ee54ccae7e9b7d"
+    ],
+    "count": 1,
+    "create_time": 1767773789,
+    "update_time": 1767773789,
+    "_id": "Người Được Bảo Hiểm<SEP>Trách Nhiệm Của Người Được Bảo Hiểm"
+  },
+  "Người Được Bảo Hiểm<SEP>Tuổi Được Bảo Hiểm": {
+    "chunk_ids": [
+      "chunk-4d42a014937982929d5e2474526803f9"
+    ],
+    "count": 1,
+    "create_time": 1767773792,
+    "update_time": 1767773792,
+    "_id": "Người Được Bảo Hiểm<SEP>Tuổi Được Bảo Hiểm"
+  },
+  "Loại Trừ Bảo Hiểm<SEP>MIC": {
+    "chunk_ids": [
+      "chunk-90b99dfb670a3bfaf87eda1d81a45b4f"
+    ],
+    "count": 1,
+    "create_time": 1767773795,
+    "update_time": 1767773795,
+    "_id": "Loại Trừ Bảo Hiểm<SEP>MIC"
+  },
+  "Hợp Đồng Bảo Hiểm<SEP>Người Được Bảo Hiểm": {
+    "chunk_ids": [
+      "chunk-bf27025922fb75f2f43f294e9efe1260",
+      "chunk-7da85a96e3094ad6eaf7f75b7a7ad7e0",
+      "chunk-a6ef07a06d2f6d2ffbd08af43f3acd5f",
+      "chunk-01abb25309f4706fae5f347c21749278",
+      "chunk-c8c72a6b8a3223b564b1e9c39072d19d",
+      "chunk-4d42a014937982929d5e2474526803f9",
+      "chunk-8871c544e05f6353e225619b00263745",
+      "chunk-6092059a18c814d57fd009445825adb5",
+      "chunk-998610ea4b582ed596e5650f9d9dc51b"
+    ],
+    "count": 9,
+    "update_time": 1767774081,
+    "_id": "Hợp Đồng Bảo Hiểm<SEP>Người Được Bảo Hiểm"
+  },
+  "Chấm Dứt Hợp Đồng Bảo Hiểm<SEP>Hợp Đồng Bảo Hiểm": {
+    "chunk_ids": [
+      "chunk-bf27025922fb75f2f43f294e9efe1260"
+    ],
+    "count": 1,
+    "create_time": 1767773797,
+    "update_time": 1767773797,
+    "_id": "Chấm Dứt Hợp Đồng Bảo Hiểm<SEP>Hợp Đồng Bảo Hiểm"
+  },
+  "Người Được Bảo Hiểm<SEP>Ốm Đau, Bệnh Tật": {
+    "chunk_ids": [
+      "chunk-4d42a014937982929d5e2474526803f9",
+      "chunk-f61282ff7560b22c13d62b8ba2bb6a60"
+    ],
+    "count": 2,
+    "create_time": 1767773797,
+    "update_time": 1767773797,
+    "_id": "Người Được Bảo Hiểm<SEP>Ốm Đau, Bệnh Tật"
+  },
+  "Khiếu Nại Bắt Cóc<SEP>MIC": {
+    "chunk_ids": [
+      "chunk-d10df87d58b72347262083caee9ea0c4"
+    ],
+    "count": 1,
+    "create_time": 1767773797,
+    "update_time": 1767773797,
+    "_id": "Khiếu Nại Bắt Cóc<SEP>MIC"
+  },
+  "Giải Quyết Tranh Chấp<SEP>Hợp Đồng Bảo Hiểm": {
+    "chunk_ids": [
+      "chunk-7da85a96e3094ad6eaf7f75b7a7ad7e0"
+    ],
+    "count": 1,
+    "create_time": 1767773798,
+    "update_time": 1767773798,
+    "_id": "Giải Quyết Tranh Chấp<SEP>Hợp Đồng Bảo Hiểm"
+  },
+  "MIC<SEP>Sự Kiện Bảo Hiểm": {
+    "chunk_ids": [
+      "chunk-e52766fde2b87864523906c0dbd48122",
+      "chunk-ebac2b5a89f481f8c97f108fd2809915"
+    ],
+    "count": 2,
+    "update_time": 1767773914,
+    "_id": "MIC<SEP>Sự Kiện Bảo Hiểm"
+  },
+  "Người Được Bảo Hiểm<SEP>Thương Tật": {
+    "chunk_ids": [
+      "chunk-f61282ff7560b22c13d62b8ba2bb6a60"
+    ],
+    "count": 1,
+    "create_time": 1767773799,
+    "update_time": 1767773799,
+    "_id": "Người Được Bảo Hiểm<SEP>Thương Tật"
+  },
+  "Mất Tích<SEP>Người Được Bảo Hiểm": {
+    "chunk_ids": [
+      "chunk-f61282ff7560b22c13d62b8ba2bb6a60"
+    ],
+    "count": 1,
+    "create_time": 1767773800,
+    "update_time": 1767773800,
+    "_id": "Mất Tích<SEP>Người Được Bảo Hiểm"
+  },
+  "Giải Quyết Tranh Chấp<SEP>Việt Nam": {
+    "chunk_ids": [
+      "chunk-7da85a96e3094ad6eaf7f75b7a7ad7e0"
+    ],
+    "count": 1,
+    "create_time": 1767773802,
+    "update_time": 1767773802,
+    "_id": "Giải Quyết Tranh Chấp<SEP>Việt Nam"
+  },
+  "Hợp Đồng Bảo Hiểm<SEP>Thời Hiệu Khởi Kiện": {
+    "chunk_ids": [
+      "chunk-7da85a96e3094ad6eaf7f75b7a7ad7e0"
+    ],
+    "count": 1,
+    "create_time": 1767773802,
+    "update_time": 1767773802,
+    "_id": "Hợp Đồng Bảo Hiểm<SEP>Thời Hiệu Khởi Kiện"
+  },
+  "Các Hoạt Động Thể Thao Chuyên Nghiệp<SEP>Hợp Đồng Bảo Hiểm": {
+    "chunk_ids": [
+      "chunk-a6ef07a06d2f6d2ffbd08af43f3acd5f"
+    ],
+    "count": 1,
+    "create_time": 1767773804,
+    "update_time": 1767773804,
+    "_id": "Các Hoạt Động Thể Thao Chuyên Nghiệp<SEP>Hợp Đồng Bảo Hiểm"
+  },
+  "Các Hoạt Động Thể Thao Nguy Hiểm<SEP>Hợp Đồng Bảo Hiểm": {
+    "chunk_ids": [
+      "chunk-a6ef07a06d2f6d2ffbd08af43f3acd5f"
+    ],
+    "count": 1,
+    "create_time": 1767773805,
+    "update_time": 1767773805,
+    "_id": "Các Hoạt Động Thể Thao Nguy Hiểm<SEP>Hợp Đồng Bảo Hiểm"
+  },
+  "MIC<SEP>Điều Khoản Loại Trừ": {
+    "chunk_ids": [
+      "chunk-d211f10d4b72c1e353ee54ccae7e9b7d"
+    ],
+    "count": 1,
+    "create_time": 1767773813,
+    "update_time": 1767773813,
+    "_id": "MIC<SEP>Điều Khoản Loại Trừ"
+  },
+  "MIC<SEP>Quy Tắc Bảo Hiểm Khách Du Lịch Trong Nước": {
+    "chunk_ids": [
+      "chunk-4d42a014937982929d5e2474526803f9"
+    ],
+    "count": 1,
+    "create_time": 1767773815,
+    "update_time": 1767773815,
+    "_id": "MIC<SEP>Quy Tắc Bảo Hiểm Khách Du Lịch Trong Nước"
+  },
+  "Giấy Chứng Nhận Bảo Hiểm<SEP>Hợp Đồng Bảo Hiểm/Giấy Chứng Nhận Bảo Hiểm": {
+    "chunk_ids": [
+      "chunk-93b7dc3ef8a0fc7640f0cb07ff54008c"
+    ],
+    "count": 1,
+    "create_time": 1767773815,
+    "update_time": 1767773815,
+    "_id": "Giấy Chứng Nhận Bảo Hiểm<SEP>Hợp Đồng Bảo Hiểm/Giấy Chứng Nhận Bảo Hiểm"
+  },
+  "Bảng Tỷ Lệ Trả Tiền Thương Tật<SEP>Hợp Đồng Bảo Hiểm": {
+    "chunk_ids": [
+      "chunk-7637fa2d80e160aceb46c3a438b312b2"
+    ],
+    "count": 1,
+    "create_time": 1767773823,
+    "update_time": 1767773823,
+    "_id": "Bảng Tỷ Lệ Trả Tiền Thương Tật<SEP>Hợp Đồng Bảo Hiểm"
+  },
+  "Dụng Cụ Chơi Golf<SEP>Hợp Đồng Bảo Hiểm": {
+    "chunk_ids": [
+      "chunk-90b99dfb670a3bfaf87eda1d81a45b4f"
+    ],
+    "count": 1,
+    "create_time": 1767773840,
+    "update_time": 1767773840,
+    "_id": "Dụng Cụ Chơi Golf<SEP>Hợp Đồng Bảo Hiểm"
+  },
+  "Bảo Hiểm Thất Lạc Thẻ Ngân Hàng<SEP>Hợp Đồng Bảo Hiểm": {
+    "chunk_ids": [
+      "chunk-d211f10d4b72c1e353ee54ccae7e9b7d"
+    ],
+    "count": 1,
+    "create_time": 1767773842,
+    "update_time": 1767773842,
+    "_id": "Bảo Hiểm Thất Lạc Thẻ Ngân Hàng<SEP>Hợp Đồng Bảo Hiểm"
+  },
+  "Bắt Cóc và Con Tin<SEP>Hợp Đồng Bảo Hiểm": {
+    "chunk_ids": [
+      "chunk-d211f10d4b72c1e353ee54ccae7e9b7d"
+    ],
+    "count": 1,
+    "create_time": 1767773843,
+    "update_time": 1767773843,
+    "_id": "Bắt Cóc và Con Tin<SEP>Hợp Đồng Bảo Hiểm"
+  },
+  "Hợp Đồng Bảo Hiểm<SEP>Mất hoặc Hư Hỏng Dụng Cụ Chơi Golf": {
+    "chunk_ids": [
+      "chunk-d211f10d4b72c1e353ee54ccae7e9b7d"
+    ],
+    "count": 1,
+    "create_time": 1767773845,
+    "update_time": 1767773845,
+    "_id": "Hợp Đồng Bảo Hiểm<SEP>Mất hoặc Hư Hỏng Dụng Cụ Chơi Golf"
+  },
+  "Hợp Đồng Bảo Hiểm<SEP>Luật Kinh Doanh Bảo Hiểm": {
+    "chunk_ids": [
+      "chunk-c8c72a6b8a3223b564b1e9c39072d19d"
+    ],
+    "count": 1,
+    "create_time": 1767773847,
+    "update_time": 1767773847,
+    "_id": "Hợp Đồng Bảo Hiểm<SEP>Luật Kinh Doanh Bảo Hiểm"
+  },
+  "Hợp Đồng Bảo Hiểm<SEP>Việt Nam": {
+    "chunk_ids": [
+      "chunk-c8c72a6b8a3223b564b1e9c39072d19d"
+    ],
+    "count": 1,
+    "create_time": 1767773848,
+    "update_time": 1767773848,
+    "_id": "Hợp Đồng Bảo Hiểm<SEP>Việt Nam"
+  },
+  "Hợp Đồng Bảo Hiểm<SEP>Thời Hạn Khiếu Nại": {
+    "chunk_ids": [
+      "chunk-c8c72a6b8a3223b564b1e9c39072d19d"
+    ],
+    "count": 1,
+    "create_time": 1767773850,
+    "update_time": 1767773850,
+    "_id": "Hợp Đồng Bảo Hiểm<SEP>Thời Hạn Khiếu Nại"
+  },
+  "Hợp Đồng Bảo Hiểm<SEP>Người Thụ Hưởng": {
+    "chunk_ids": [
+      "chunk-4d42a014937982929d5e2474526803f9"
+    ],
+    "count": 1,
+    "create_time": 1767773851,
+    "update_time": 1767773851,
+    "_id": "Hợp Đồng Bảo Hiểm<SEP>Người Thụ Hưởng"
+  },
+  "Bên Mua Bảo Hiểm<SEP>Hợp Đồng Bảo Hiểm": {
+    "chunk_ids": [
+      "chunk-2ad82e95eb355055745e2219735423e1",
+      "chunk-bf27025922fb75f2f43f294e9efe1260",
+      "chunk-7da85a96e3094ad6eaf7f75b7a7ad7e0",
+      "chunk-c8c72a6b8a3223b564b1e9c39072d19d",
+      "chunk-ebac2b5a89f481f8c97f108fd2809915",
+      "chunk-16aea2d123f3b06e6e624b18b4141087",
+      "chunk-6092059a18c814d57fd009445825adb5"
+    ],
+    "count": 7,
+    "update_time": 1767773941,
+    "_id": "Bên Mua Bảo Hiểm<SEP>Hợp Đồng Bảo Hiểm"
+  },
+  "Bên Mua Bảo Hiểm<SEP>Hồ Sơ Yêu Cầu Bồi Thường": {
+    "chunk_ids": [
+      "chunk-2ad82e95eb355055745e2219735423e1"
+    ],
+    "count": 1,
+    "create_time": 1767773857,
+    "update_time": 1767773857,
+    "_id": "Bên Mua Bảo Hiểm<SEP>Hồ Sơ Yêu Cầu Bồi Thường"
+  },
+  "Bên Mua Bảo Hiểm<SEP>Khiếu Nại Trách Nhiệm Cá Nhân": {
+    "chunk_ids": [
+      "chunk-d10df87d58b72347262083caee9ea0c4"
+    ],
+    "count": 1,
+    "create_time": 1767773859,
+    "update_time": 1767773859,
+    "_id": "Bên Mua Bảo Hiểm<SEP>Khiếu Nại Trách Nhiệm Cá Nhân"
+  },
+  "Bên Mua Bảo Hiểm<SEP>Khiếu Nại Về Mất/Hư Hỏng Dụng Cụ Chơi Golf": {
+    "chunk_ids": [
+      "chunk-d10df87d58b72347262083caee9ea0c4"
+    ],
+    "count": 1,
+    "create_time": 1767773867,
+    "update_time": 1767773867,
+    "_id": "Bên Mua Bảo Hiểm<SEP>Khiếu Nại Về Mất/Hư Hỏng Dụng Cụ Chơi Golf"
+  },
+  "Hạn Chế Chi Trả<SEP>MIC": {
+    "chunk_ids": [
+      "chunk-8871c544e05f6353e225619b00263745"
+    ],
+    "count": 1,
+    "create_time": 1767773870,
+    "update_time": 1767773870,
+    "_id": "Hạn Chế Chi Trả<SEP>MIC"
+  },
+  "Thời Hạn Khiếu Nại<SEP>Tranh Chấp": {
+    "chunk_ids": [
+      "chunk-ebac2b5a89f481f8c97f108fd2809915"
+    ],
+    "count": 1,
+    "create_time": 1767773870,
+    "update_time": 1767773870,
+    "_id": "Thời Hạn Khiếu Nại<SEP>Tranh Chấp"
+  },
+  "MIC<SEP>Quyền Lợi Bảo Hiểm": {
+    "chunk_ids": [
+      "chunk-8871c544e05f6353e225619b00263745"
+    ],
+    "count": 1,
+    "create_time": 1767773871,
+    "update_time": 1767773871,
+    "_id": "MIC<SEP>Quyền Lợi Bảo Hiểm"
+  },
+  "Biên Bản Tường Trình Tai Nạn<SEP>Tai Nạn Giao Thông": {
+    "chunk_ids": [
+      "chunk-16aea2d123f3b06e6e624b18b4141087"
+    ],
+    "count": 1,
+    "create_time": 1767773873,
+    "update_time": 1767773873,
+    "_id": "Biên Bản Tường Trình Tai Nạn<SEP>Tai Nạn Giao Thông"
+  },
+  "Giấy Chứng Nhận Bảo Hiểm<SEP>Người Được Bảo Hiểm": {
+    "chunk_ids": [
+      "chunk-8871c544e05f6353e225619b00263745"
+    ],
+    "count": 1,
+    "create_time": 1767773873,
+    "update_time": 1767773873,
+    "_id": "Giấy Chứng Nhận Bảo Hiểm<SEP>Người Được Bảo Hiểm"
+  },
+  "Người Được Bảo Hiểm<SEP>Tử Vong Do Tai Nạn": {
+    "chunk_ids": [
+      "chunk-8871c544e05f6353e225619b00263745"
+    ],
+    "count": 1,
+    "create_time": 1767773874,
+    "update_time": 1767773874,
+    "_id": "Người Được Bảo Hiểm<SEP>Tử Vong Do Tai Nạn"
+  },
+  "Biên Bản Kết Luận<SEP>Tai Nạn Giao Thông": {
+    "chunk_ids": [
+      "chunk-16aea2d123f3b06e6e624b18b4141087"
+    ],
+    "count": 1,
+    "create_time": 1767773874,
+    "update_time": 1767773874,
+    "_id": "Biên Bản Kết Luận<SEP>Tai Nạn Giao Thông"
+  },
+  "Người Được Bảo Hiểm<SEP>Thương Tật Toàn Bộ Vĩnh Viễn Do Tai Nạn": {
+    "chunk_ids": [
+      "chunk-8871c544e05f6353e225619b00263745"
+    ],
+    "count": 1,
+    "create_time": 1767773876,
+    "update_time": 1767773876,
+    "_id": "Người Được Bảo Hiểm<SEP>Thương Tật Toàn Bộ Vĩnh Viễn Do Tai Nạn"
+  },
+  "Giấy Phép Lái Xe<SEP>Tai Nạn Giao Thông": {
+    "chunk_ids": [
+      "chunk-16aea2d123f3b06e6e624b18b4141087"
+    ],
+    "count": 1,
+    "create_time": 1767773876,
+    "update_time": 1767773876,
+    "_id": "Giấy Phép Lái Xe<SEP>Tai Nạn Giao Thông"
+  },
+  "Quyền và Nghĩa Vụ của Bên Mua Bảo Hiểm<SEP>Quyền và Nghĩa Vụ của MIC": {
+    "chunk_ids": [
+      "chunk-16aea2d123f3b06e6e624b18b4141087"
+    ],
+    "count": 1,
+    "create_time": 1767773876,
+    "update_time": 1767773876,
+    "_id": "Quyền và Nghĩa Vụ của Bên Mua Bảo Hiểm<SEP>Quyền và Nghĩa Vụ của MIC"
+  },
+  "Người Được Bảo Hiểm<SEP>Thương Tật Bộ Phận Vĩnh Viễn Do Tai Nạn": {
+    "chunk_ids": [
+      "chunk-8871c544e05f6353e225619b00263745"
+    ],
+    "count": 1,
+    "create_time": 1767773877,
+    "update_time": 1767773877,
+    "_id": "Người Được Bảo Hiểm<SEP>Thương Tật Bộ Phận Vĩnh Viễn Do Tai Nạn"
+  },
+  "Giấy Đăng Ký Xe<SEP>Tai Nạn Giao Thông": {
+    "chunk_ids": [
+      "chunk-16aea2d123f3b06e6e624b18b4141087"
+    ],
+    "count": 1,
+    "create_time": 1767773878,
+    "update_time": 1767773878,
+    "_id": "Giấy Đăng Ký Xe<SEP>Tai Nạn Giao Thông"
+  },
+  "Người Được Bảo Hiểm<SEP>Tử Vong Do Bệnh Tật": {
+    "chunk_ids": [
+      "chunk-8871c544e05f6353e225619b00263745"
+    ],
+    "count": 1,
+    "create_time": 1767773879,
+    "update_time": 1767773879,
+    "_id": "Người Được Bảo Hiểm<SEP>Tử Vong Do Bệnh Tật"
+  },
+  "Giấy Chứng Thương<SEP>Tai Nạn Giao Thông": {
+    "chunk_ids": [
+      "chunk-16aea2d123f3b06e6e624b18b4141087"
+    ],
+    "count": 1,
+    "create_time": 1767773880,
+    "update_time": 1767773880,
+    "_id": "Giấy Chứng Thương<SEP>Tai Nạn Giao Thông"
+  },
+  "Bác Sỹ<SEP>Dị Tật Bẩm Sinh": {
+    "chunk_ids": [
+      "chunk-c0f5a70cceb64e7a4f1d267e11437b37"
+    ],
+    "count": 1,
+    "create_time": 1767773880,
+    "update_time": 1767773880,
+    "_id": "Bác Sỹ<SEP>Dị Tật Bẩm Sinh"
+  },
+  "Người Được Bảo Hiểm<SEP>Trợ Cấp Nằm Viện": {
+    "chunk_ids": [
+      "chunk-8871c544e05f6353e225619b00263745"
+    ],
+    "count": 1,
+    "create_time": 1767773880,
+    "update_time": 1767773880,
+    "_id": "Người Được Bảo Hiểm<SEP>Trợ Cấp Nằm Viện"
+  },
+  "Luật An Toàn Giao Thông<SEP>Người Được Bảo Hiểm": {
+    "chunk_ids": [
+      "chunk-6fe2b9bbe0b1b1ce8802acc962b5507b"
+    ],
+    "count": 1,
+    "create_time": 1767773882,
+    "update_time": 1767773882,
+    "_id": "Luật An Toàn Giao Thông<SEP>Người Được Bảo Hiểm"
+  },
+  "Phạm Vi Địa Lý<SEP>Quy Tắc Bảo Hiểm": {
+    "chunk_ids": [
+      "chunk-c0f5a70cceb64e7a4f1d267e11437b37"
+    ],
+    "count": 1,
+    "create_time": 1767773882,
+    "update_time": 1767773882,
+    "_id": "Phạm Vi Địa Lý<SEP>Quy Tắc Bảo Hiểm"
+  },
+  "Bác Sỹ<SEP>Bệnh Di Truyền": {
+    "chunk_ids": [
+      "chunk-c0f5a70cceb64e7a4f1d267e11437b37"
+    ],
+    "count": 1,
+    "create_time": 1767773882,
+    "update_time": 1767773882,
+    "_id": "Bác Sỹ<SEP>Bệnh Di Truyền"
+  },
+  "Bệnh Viện<SEP>Điều Trị Nội Trú": {
+    "chunk_ids": [
+      "chunk-c0f5a70cceb64e7a4f1d267e11437b37"
+    ],
+    "count": 1,
+    "create_time": 1767773882,
+    "update_time": 1767773882,
+    "_id": "Bệnh Viện<SEP>Điều Trị Nội Trú"
+  },
+  "Bác Sỹ<SEP>Điều Trị Nội Trú": {
+    "chunk_ids": [
+      "chunk-c0f5a70cceb64e7a4f1d267e11437b37"
+    ],
+    "count": 1,
+    "create_time": 1767773884,
+    "update_time": 1767773884,
+    "_id": "Bác Sỹ<SEP>Điều Trị Nội Trú"
+  },
+  "Quy Tắc Bảo Hiểm<SEP>Thời Gian Chờ": {
+    "chunk_ids": [
+      "chunk-c0f5a70cceb64e7a4f1d267e11437b37"
+    ],
+    "count": 1,
+    "create_time": 1767773884,
+    "update_time": 1767773884,
+    "_id": "Quy Tắc Bảo Hiểm<SEP>Thời Gian Chờ"
+  },
+  "Người Thụ Hưởng<SEP>Yêu Cầu Giải Quyết Khiếu Nại": {
+    "chunk_ids": [
+      "chunk-6fe2b9bbe0b1b1ce8802acc962b5507b"
+    ],
+    "count": 1,
+    "create_time": 1767773885,
+    "update_time": 1767773885,
+    "_id": "Người Thụ Hưởng<SEP>Yêu Cầu Giải Quyết Khiếu Nại"
+  },
+  "Người Được Bảo Hiểm<SEP>Sự Kiện Bảo Hiểm": {
+    "chunk_ids": [
+      "chunk-6fe2b9bbe0b1b1ce8802acc962b5507b"
+    ],
+    "count": 1,
+    "create_time": 1767773885,
+    "update_time": 1767773885,
+    "_id": "Người Được Bảo Hiểm<SEP>Sự Kiện Bảo Hiểm"
+  },
+  "Quy Tắc Bảo Hiểm<SEP>Tái Tục Liên Tục": {
+    "chunk_ids": [
+      "chunk-c0f5a70cceb64e7a4f1d267e11437b37"
+    ],
+    "count": 1,
+    "create_time": 1767773885,
+    "update_time": 1767773885,
+    "_id": "Quy Tắc Bảo Hiểm<SEP>Tái Tục Liên Tục"
+  },
+  "Cấp Tín Dụng<SEP>Hợp Đồng Tín Dụng": {
+    "chunk_ids": [
+      "chunk-1adc087de131a303dfcd11e627b2be48"
+    ],
+    "count": 1,
+    "create_time": 1767773887,
+    "update_time": 1767773887,
+    "_id": "Cấp Tín Dụng<SEP>Hợp Đồng Tín Dụng"
+  },
+  "Tai Nạn<SEP>Thương Tật Toàn Bộ Vĩnh Viễn": {
+    "chunk_ids": [
+      "chunk-1adc087de131a303dfcd11e627b2be48"
+    ],
+    "count": 1,
+    "create_time": 1767773888,
+    "update_time": 1767773888,
+    "_id": "Tai Nạn<SEP>Thương Tật Toàn Bộ Vĩnh Viễn"
+  },
+  "Người Được Bảo Hiểm<SEP>Đánh Nhau": {
+    "chunk_ids": [
+      "chunk-6fe2b9bbe0b1b1ce8802acc962b5507b"
+    ],
+    "count": 1,
+    "create_time": 1767773888,
+    "update_time": 1767773888,
+    "_id": "Người Được Bảo Hiểm<SEP>Đánh Nhau"
+  },
+  "Cấp Tín Dụng<SEP>Dư Nợ Tín Dụng": {
+    "chunk_ids": [
+      "chunk-1adc087de131a303dfcd11e627b2be48"
+    ],
+    "count": 1,
+    "create_time": 1767773888,
+    "update_time": 1767773888,
+    "_id": "Cấp Tín Dụng<SEP>Dư Nợ Tín Dụng"
+  },
+  "Bệnh Đặc Biệt<SEP>Ốm Đau, Bệnh Tật": {
+    "chunk_ids": [
+      "chunk-1adc087de131a303dfcd11e627b2be48"
+    ],
+    "count": 1,
+    "create_time": 1767773888,
+    "update_time": 1767773888,
+    "_id": "Bệnh Đặc Biệt<SEP>Ốm Đau, Bệnh Tật"
+  },
+  "Người Được Bảo Hiểm<SEP>Thuốc Đông Y": {
+    "chunk_ids": [
+      "chunk-6fe2b9bbe0b1b1ce8802acc962b5507b"
+    ],
+    "count": 1,
+    "create_time": 1767773890,
+    "update_time": 1767773890,
+    "_id": "Người Được Bảo Hiểm<SEP>Thuốc Đông Y"
+  },
+  "Bệnh Đặc Biệt<SEP>Giám Định Và Xác Nhận": {
+    "chunk_ids": [
+      "chunk-6eb9f06932dd611bcf753f447b478704"
+    ],
+    "count": 1,
+    "create_time": 1767773890,
+    "update_time": 1767773890,
+    "_id": "Bệnh Đặc Biệt<SEP>Giám Định Và Xác Nhận"
+  },
+  "Hoạt Động Hàng Không<SEP>Người Được Bảo Hiểm": {
+    "chunk_ids": [
+      "chunk-6fe2b9bbe0b1b1ce8802acc962b5507b"
+    ],
+    "count": 1,
+    "create_time": 1767773891,
+    "update_time": 1767773891,
+    "_id": "Hoạt Động Hàng Không<SEP>Người Được Bảo Hiểm"
+  },
+  "Bệnh Hệ Thần Kinh<SEP>Bệnh Đặc Biệt": {
+    "chunk_ids": [
+      "chunk-6eb9f06932dd611bcf753f447b478704"
+    ],
+    "count": 1,
+    "create_time": 1767773891,
+    "update_time": 1767773891,
+    "_id": "Bệnh Hệ Thần Kinh<SEP>Bệnh Đặc Biệt"
+  },
+  "Người Được Bảo Hiểm<SEP>Rủi Ro Thảm Họa": {
+    "chunk_ids": [
+      "chunk-6fe2b9bbe0b1b1ce8802acc962b5507b"
+    ],
+    "count": 1,
+    "create_time": 1767773893,
+    "update_time": 1767773893,
+    "_id": "Người Được Bảo Hiểm<SEP>Rủi Ro Thảm Họa"
+  },
+  "Bệnh Hệ Hô Hấp<SEP>Bệnh Đặc Biệt": {
+    "chunk_ids": [
+      "chunk-6eb9f06932dd611bcf753f447b478704"
+    ],
+    "count": 1,
+    "create_time": 1767773893,
+    "update_time": 1767773893,
+    "_id": "Bệnh Hệ Hô Hấp<SEP>Bệnh Đặc Biệt"
+  },
+  "Bệnh Có Sẵn<SEP>Bệnh Đặc Biệt": {
+    "chunk_ids": [
+      "chunk-6eb9f06932dd611bcf753f447b478704"
+    ],
+    "count": 1,
+    "create_time": 1767773894,
+    "update_time": 1767773894,
+    "_id": "Bệnh Có Sẵn<SEP>Bệnh Đặc Biệt"
+  },
+  "Giám Định Và Xác Nhận<SEP>Phạm Vi Địa Lý": {
+    "chunk_ids": [
+      "chunk-6eb9f06932dd611bcf753f447b478704"
+    ],
+    "count": 1,
+    "create_time": 1767773894,
+    "update_time": 1767773894,
+    "_id": "Giám Định Và Xác Nhận<SEP>Phạm Vi Địa Lý"
+  },
+  "Bệnh Hệ Tuần Hoàn<SEP>Bệnh Mạch Máu": {
+    "chunk_ids": [
+      "chunk-6eb9f06932dd611bcf753f447b478704"
+    ],
+    "count": 1,
+    "create_time": 1767773895,
+    "update_time": 1767773895,
+    "_id": "Bệnh Hệ Tuần Hoàn<SEP>Bệnh Mạch Máu"
+  },
+  "Chiến Tranh và Khủng Bố<SEP>Người Được Bảo Hiểm": {
+    "chunk_ids": [
+      "chunk-6fe2b9bbe0b1b1ce8802acc962b5507b"
+    ],
+    "count": 1,
+    "create_time": 1767773895,
+    "update_time": 1767773895,
+    "_id": "Chiến Tranh và Khủng Bố<SEP>Người Được Bảo Hiểm"
+  },
+  "Bệnh Bẩm Sinh<SEP>Bệnh Đặc Biệt": {
+    "chunk_ids": [
+      "chunk-6eb9f06932dd611bcf753f447b478704"
+    ],
+    "count": 1,
+    "create_time": 1767773897,
+    "update_time": 1767773897,
+    "_id": "Bệnh Bẩm Sinh<SEP>Bệnh Đặc Biệt"
+  },
+  "Người Được Bảo Hiểm<SEP>Thể Thao Chuyên Nghiệp": {
+    "chunk_ids": [
+      "chunk-6fe2b9bbe0b1b1ce8802acc962b5507b"
+    ],
+    "count": 1,
+    "create_time": 1767773897,
+    "update_time": 1767773897,
+    "_id": "Người Được Bảo Hiểm<SEP>Thể Thao Chuyên Nghiệp"
+  },
+  "Bệnh Lây Qua Đường Tình Dục<SEP>Người Được Bảo Hiểm": {
+    "chunk_ids": [
+      "chunk-6fe2b9bbe0b1b1ce8802acc962b5507b"
+    ],
+    "count": 1,
+    "create_time": 1767773898,
+    "update_time": 1767773898,
+    "_id": "Bệnh Lây Qua Đường Tình Dục<SEP>Người Được Bảo Hiểm"
+  },
+  "Bệnh Di Truyền<SEP>Bệnh Đặc Biệt": {
+    "chunk_ids": [
+      "chunk-6eb9f06932dd611bcf753f447b478704"
+    ],
+    "count": 1,
+    "create_time": 1767773898,
+    "update_time": 1767773898,
+    "_id": "Bệnh Di Truyền<SEP>Bệnh Đặc Biệt"
+  },
+  "Người Được Bảo Hiểm<SEP>Ngộ Độc": {
+    "chunk_ids": [
+      "chunk-6fe2b9bbe0b1b1ce8802acc962b5507b"
+    ],
+    "count": 1,
+    "create_time": 1767773900,
+    "update_time": 1767773900,
+    "_id": "Người Được Bảo Hiểm<SEP>Ngộ Độc"
+  },
+  "Quy Tắc Bảo Hiểm Sức Khỏe Toàn Diện (MIC CARE 2025)<SEP>Tổng Công ty CP Bảo hiểm Quân Đội (MIC)": {
+    "chunk_ids": [
+      "chunk-8076dbeb1a833ace0127824135a4db7d"
+    ],
+    "count": 1,
+    "create_time": 1767773900,
+    "update_time": 1767773900,
+    "_id": "Quy Tắc Bảo Hiểm Sức Khỏe Toàn Diện (MIC CARE 2025)<SEP>Tổng Công ty CP Bảo hiểm Quân Đội (MIC)"
+  },
+  "Bệnh Hệ Nội Tiết<SEP>Bệnh Đặc Biệt": {
+    "chunk_ids": [
+      "chunk-6eb9f06932dd611bcf753f447b478704"
+    ],
+    "count": 1,
+    "create_time": 1767773900,
+    "update_time": 1767773900,
+    "_id": "Bệnh Hệ Nội Tiết<SEP>Bệnh Đặc Biệt"
+  },
+  "Cái Chết Không Rõ Nguyên Nhân<SEP>Người Được Bảo Hiểm": {
+    "chunk_ids": [
+      "chunk-6fe2b9bbe0b1b1ce8802acc962b5507b"
+    ],
+    "count": 1,
+    "create_time": 1767773901,
+    "update_time": 1767773901,
+    "_id": "Cái Chết Không Rõ Nguyên Nhân<SEP>Người Được Bảo Hiểm"
+  },
+  "Các Hoạt Động Thể Thao Chuyên Nghiệp<SEP>Người Được Bảo Hiểm": {
+    "chunk_ids": [
+      "chunk-b41ed360519fa208acab8935c80c972e"
+    ],
+    "count": 1,
+    "create_time": 1767773913,
+    "update_time": 1767773913,
+    "_id": "Các Hoạt Động Thể Thao Chuyên Nghiệp<SEP>Người Được Bảo Hiểm"
+  },
+  "Hóa Đơn Thu Phí Bảo Hiểm<SEP>MIC": {
+    "chunk_ids": [
+      "chunk-ebac2b5a89f481f8c97f108fd2809915"
+    ],
+    "count": 1,
+    "create_time": 1767773913,
+    "update_time": 1767773913,
+    "_id": "Hóa Đơn Thu Phí Bảo Hiểm<SEP>MIC"
+  },
+  "MIC<SEP>Người Thụ Hưởng": {
+    "chunk_ids": [
+      "chunk-6fe2b9bbe0b1b1ce8802acc962b5507b"
+    ],
+    "count": 1,
+    "create_time": 1767773916,
+    "update_time": 1767773916,
+    "_id": "MIC<SEP>Người Thụ Hưởng"
+  },
+  "Hợp Đồng Tín Dụng<SEP>Người Được Bảo Hiểm": {
+    "chunk_ids": [
+      "chunk-1adc087de131a303dfcd11e627b2be48"
+    ],
+    "count": 1,
+    "create_time": 1767773916,
+    "update_time": 1767773916,
+    "_id": "Hợp Đồng Tín Dụng<SEP>Người Được Bảo Hiểm"
+  },
+  "Hợp Đồng Tín Dụng<SEP>Tổ Chức Tín Dụng": {
+    "chunk_ids": [
+      "chunk-8076dbeb1a833ace0127824135a4db7d"
+    ],
+    "count": 1,
+    "create_time": 1767773918,
+    "update_time": 1767773918,
+    "_id": "Hợp Đồng Tín Dụng<SEP>Tổ Chức Tín Dụng"
+  },
+  "Người Được Bảo Hiểm<SEP>Tổng Công ty CP Bảo hiểm Quân Đội (MIC)": {
+    "chunk_ids": [
+      "chunk-8076dbeb1a833ace0127824135a4db7d"
+    ],
+    "count": 1,
+    "create_time": 1767773918,
+    "update_time": 1767773918,
+    "_id": "Người Được Bảo Hiểm<SEP>Tổng Công ty CP Bảo hiểm Quân Đội (MIC)"
+  },
+  "Người Được Bảo Hiểm<SEP>Tuổi được Bảo Hiểm": {
+    "chunk_ids": [
+      "chunk-8076dbeb1a833ace0127824135a4db7d"
+    ],
+    "count": 1,
+    "create_time": 1767773919,
+    "update_time": 1767773919,
+    "_id": "Người Được Bảo Hiểm<SEP>Tuổi được Bảo Hiểm"
+  },
+  "Hợp Đồng Bảo Hiểm<SEP>Tranh Chấp": {
+    "chunk_ids": [
+      "chunk-ebac2b5a89f481f8c97f108fd2809915"
+    ],
+    "count": 1,
+    "create_time": 1767773921,
+    "update_time": 1767773921,
+    "_id": "Hợp Đồng Bảo Hiểm<SEP>Tranh Chấp"
+  },
+  "Quy Tắc Bảo Hiểm Người Việt Nam Du Lịch Nước Ngoài (MIC)<SEP>Tổng Công Ty Cổ Phần Bảo Hiểm Quân Đội (MIC)": {
+    "chunk_ids": [
+      "chunk-7aed497c2466891c7eeeedeb682c7104"
+    ],
+    "count": 1,
+    "create_time": 1767773922,
+    "update_time": 1767773922,
+    "_id": "Quy Tắc Bảo Hiểm Người Việt Nam Du Lịch Nước Ngoài (MIC)<SEP>Tổng Công Ty Cổ Phần Bảo Hiểm Quân Đội (MIC)"
+  },
+  "Các Hoạt Động Thể Thao Nguy Hiểm<SEP>MIC": {
+    "chunk_ids": [
+      "chunk-b41ed360519fa208acab8935c80c972e"
+    ],
+    "count": 1,
+    "create_time": 1767773922,
+    "update_time": 1767773922,
+    "_id": "Các Hoạt Động Thể Thao Nguy Hiểm<SEP>MIC"
+  },
+  "Người Thụ Hưởng<SEP>Người Được Bảo Hiểm (NĐBH)": {
+    "chunk_ids": [
+      "chunk-7aed497c2466891c7eeeedeb682c7104",
+      "chunk-c64c7171c96f630a06962b29ef07a3f5"
+    ],
+    "count": 2,
+    "update_time": 1767773965,
+    "_id": "Người Thụ Hưởng<SEP>Người Được Bảo Hiểm (NĐBH)"
+  },
+  "Chi Phí Y Tế<SEP>Số Tiền Bảo Hiểm (STBH)": {
+    "chunk_ids": [
+      "chunk-7aed497c2466891c7eeeedeb682c7104"
+    ],
+    "count": 1,
+    "create_time": 1767773922,
+    "update_time": 1767773922,
+    "_id": "Chi Phí Y Tế<SEP>Số Tiền Bảo Hiểm (STBH)"
+  },
+  "HĐBH<SEP>Mức Độ Chi Trả": {
+    "chunk_ids": [
+      "chunk-4aceef99df6f53e07e8686c508cdc820"
+    ],
+    "count": 1,
+    "create_time": 1767773922,
+    "update_time": 1767773922,
+    "_id": "HĐBH<SEP>Mức Độ Chi Trả"
+  },
+  "Luật Việt Nam<SEP>Tòa án VN": {
+    "chunk_ids": [
+      "chunk-4aceef99df6f53e07e8686c508cdc820"
+    ],
+    "count": 1,
+    "create_time": 1767773922,
+    "update_time": 1767773922,
+    "_id": "Luật Việt Nam<SEP>Tòa án VN"
+  },
+  "Thông Báo Sự Kiện<SEP>Thời Hạn Nộp Hồ Sơ": {
+    "chunk_ids": [
+      "chunk-e44b7420aee1e6f02cdda3cb5ab35b4e"
+    ],
+    "count": 1,
+    "create_time": 1767773922,
+    "update_time": 1767773922,
+    "_id": "Thông Báo Sự Kiện<SEP>Thời Hạn Nộp Hồ Sơ"
+  },
+  "Nghĩa Vụ Bên Mua Bảo Hiểm<SEP>Quyền Bên Mua Bảo Hiểm": {
+    "chunk_ids": [
+      "chunk-e44b7420aee1e6f02cdda3cb5ab35b4e"
+    ],
+    "count": 1,
+    "create_time": 1767773922,
+    "update_time": 1767773922,
+    "_id": "Nghĩa Vụ Bên Mua Bảo Hiểm<SEP>Quyền Bên Mua Bảo Hiểm"
+  },
+  "Nghĩa Vụ MIC<SEP>Quyền MIC": {
+    "chunk_ids": [
+      "chunk-e44b7420aee1e6f02cdda3cb5ab35b4e"
+    ],
+    "count": 1,
+    "create_time": 1767773922,
+    "update_time": 1767773922,
+    "_id": "Nghĩa Vụ MIC<SEP>Quyền MIC"
+  },
+  "Bệnh Lây Qua Đường Tình Dục<SEP>Loại Trừ Riêng": {
+    "chunk_ids": [
+      "chunk-e44b7420aee1e6f02cdda3cb5ab35b4e"
+    ],
+    "count": 1,
+    "create_time": 1767773922,
+    "update_time": 1767773922,
+    "_id": "Bệnh Lây Qua Đường Tình Dục<SEP>Loại Trừ Riêng"
+  },
+  "Chi Phí Thực Tế<SEP>Hồi Hương Thi Hài & Chi Phí Mai Táng": {
+    "chunk_ids": [
+      "chunk-9d21db3a169b963a3ad9f6cfaa8e2195"
+    ],
+    "count": 1,
+    "create_time": 1767773922,
+    "update_time": 1767773922,
+    "_id": "Chi Phí Thực Tế<SEP>Hồi Hương Thi Hài & Chi Phí Mai Táng"
+  },
+  "Chi Phí Y Tế<SEP>Tử Vong/Thương Tật Vĩnh Viễn do Tai Nạn": {
+    "chunk_ids": [
+      "chunk-9d21db3a169b963a3ad9f6cfaa8e2195"
+    ],
+    "count": 1,
+    "create_time": 1767773924,
+    "update_time": 1767773924,
+    "_id": "Chi Phí Y Tế<SEP>Tử Vong/Thương Tật Vĩnh Viễn do Tai Nạn"
+  },
+  "HĐBH/GCNBH<SEP>Số Tiền Bảo Hiểm (STBH)": {
+    "chunk_ids": [
+      "chunk-9d21db3a169b963a3ad9f6cfaa8e2195"
+    ],
+    "count": 1,
+    "create_time": 1767773924,
+    "update_time": 1767773924,
+    "_id": "HĐBH/GCNBH<SEP>Số Tiền Bảo Hiểm (STBH)"
+  },
+  "Người Được Bảo Hiểm (NĐBH)<SEP>Tai Nạn": {
+    "chunk_ids": [
+      "chunk-7aed497c2466891c7eeeedeb682c7104",
+      "chunk-c64c7171c96f630a06962b29ef07a3f5"
+    ],
+    "count": 2,
+    "update_time": 1767773967,
+    "_id": "Người Được Bảo Hiểm (NĐBH)<SEP>Tai Nạn"
+  },
+  "30 Ngày Thương Lượng<SEP>Tòa án VN": {
+    "chunk_ids": [
+      "chunk-4aceef99df6f53e07e8686c508cdc820"
+    ],
+    "count": 1,
+    "create_time": 1767773924,
+    "update_time": 1767773924,
+    "_id": "30 Ngày Thương Lượng<SEP>Tòa án VN"
+  },
+  "03 Năm Thời Hiệu Khởi Kiện<SEP>Luật Việt Nam": {
+    "chunk_ids": [
+      "chunk-4aceef99df6f53e07e8686c508cdc820"
+    ],
+    "count": 1,
+    "create_time": 1767773924,
+    "update_time": 1767773924,
+    "_id": "03 Năm Thời Hiệu Khởi Kiện<SEP>Luật Việt Nam"
+  },
+  "HĐBH<SEP>Hủy Đơn Phương Chấm Dứt HĐBH": {
+    "chunk_ids": [
+      "chunk-4aceef99df6f53e07e8686c508cdc820"
+    ],
+    "count": 1,
+    "create_time": 1767773924,
+    "update_time": 1767773924,
+    "_id": "HĐBH<SEP>Hủy Đơn Phương Chấm Dứt HĐBH"
+  },
+  "Bệnh Mãn Tính<SEP>Loại Trừ Riêng": {
+    "chunk_ids": [
+      "chunk-e44b7420aee1e6f02cdda3cb5ab35b4e"
+    ],
+    "count": 1,
+    "create_time": 1767773925,
+    "update_time": 1767773925,
+    "_id": "Bệnh Mãn Tính<SEP>Loại Trừ Riêng"
+  },
+  "MIC<SEP>Thông Báo Sự Kiện": {
+    "chunk_ids": [
+      "chunk-e44b7420aee1e6f02cdda3cb5ab35b4e"
+    ],
+    "count": 1,
+    "create_time": 1767773925,
+    "update_time": 1767773925,
+    "_id": "MIC<SEP>Thông Báo Sự Kiện"
+  },
+  "Hợp Đồng Bảo Hiểm<SEP>Thời Hạn Bảo Hiểm": {
+    "chunk_ids": [
+      "chunk-6092059a18c814d57fd009445825adb5",
+      "chunk-b41ed360519fa208acab8935c80c972e"
+    ],
+    "count": 2,
+    "create_time": 1767773925,
+    "update_time": 1767773925,
+    "_id": "Hợp Đồng Bảo Hiểm<SEP>Thời Hạn Bảo Hiểm"
+  },
+  "Bệnh Có Sẵn<SEP>Người Được Bảo Hiểm (NĐBH)": {
+    "chunk_ids": [
+      "chunk-7aed497c2466891c7eeeedeb682c7104"
+    ],
+    "count": 1,
+    "create_time": 1767773926,
+    "update_time": 1767773926,
+    "_id": "Bệnh Có Sẵn<SEP>Người Được Bảo Hiểm (NĐBH)"
+  },
+  "Số Tiền Bảo Hiểm (STBH)<SEP>Tử Vong/Thương Tật Vĩnh Viễn do Tai Nạn": {
+    "chunk_ids": [
+      "chunk-9d21db3a169b963a3ad9f6cfaa8e2195"
+    ],
+    "count": 1,
+    "create_time": 1767773926,
+    "update_time": 1767773926,
+    "_id": "Số Tiền Bảo Hiểm (STBH)<SEP>Tử Vong/Thương Tật Vĩnh Viễn do Tai Nạn"
+  },
+  "HĐBH<SEP>Đề Phòng-Hạn Chế Tổn Thất": {
+    "chunk_ids": [
+      "chunk-4aceef99df6f53e07e8686c508cdc820"
+    ],
+    "count": 1,
+    "create_time": 1767773926,
+    "update_time": 1767773926,
+    "_id": "HĐBH<SEP>Đề Phòng-Hạn Chế Tổn Thất"
+  },
+  "Loại Trừ Riêng<SEP>Tâm Thần, Mang Thai/Sinh Đẻ": {
+    "chunk_ids": [
+      "chunk-e44b7420aee1e6f02cdda3cb5ab35b4e"
+    ],
+    "count": 1,
+    "create_time": 1767773926,
+    "update_time": 1767773926,
+    "_id": "Loại Trừ Riêng<SEP>Tâm Thần, Mang Thai/Sinh Đẻ"
+  },
+  "MIC<SEP>Thời Hạn Chi Trả": {
+    "chunk_ids": [
+      "chunk-e44b7420aee1e6f02cdda3cb5ab35b4e"
+    ],
+    "count": 1,
+    "create_time": 1767773927,
+    "update_time": 1767773927,
+    "_id": "MIC<SEP>Thời Hạn Chi Trả"
+  },
+  "HĐBH/GCNBH<SEP>Thời Hạn Bảo Hiểm": {
+    "chunk_ids": [
+      "chunk-9d21db3a169b963a3ad9f6cfaa8e2195"
+    ],
+    "count": 1,
+    "create_time": 1767773927,
+    "update_time": 1767773927,
+    "_id": "HĐBH/GCNBH<SEP>Thời Hạn Bảo Hiểm"
+  },
+  "Hợp Đồng Bảo Hiểm<SEP>Số Tiền Bảo Hiểm": {
+    "chunk_ids": [
+      "chunk-6092059a18c814d57fd009445825adb5"
+    ],
+    "count": 1,
+    "create_time": 1767773927,
+    "update_time": 1767773927,
+    "_id": "Hợp Đồng Bảo Hiểm<SEP>Số Tiền Bảo Hiểm"
+  },
+  "Hợp Đồng Bảo Hiểm (HĐBH)<SEP>Người Được Bảo Hiểm (NĐBH)": {
+    "chunk_ids": [
+      "chunk-7aed497c2466891c7eeeedeb682c7104"
+    ],
+    "count": 1,
+    "create_time": 1767773927,
+    "update_time": 1767773927,
+    "_id": "Hợp Đồng Bảo Hiểm (HĐBH)<SEP>Người Được Bảo Hiểm (NĐBH)"
+  },
+  "Bệnh Có Sẵn<SEP>Loại Trừ Riêng": {
+    "chunk_ids": [
+      "chunk-e44b7420aee1e6f02cdda3cb5ab35b4e"
+    ],
+    "count": 1,
+    "create_time": 1767773928,
+    "update_time": 1767773928,
+    "_id": "Bệnh Có Sẵn<SEP>Loại Trừ Riêng"
+  },
+  "HĐBH<SEP>Trả Tiền Bảo Hiểm": {
+    "chunk_ids": [
+      "chunk-4aceef99df6f53e07e8686c508cdc820"
+    ],
+    "count": 1,
+    "create_time": 1767773928,
+    "update_time": 1767773928,
+    "_id": "HĐBH<SEP>Trả Tiền Bảo Hiểm"
+  },
+  "HĐBH/GCNBH<SEP>Mất, Thiệt Hại Hành Lý & Vật Dụng Cá Nhân": {
+    "chunk_ids": [
+      "chunk-9d21db3a169b963a3ad9f6cfaa8e2195"
+    ],
+    "count": 1,
+    "create_time": 1767773929,
+    "update_time": 1767773929,
+    "_id": "HĐBH/GCNBH<SEP>Mất, Thiệt Hại Hành Lý & Vật Dụng Cá Nhân"
+  },
+  "Hợp Đồng Bảo Hiểm<SEP>Phí Bảo Hiểm": {
+    "chunk_ids": [
+      "chunk-6092059a18c814d57fd009445825adb5"
+    ],
+    "count": 1,
+    "create_time": 1767773929,
+    "update_time": 1767773929,
+    "_id": "Hợp Đồng Bảo Hiểm<SEP>Phí Bảo Hiểm"
+  },
+  "Hợp Đồng Bảo Hiểm (HĐBH)<SEP>Thời Hạn Bảo Hiểm": {
+    "chunk_ids": [
+      "chunk-7aed497c2466891c7eeeedeb682c7104"
+    ],
+    "count": 1,
+    "create_time": 1767773929,
+    "update_time": 1767773929,
+    "_id": "Hợp Đồng Bảo Hiểm (HĐBH)<SEP>Thời Hạn Bảo Hiểm"
+  },
+  "Giải Thích Bằng Văn Bản<SEP>HĐBH": {
+    "chunk_ids": [
+      "chunk-4aceef99df6f53e07e8686c508cdc820"
+    ],
+    "count": 1,
+    "create_time": 1767773930,
+    "update_time": 1767773930,
+    "_id": "Giải Thích Bằng Văn Bản<SEP>HĐBH"
+  },
+  "HĐBH/GCNBH<SEP>NĐBH": {
+    "chunk_ids": [
+      "chunk-9d21db3a169b963a3ad9f6cfaa8e2195"
+    ],
+    "count": 1,
+    "create_time": 1767773930,
+    "update_time": 1767773930,
+    "_id": "HĐBH/GCNBH<SEP>NĐBH"
+  },
+  "Hợp Đồng Bảo Hiểm<SEP>Thời Gian Chờ": {
+    "chunk_ids": [
+      "chunk-6092059a18c814d57fd009445825adb5",
+      "chunk-b41ed360519fa208acab8935c80c972e"
+    ],
+    "count": 2,
+    "create_time": 1767773930,
+    "update_time": 1767773930,
+    "_id": "Hợp Đồng Bảo Hiểm<SEP>Thời Gian Chờ"
+  },
+  "Hợp Đồng Bảo Hiểm<SEP>Người Mua Bảo Hiểm": {
+    "chunk_ids": [
+      "chunk-6092059a18c814d57fd009445825adb5",
+      "chunk-998610ea4b582ed596e5650f9d9dc51b"
+    ],
+    "count": 2,
+    "update_time": 1767774083,
+    "_id": "Hợp Đồng Bảo Hiểm<SEP>Người Mua Bảo Hiểm"
+  },
+  "Hợp Đồng Bảo Hiểm<SEP>Quy Tắc Bảo Hiểm": {
+    "chunk_ids": [
+      "chunk-b41ed360519fa208acab8935c80c972e"
+    ],
+    "count": 1,
+    "create_time": 1767773940,
+    "update_time": 1767773940,
+    "_id": "Hợp Đồng Bảo Hiểm<SEP>Quy Tắc Bảo Hiểm"
+  },
+  "Bên Mua Bảo Hiểm<SEP>Tổng Công ty CP Bảo hiểm Quân Đội (MIC)": {
+    "chunk_ids": [
+      "chunk-8076dbeb1a833ace0127824135a4db7d"
+    ],
+    "count": 1,
+    "create_time": 1767773952,
+    "update_time": 1767773952,
+    "_id": "Bên Mua Bảo Hiểm<SEP>Tổng Công ty CP Bảo hiểm Quân Đội (MIC)"
+  },
+  "Bên Mua Bảo Hiểm<SEP>Người Thụ Hưởng": {
+    "chunk_ids": [
+      "chunk-8076dbeb1a833ace0127824135a4db7d"
+    ],
+    "count": 1,
+    "create_time": 1767773953,
+    "update_time": 1767773953,
+    "_id": "Bên Mua Bảo Hiểm<SEP>Người Thụ Hưởng"
+  },
+  "Nộp Hồ Sơ<SEP>Thông Báo Sự Kiện": {
+    "chunk_ids": [
+      "chunk-a550d13644321c2d880bc3377347b018",
+      "chunk-caa9c6ae2747da77ed86ced5da0795ef"
+    ],
+    "count": 2,
+    "create_time": 1767773964,
+    "update_time": 1767773964,
+    "_id": "Nộp Hồ Sơ<SEP>Thông Báo Sự Kiện"
+  },
+  "Pháp luật Việt Nam<SEP>Thời Hiệu Khởi Kiện": {
+    "chunk_ids": [
+      "chunk-a550d13644321c2d880bc3377347b018"
+    ],
+    "count": 1,
+    "create_time": 1767773964,
+    "update_time": 1767773964,
+    "_id": "Pháp luật Việt Nam<SEP>Thời Hiệu Khởi Kiện"
+  },
+  "Chương Trình 1<SEP>Chương Trình 2": {
+    "chunk_ids": [
+      "chunk-a550d13644321c2d880bc3377347b018"
+    ],
+    "count": 1,
+    "create_time": 1767773964,
+    "update_time": 1767773964,
+    "_id": "Chương Trình 1<SEP>Chương Trình 2"
+  },
+  "Hồ Sơ<SEP>Quyền Yêu Cầu Hồ Sơ": {
+    "chunk_ids": [
+      "chunk-a550d13644321c2d880bc3377347b018"
+    ],
+    "count": 1,
+    "create_time": 1767773964,
+    "update_time": 1767773964,
+    "_id": "Hồ Sơ<SEP>Quyền Yêu Cầu Hồ Sơ"
+  },
+  "Chương Trình 3<SEP>Chương Trình 4": {
+    "chunk_ids": [
+      "chunk-a550d13644321c2d880bc3377347b018"
+    ],
+    "count": 1,
+    "create_time": 1767773964,
+    "update_time": 1767773964,
+    "_id": "Chương Trình 3<SEP>Chương Trình 4"
+  },
+  "Nguy Hiểm<SEP>Điều Trị": {
+    "chunk_ids": [
+      "chunk-a550d13644321c2d880bc3377347b018"
+    ],
+    "count": 1,
+    "create_time": 1767773964,
+    "update_time": 1767773964,
+    "_id": "Nguy Hiểm<SEP>Điều Trị"
+  },
+  "Bệnh Mãn Tính/Danh Mục<SEP>Nha Khoa Trừ Do Tại Nạn": {
+    "chunk_ids": [
+      "chunk-a550d13644321c2d880bc3377347b018"
+    ],
+    "count": 1,
+    "create_time": 1767773964,
+    "update_time": 1767773964,
+    "_id": "Bệnh Mãn Tính/Danh Mục<SEP>Nha Khoa Trừ Do Tại Nạn"
+  },
+  "Quy Tắc Bảo Hiểm Du Lịch Toàn Cầu (MIC) 2025<SEP>Tổng Công Ty Cổ Phần Bảo Hiểm Quân Đội (MIC)": {
+    "chunk_ids": [
+      "chunk-c64c7171c96f630a06962b29ef07a3f5"
+    ],
+    "count": 1,
+    "create_time": 1767773964,
+    "update_time": 1767773964,
+    "_id": "Quy Tắc Bảo Hiểm Du Lịch Toàn Cầu (MIC) 2025<SEP>Tổng Công Ty Cổ Phần Bảo Hiểm Quân Đội (MIC)"
+  },
+  "Bên Mua Bảo Hiểm (BMBH)<SEP>Người Được Bảo Hiểm (NĐBH)": {
+    "chunk_ids": [
+      "chunk-c64c7171c96f630a06962b29ef07a3f5"
+    ],
+    "count": 1,
+    "create_time": 1767773964,
+    "update_time": 1767773964,
+    "_id": "Bên Mua Bảo Hiểm (BMBH)<SEP>Người Được Bảo Hiểm (NĐBH)"
+  },
+  "Chuyến Đi Một Chi Chiều<SEP>Quyền Yêu Cầu Bồi Hoàn": {
+    "chunk_ids": [
+      "chunk-caa9c6ae2747da77ed86ced5da0795ef"
+    ],
+    "count": 1,
+    "create_time": 1767773964,
+    "update_time": 1767773964,
+    "_id": "Chuyến Đi Một Chi Chiều<SEP>Quyền Yêu Cầu Bồi Hoàn"
+  },
+  "Hỗ Trợ Tai Nạn Cá Nhân<SEP>Tử Vong/TT Vĩnh Viễn Do Tai Nạn": {
+    "chunk_ids": [
+      "chunk-caa9c6ae2747da77ed86ced5da0795ef"
+    ],
+    "count": 1,
+    "create_time": 1767773964,
+    "update_time": 1767773964,
+    "_id": "Hỗ Trợ Tai Nạn Cá Nhân<SEP>Tử Vong/TT Vĩnh Viễn Do Tai Nạn"
+  },
+  "Chăm Sóc Trẻ Em<SEP>Hỗ Trợ Y Tế Ở Nước Ngoài": {
+    "chunk_ids": [
+      "chunk-caa9c6ae2747da77ed86ced5da0795ef"
+    ],
+    "count": 1,
+    "create_time": 1767773964,
+    "update_time": 1767773964,
+    "_id": "Chăm Sóc Trẻ Em<SEP>Hỗ Trợ Y Tế Ở Nước Ngoài"
+  },
+  "Bên Mua Bảo Hiểm (BMBH)<SEP>Hợp Đồng Bảo Hiểm (HĐBH)": {
+    "chunk_ids": [
+      "chunk-c64c7171c96f630a06962b29ef07a3f5"
+    ],
+    "count": 1,
+    "create_time": 1767773965,
+    "update_time": 1767773965,
+    "_id": "Bên Mua Bảo Hiểm (BMBH)<SEP>Hợp Đồng Bảo Hiểm (HĐBH)"
+  },
+  "Chi Phí Y Tế<SEP>Quy Tắc Bảo Hiểm Du Lịch Toàn Cầu (MIC) 2025": {
+    "chunk_ids": [
+      "chunk-c64c7171c96f630a06962b29ef07a3f5"
+    ],
+    "count": 1,
+    "create_time": 1767773965,
+    "update_time": 1767773965,
+    "_id": "Chi Phí Y Tế<SEP>Quy Tắc Bảo Hiểm Du Lịch Toàn Cầu (MIC) 2025"
+  },
+  "Chi Trả<SEP>Nộp Hồ Sơ": {
+    "chunk_ids": [
+      "chunk-a550d13644321c2d880bc3377347b018"
+    ],
+    "count": 1,
+    "create_time": 1767773966,
+    "update_time": 1767773966,
+    "_id": "Chi Trả<SEP>Nộp Hồ Sơ"
+  },
+  "Chương Trình 2<SEP>Chương Trình 3": {
+    "chunk_ids": [
+      "chunk-a550d13644321c2d880bc3377347b018"
+    ],
+    "count": 1,
+    "create_time": 1767773966,
+    "update_time": 1767773966,
+    "_id": "Chương Trình 2<SEP>Chương Trình 3"
+  },
+  "Chi Phí Y Tế<SEP>Hỗ Trợ Tai Nạn Cá Nhân": {
+    "chunk_ids": [
+      "chunk-caa9c6ae2747da77ed86ced5da0795ef"
+    ],
+    "count": 1,
+    "create_time": 1767773967,
+    "update_time": 1767773967,
+    "_id": "Chi Phí Y Tế<SEP>Hỗ Trợ Tai Nạn Cá Nhân"
+  },
+  "Chuyến Đi Một Chi Chiều<SEP>HĐ Gia Đình": {
+    "chunk_ids": [
+      "chunk-caa9c6ae2747da77ed86ced5da0795ef"
+    ],
+    "count": 1,
+    "create_time": 1767773967,
+    "update_time": 1767773967,
+    "_id": "Chuyến Đi Một Chi Chiều<SEP>HĐ Gia Đình"
+  },
+  "Bên Mua Bảo Hiểm (BMBH)<SEP>Hợp Đồng Gia Đình": {
+    "chunk_ids": [
+      "chunk-c64c7171c96f630a06962b29ef07a3f5"
+    ],
+    "count": 1,
+    "create_time": 1767773967,
+    "update_time": 1767773967,
+    "_id": "Bên Mua Bảo Hiểm (BMBH)<SEP>Hợp Đồng Gia Đình"
+  },
+  "Chi Phí Y Tế<SEP>Hồi Hương Thi Hài & Chi Phí Mai Táng": {
+    "chunk_ids": [
+      "chunk-caa9c6ae2747da77ed86ced5da0795ef"
+    ],
+    "count": 1,
+    "create_time": 1767773968,
+    "update_time": 1767773968,
+    "_id": "Chi Phí Y Tế<SEP>Hồi Hương Thi Hài & Chi Phí Mai Táng"
+  },
+  "Người Được Bảo Hiểm (NĐBH)<SEP>Thương Tật": {
+    "chunk_ids": [
+      "chunk-c64c7171c96f630a06962b29ef07a3f5"
+    ],
+    "count": 1,
+    "create_time": 1767773969,
+    "update_time": 1767773969,
+    "_id": "Người Được Bảo Hiểm (NĐBH)<SEP>Thương Tật"
+  },
+  "Sự Kiện Bảo Hiểm<SEP>Tai Nạn": {
+    "chunk_ids": [
+      "chunk-998610ea4b582ed596e5650f9d9dc51b"
+    ],
+    "count": 1,
+    "create_time": 1767774081,
+    "update_time": 1767774081,
+    "_id": "Sự Kiện Bảo Hiểm<SEP>Tai Nạn"
+  },
+  "Ngộ Độc<SEP>Phạm Vi Bảo Hiểm": {
+    "chunk_ids": [
+      "chunk-754e711132fd1ab8677102fa2c1341d0"
+    ],
+    "count": 1,
+    "create_time": 1767774081,
+    "update_time": 1767774081,
+    "_id": "Ngộ Độc<SEP>Phạm Vi Bảo Hiểm"
+  },
+  "Chiến Tranh<SEP>Quyền Lợi Bổ Sung": {
+    "chunk_ids": [
+      "chunk-754e711132fd1ab8677102fa2c1341d0"
+    ],
+    "count": 1,
+    "create_time": 1767774081,
+    "update_time": 1767774081,
+    "_id": "Chiến Tranh<SEP>Quyền Lợi Bổ Sung"
+  },
+  "Hồ Sơ Đề Nghị<SEP>Thời Hạn Yêu Cầu": {
+    "chunk_ids": [
+      "chunk-754e711132fd1ab8677102fa2c1341d0"
+    ],
+    "count": 1,
+    "create_time": 1767774081,
+    "update_time": 1767774081,
+    "_id": "Hồ Sơ Đề Nghị<SEP>Thời Hạn Yêu Cầu"
+  },
+  "Phạm Vi Loại Trừ<SEP>Sự Kiện Ngoài Lãnh Thổ VN": {
+    "chunk_ids": [
+      "chunk-754e711132fd1ab8677102fa2c1341d0"
+    ],
+    "count": 1,
+    "create_time": 1767774081,
+    "update_time": 1767774081,
+    "_id": "Phạm Vi Loại Trừ<SEP>Sự Kiện Ngoài Lãnh Thổ VN"
+  },
+  "Chi Phí Y Tế Cần Thiết & Hợp Lý<SEP>Thương Tật Tạm Thời Do Tai Nạn": {
+    "chunk_ids": [
+      "chunk-7ec7f991c1ba4ed0a539981d0bb4e5ed"
+    ],
+    "count": 1,
+    "create_time": 1767774081,
+    "update_time": 1767774081,
+    "_id": "Chi Phí Y Tế Cần Thiết & Hợp Lý<SEP>Thương Tật Tạm Thời Do Tai Nạn"
+  },
+  "Quy Tắc Bảo Hiểm Tai Nạn Con Người (PVI) 2025<SEP>Tổng Công Ty Bảo Hiểm PVI": {
+    "chunk_ids": [
+      "chunk-998610ea4b582ed596e5650f9d9dc51b"
+    ],
+    "count": 1,
+    "create_time": 1767774081,
+    "update_time": 1767774081,
+    "_id": "Quy Tắc Bảo Hiểm Tai Nạn Con Người (PVI) 2025<SEP>Tổng Công Ty Bảo Hiểm PVI"
+  },
+  "Hoạt Động Rủi Ro Cao<SEP>Thể Thao Chuyên Nghiệp": {
+    "chunk_ids": [
+      "chunk-754e711132fd1ab8677102fa2c1341d0"
+    ],
+    "count": 1,
+    "create_time": 1767774081,
+    "update_time": 1767774081,
+    "_id": "Hoạt Động Rủi Ro Cao<SEP>Thể Thao Chuyên Nghiệp"
+  },
+  "BMBH<SEP>PVI": {
+    "chunk_ids": [
+      "chunk-7ec7f991c1ba4ed0a539981d0bb4e5ed"
+    ],
+    "count": 1,
+    "create_time": 1767774081,
+    "update_time": 1767774081,
+    "_id": "BMBH<SEP>PVI"
+  },
+  "Tai Nạn<SEP>Trợ Cấp Ngày Nằm Viện": {
+    "chunk_ids": [
+      "chunk-754e711132fd1ab8677102fa2c1341d0"
+    ],
+    "count": 1,
+    "create_time": 1767774083,
+    "update_time": 1767774083,
+    "_id": "Tai Nạn<SEP>Trợ Cấp Ngày Nằm Viện"
+  },
+  "Hậu Quả Tai Nạn<SEP>Quyền Lợi Bổ Sung": {
+    "chunk_ids": [
+      "chunk-754e711132fd1ab8677102fa2c1341d0"
+    ],
+    "count": 1,
+    "create_time": 1767774083,
+    "update_time": 1767774083,
+    "_id": "Hậu Quả Tai Nạn<SEP>Quyền Lợi Bổ Sung"
+  },
+  "Biểu Phí<SEP>Quy Tắc Bảo Hiểm Tai Nạn Con Người (PVI) 2025": {
+    "chunk_ids": [
+      "chunk-998610ea4b582ed596e5650f9d9dc51b"
+    ],
+    "count": 1,
+    "create_time": 1767774083,
+    "update_time": 1767774083,
+    "_id": "Biểu Phí<SEP>Quy Tắc Bảo Hiểm Tai Nạn Con Người (PVI) 2025"
+  },
+  "Người Được Bảo Hiểm<SEP>Thành Viên Gia Đình": {
+    "chunk_ids": [
+      "chunk-998610ea4b582ed596e5650f9d9dc51b"
+    ],
+    "count": 1,
+    "create_time": 1767774084,
+    "update_time": 1767774084,
+    "_id": "Người Được Bảo Hiểm<SEP>Thành Viên Gia Đình"
+  },
+  "Công Dân VN<SEP>Hợp Đồng Bảo Hiểm": {
+    "chunk_ids": [
+      "chunk-7ec7f991c1ba4ed0a539981d0bb4e5ed"
+    ],
+    "count": 1,
+    "create_time": 1767774084,
+    "update_time": 1767774084,
+    "_id": "Công Dân VN<SEP>Hợp Đồng Bảo Hiểm"
+  },
+  "Hợp Đồng Bảo Hiểm<SEP>Người Nước Ngoài": {
+    "chunk_ids": [
+      "chunk-7ec7f991c1ba4ed0a539981d0bb4e5ed"
+    ],
+    "count": 1,
+    "create_time": 1767774086,
+    "update_time": 1767774086,
+    "_id": "Hợp Đồng Bảo Hiểm<SEP>Người Nước Ngoài"
+  },
+  "Hợp Đồng Bảo Hiểm<SEP>PVI": {
+    "chunk_ids": [
+      "chunk-7ec7f991c1ba4ed0a539981d0bb4e5ed"
+    ],
+    "count": 1,
+    "create_time": 1767774087,
+    "update_time": 1767774087,
+    "_id": "Hợp Đồng Bảo Hiểm<SEP>PVI"
+  },
+  "Hợp Đồng Bảo Hiểm<SEP>Thương Tật Thân Thể": {
+    "chunk_ids": [
+      "chunk-7ec7f991c1ba4ed0a539981d0bb4e5ed"
+    ],
+    "count": 1,
+    "create_time": 1767774089,
+    "update_time": 1767774089,
+    "_id": "Hợp Đồng Bảo Hiểm<SEP>Thương Tật Thân Thể"
+  },
+  "Hợp Đồng Bảo Hiểm<SEP>Thương Tật Vĩnh Viễn Do Tai Nạn": {
+    "chunk_ids": [
+      "chunk-7ec7f991c1ba4ed0a539981d0bb4e5ed"
+    ],
+    "count": 1,
+    "create_time": 1767774090,
+    "update_time": 1767774090,
+    "_id": "Hợp Đồng Bảo Hiểm<SEP>Thương Tật Vĩnh Viễn Do Tai Nạn"
+  },
+  "Hợp Đồng Bảo Hiểm<SEP>Thương Tật Tạm Thời Do Tai Nạn": {
+    "chunk_ids": [
+      "chunk-7ec7f991c1ba4ed0a539981d0bb4e5ed"
+    ],
+    "count": 1,
+    "create_time": 1767774092,
+    "update_time": 1767774092,
+    "_id": "Hợp Đồng Bảo Hiểm<SEP>Thương Tật Tạm Thời Do Tai Nạn"
+  },
+  "Hồ Sơ Hỗ Trợ Nhân Đạo<SEP>Tai Nạn": {
+    "chunk_ids": [
+      "chunk-02afddd8bbdebae5f704bce49674b3a2"
+    ],
+    "count": 1,
+    "create_time": 1767774105,
+    "update_time": 1767774105,
+    "_id": "Hồ Sơ Hỗ Trợ Nhân Đạo<SEP>Tai Nạn"
+  },
+  "Chủ Xe Cơ Giới<SEP>Thông Tư 04/2021/TT-BTC": {
+    "chunk_ids": [
+      "chunk-5f8a6bf83891141e34045c64d39d6ad4"
+    ],
+    "count": 1,
+    "create_time": 1767774105,
+    "update_time": 1767774105,
+    "_id": "Chủ Xe Cơ Giới<SEP>Thông Tư 04/2021/TT-BTC"
+  },
+  "Nghị Định Số 03/2021/NĐ-CP<SEP>Thông Tư Số 04/2021/TT-BTC": {
+    "chunk_ids": [
+      "chunk-02afddd8bbdebae5f704bce49674b3a2"
+    ],
+    "count": 1,
+    "create_time": 1767774105,
+    "update_time": 1767774105,
+    "_id": "Nghị Định Số 03/2021/NĐ-CP<SEP>Thông Tư Số 04/2021/TT-BTC"
+  },
+  "Ngày 01 Tháng 3 Năm 2021<SEP>Thông Tư": {
+    "chunk_ids": [
+      "chunk-dac5b17ee7e498057d400b7395f103ce"
+    ],
+    "count": 1,
+    "create_time": 1767774105,
+    "update_time": 1767774105,
+    "_id": "Ngày 01 Tháng 3 Năm 2021<SEP>Thông Tư"
+  },
+  "Hà Nội<SEP>Việt Nam": {
+    "chunk_ids": [
+      "chunk-864f0a7131ad72a07187d677c5079fd9"
+    ],
+    "count": 1,
+    "create_time": 1767774106,
+    "update_time": 1767774106,
+    "_id": "Hà Nội<SEP>Việt Nam"
+  },
+  "Doanh Nghiệp Bảo Hiểm<SEP>Thông Tư 04/2021/TT-BTC": {
+    "chunk_ids": [
+      "chunk-5f8a6bf83891141e34045c64d39d6ad4"
+    ],
+    "count": 1,
+    "create_time": 1767774106,
+    "update_time": 1767774106,
+    "_id": "Doanh Nghiệp Bảo Hiểm<SEP>Thông Tư 04/2021/TT-BTC"
+  },
+  "Phó Thủ tướng<SEP>Thủ tướng": {
+    "chunk_ids": [
+      "chunk-864f0a7131ad72a07187d677c5079fd9"
+    ],
+    "count": 1,
+    "create_time": 1767774106,
+    "update_time": 1767774106,
+    "_id": "Phó Thủ tướng<SEP>Thủ tướng"
+  },
+  "Thông Tư Số 04/2021/TT-BTC<SEP>Thông Tư Số 22/2016/TT-BTC": {
+    "chunk_ids": [
+      "chunk-dac5b17ee7e498057d400b7395f103ce"
+    ],
+    "count": 1,
+    "create_time": 1767774106,
+    "update_time": 1767774106,
+    "_id": "Thông Tư Số 04/2021/TT-BTC<SEP>Thông Tư Số 22/2016/TT-BTC"
+  },
+  "Tòa án Nhân Dân Tối Cao<SEP>Viện Kiểm Sát Nhân Dân Tối Cao": {
+    "chunk_ids": [
+      "chunk-864f0a7131ad72a07187d677c5079fd9"
+    ],
+    "count": 1,
+    "create_time": 1767774106,
+    "update_time": 1767774106,
+    "_id": "Tòa án Nhân Dân Tối Cao<SEP>Viện Kiểm Sát Nhân Dân Tối Cao"
+  },
+  "Thông Tư Số 04/2021/TT-BTC<SEP>Thông Tư Số 103/2009/TT-BTC": {
+    "chunk_ids": [
+      "chunk-dac5b17ee7e498057d400b7395f103ce"
+    ],
+    "count": 1,
+    "create_time": 1767774108,
+    "update_time": 1767774108,
+    "_id": "Thông Tư Số 04/2021/TT-BTC<SEP>Thông Tư Số 103/2009/TT-BTC"
+  },
+  "Bộ Tư Pháp<SEP>Cục Kiểm Tra Văn Bản QPPL": {
+    "chunk_ids": [
+      "chunk-864f0a7131ad72a07187d677c5079fd9"
+    ],
+    "count": 1,
+    "create_time": 1767774108,
+    "update_time": 1767774108,
+    "_id": "Bộ Tư Pháp<SEP>Cục Kiểm Tra Văn Bản QPPL"
+  },
+  "Cơ Quan Trung Ương Của Các Hội Và Đoàn Thể<SEP>Văn Phòng Chính Phủ": {
+    "chunk_ids": [
+      "chunk-864f0a7131ad72a07187d677c5079fd9"
+    ],
+    "count": 1,
+    "create_time": 1767774108,
+    "update_time": 1767774108,
+    "_id": "Cơ Quan Trung Ương Của Các Hội Và Đoàn Thể<SEP>Văn Phòng Chính Phủ"
+  },
+  "Quỹ Bảo Hiểm Xe Cơ Giới<SEP>Thông Tư 04/2021/TT-BTC": {
+    "chunk_ids": [
+      "chunk-5f8a6bf83891141e34045c64d39d6ad4"
+    ],
+    "count": 1,
+    "create_time": 1767774108,
+    "update_time": 1767774108,
+    "_id": "Quỹ Bảo Hiểm Xe Cơ Giới<SEP>Thông Tư 04/2021/TT-BTC"
+  },
+  "Thông Tư Số 04/2021/TT-BTC<SEP>Thông Tư Số 43/2014/TT-BTC": {
+    "chunk_ids": [
+      "chunk-dac5b17ee7e498057d400b7395f103ce"
+    ],
+    "count": 1,
+    "create_time": 1767774109,
+    "update_time": 1767774109,
+    "_id": "Thông Tư Số 04/2021/TT-BTC<SEP>Thông Tư Số 43/2014/TT-BTC"
+  },
+  "Mức Trách Nhiệm Bảo Hiểm<SEP>Quỹ Bảo Hiểm Xe Cơ Giới": {
+    "chunk_ids": [
+      "chunk-5f8a6bf83891141e34045c64d39d6ad4"
+    ],
+    "count": 1,
+    "create_time": 1767774110,
+    "update_time": 1767774110,
+    "_id": "Mức Trách Nhiệm Bảo Hiểm<SEP>Quỹ Bảo Hiểm Xe Cơ Giới"
+  },
+  "Nghị Định 03/2021/NĐ-CP<SEP>Thông Tư 04/2021/TT-BTC": {
+    "chunk_ids": [
+      "chunk-5f8a6bf83891141e34045c64d39d6ad4"
+    ],
+    "count": 1,
+    "create_time": 1767774110,
+    "update_time": 1767774110,
+    "_id": "Nghị Định 03/2021/NĐ-CP<SEP>Thông Tư 04/2021/TT-BTC"
+  },
+  "Thông Tư Số 04/2021/TT-BTC<SEP>Thông Tư Số 151/2012/TT-BTC": {
+    "chunk_ids": [
+      "chunk-dac5b17ee7e498057d400b7395f103ce"
+    ],
+    "count": 1,
+    "create_time": 1767774111,
+    "update_time": 1767774111,
+    "_id": "Thông Tư Số 04/2021/TT-BTC<SEP>Thông Tư Số 151/2012/TT-BTC"
+  },
+  "Luật Kinh Doanh Bảo Hiểm<SEP>Thông Tư 04/2021/TT-BTC": {
+    "chunk_ids": [
+      "chunk-5f8a6bf83891141e34045c64d39d6ad4"
+    ],
+    "count": 1,
+    "create_time": 1767774111,
+    "update_time": 1767774111,
+    "_id": "Luật Kinh Doanh Bảo Hiểm<SEP>Thông Tư 04/2021/TT-BTC"
+  },
+  "Bộ Tài Chính<SEP>Tai Nạn": {
+    "chunk_ids": [
+      "chunk-02afddd8bbdebae5f704bce49674b3a2"
+    ],
+    "count": 1,
+    "create_time": 1767774113,
+    "update_time": 1767774113,
+    "_id": "Bộ Tài Chính<SEP>Tai Nạn"
+  },
+  "Quỹ Bảo Hiểm Xe Cơ Giới<SEP>Đơn Đề Nghị Hoàn Trả Tạm Ứng Bồi Thường": {
+    "chunk_ids": [
+      "chunk-02afddd8bbdebae5f704bce49674b3a2"
+    ],
+    "count": 1,
+    "create_time": 1767774113,
+    "update_time": 1767774113,
+    "_id": "Quỹ Bảo Hiểm Xe Cơ Giới<SEP>Đơn Đề Nghị Hoàn Trả Tạm Ứng Bồi Thường"
+  },
+  "Bộ Tài Chính<SEP>Huỳnh Quang Hải": {
+    "chunk_ids": [
+      "chunk-864f0a7131ad72a07187d677c5079fd9"
+    ],
+    "count": 1,
+    "create_time": 1767774114,
+    "update_time": 1767774114,
+    "_id": "Bộ Tài Chính<SEP>Huỳnh Quang Hải"
+  },
+  "Quỹ Bảo Hiểm Xe Cơ Giới<SEP>Số Giấy Chứng Nhận Bảo Hiểm": {
+    "chunk_ids": [
+      "chunk-02afddd8bbdebae5f704bce49674b3a2"
+    ],
+    "count": 1,
+    "create_time": 1767774114,
+    "update_time": 1767774114,
+    "_id": "Quỹ Bảo Hiểm Xe Cơ Giới<SEP>Số Giấy Chứng Nhận Bảo Hiểm"
+  },
+  "Bộ Tài Chính<SEP>Bộ Tư Pháp": {
+    "chunk_ids": [
+      "chunk-864f0a7131ad72a07187d677c5079fd9"
+    ],
+    "count": 1,
+    "create_time": 1767774116,
+    "update_time": 1767774116,
+    "_id": "Bộ Tài Chính<SEP>Bộ Tư Pháp"
+  },
+  "Hồ Sơ Đề Nghị Hoàn Trả Tạm Ứng Bồi Thường<SEP>Quỹ Bảo Hiểm Xe Cơ Giới": {
+    "chunk_ids": [
+      "chunk-dac5b17ee7e498057d400b7395f103ce"
+    ],
+    "count": 1,
+    "create_time": 1767774116,
+    "update_time": 1767774116,
+    "_id": "Hồ Sơ Đề Nghị Hoàn Trả Tạm Ứng Bồi Thường<SEP>Quỹ Bảo Hiểm Xe Cơ Giới"
+  },
+  "Hội Đồng Quản Lý Quỹ<SEP>Quỹ Bảo Hiểm Xe Cơ Giới": {
+    "chunk_ids": [
+      "chunk-be1ea137e8efec74697a6ea24b4f82fc",
+      "chunk-2a15e9c9f1d4abab9d7b174e4ac0c8e1"
+    ],
+    "count": 2,
+    "create_time": 1767774117,
+    "update_time": 1767774117,
+    "_id": "Hội Đồng Quản Lý Quỹ<SEP>Quỹ Bảo Hiểm Xe Cơ Giới"
+  },
+  "Hồ Sơ Đề Nghị Hoàn Trả Tạm Ứng Bồi Thường<SEP>Đơn Đề Nghị Hoàn Trả": {
+    "chunk_ids": [
+      "chunk-dac5b17ee7e498057d400b7395f103ce"
+    ],
+    "count": 1,
+    "create_time": 1767774117,
+    "update_time": 1767774117,
+    "_id": "Hồ Sơ Đề Nghị Hoàn Trả Tạm Ứng Bồi Thường<SEP>Đơn Đề Nghị Hoàn Trả"
+  },
+  "Bản Sao Công Chứng Văn Bản Giải Quyết Bồi Thường<SEP>Hồ Sơ Đề Nghị Hoàn Trả Tạm Ứng Bồi Thường": {
+    "chunk_ids": [
+      "chunk-dac5b17ee7e498057d400b7395f103ce"
+    ],
+    "count": 1,
+    "create_time": 1767774119,
+    "update_time": 1767774119,
+    "_id": "Bản Sao Công Chứng Văn Bản Giải Quyết Bồi Thường<SEP>Hồ Sơ Đề Nghị Hoàn Trả Tạm Ứng Bồi Thường"
+  },
+  "Hiệp Hội Bảo Hiểm Việt Nam<SEP>Hội Đồng Quản Lý Quỹ": {
+    "chunk_ids": [
+      "chunk-be1ea137e8efec74697a6ea24b4f82fc"
+    ],
+    "count": 1,
+    "create_time": 1767774119,
+    "update_time": 1767774119,
+    "_id": "Hiệp Hội Bảo Hiểm Việt Nam<SEP>Hội Đồng Quản Lý Quỹ"
+  },
+  "Doanh Nghiệp Bảo Hiểm Phi Nhân Thọ<SEP>Quỹ Bảo Hiểm Xe Cơ Giới": {
+    "chunk_ids": [
+      "chunk-be1ea137e8efec74697a6ea24b4f82fc"
+    ],
+    "count": 1,
+    "create_time": 1767774119,
+    "update_time": 1767774119,
+    "_id": "Doanh Nghiệp Bảo Hiểm Phi Nhân Thọ<SEP>Quỹ Bảo Hiểm Xe Cơ Giới"
+  },
+  "Mức Chi Hỗ Trợ Nhân Đạo<SEP>Quỹ Bảo Hiểm Xe Cơ Giới": {
+    "chunk_ids": [
+      "chunk-be1ea137e8efec74697a6ea24b4f82fc"
+    ],
+    "count": 1,
+    "create_time": 1767774121,
+    "update_time": 1767774121,
+    "_id": "Mức Chi Hỗ Trợ Nhân Đạo<SEP>Quỹ Bảo Hiểm Xe Cơ Giới"
+  },
+  "Chi Cho Hoạt Động Tuyên Truyền<SEP>Quỹ Bảo Hiểm Xe Cơ Giới": {
+    "chunk_ids": [
+      "chunk-be1ea137e8efec74697a6ea24b4f82fc"
+    ],
+    "count": 1,
+    "create_time": 1767774122,
+    "update_time": 1767774122,
+    "_id": "Chi Cho Hoạt Động Tuyên Truyền<SEP>Quỹ Bảo Hiểm Xe Cơ Giới"
+  },
+  "Quỹ Bảo Hiểm Xe Cơ Giới<SEP>Tỷ Lệ Chi": {
+    "chunk_ids": [
+      "chunk-be1ea137e8efec74697a6ea24b4f82fc"
+    ],
+    "count": 1,
+    "create_time": 1767774124,
+    "update_time": 1767774124,
+    "_id": "Quỹ Bảo Hiểm Xe Cơ Giới<SEP>Tỷ Lệ Chi"
+  },
+  "Ban Điều Hành Quỹ<SEP>Quỹ Bảo Hiểm Xe Cơ Giới": {
+    "chunk_ids": [
+      "chunk-2a15e9c9f1d4abab9d7b174e4ac0c8e1"
+    ],
+    "count": 1,
+    "create_time": 1767774126,
+    "update_time": 1767774126,
+    "_id": "Ban Điều Hành Quỹ<SEP>Quỹ Bảo Hiểm Xe Cơ Giới"
+  },
+  "Quy Tắc Bảo Hiểm Nhà Tư Nhân (VNI) 2019<SEP>Tổng Công Ty Cổ Phần Bảo Hiểm Hàng Không (VNI)": {
+    "chunk_ids": [
+      "chunk-e74e6f0374b2d17f4200dc31f3d4d0e7"
+    ],
+    "count": 1,
+    "create_time": 1767774126,
+    "update_time": 1767774126,
+    "_id": "Quy Tắc Bảo Hiểm Nhà Tư Nhân (VNI) 2019<SEP>Tổng Công Ty Cổ Phần Bảo Hiểm Hàng Không (VNI)"
+  },
+  "Giải Quyết Tranh Chấp<SEP>Tòa Án Tại Việt Nam": {
+    "chunk_ids": [
+      "chunk-c243bff315ed309de5ea1c62192b85d1"
+    ],
+    "count": 1,
+    "create_time": 1767774126,
+    "update_time": 1767774126,
+    "_id": "Giải Quyết Tranh Chấp<SEP>Tòa Án Tại Việt Nam"
+  },
+  "Hợp Đồng Bảo Hiểm Khác<SEP>VNI": {
+    "chunk_ids": [
+      "chunk-c243bff315ed309de5ea1c62192b85d1"
+    ],
+    "count": 1,
+    "create_time": 1767774126,
+    "update_time": 1767774126,
+    "_id": "Hợp Đồng Bảo Hiểm Khác<SEP>VNI"
+  },
+  "Hồ Sơ Khiếu Nại<SEP>NĐBH": {
+    "chunk_ids": [
+      "chunk-c243bff315ed309de5ea1c62192b85d1"
+    ],
+    "count": 1,
+    "create_time": 1767774126,
+    "update_time": 1767774126,
+    "_id": "Hồ Sơ Khiếu Nại<SEP>NĐBH"
+  },
+  "Ngôi Nhà Được Bảo Hiểm<SEP>Tổn Thất Tiền Thuê Nhà": {
+    "chunk_ids": [
+      "chunk-39c965fdd78691384273067b5c625151"
+    ],
+    "count": 1,
+    "create_time": 1767774126,
+    "update_time": 1767774126,
+    "_id": "Ngôi Nhà Được Bảo Hiểm<SEP>Tổn Thất Tiền Thuê Nhà"
+  },
+  "Thiệt Hại<SEP>Trách Nhiệm Của Người Được Bảo Hiểm": {
+    "chunk_ids": [
+      "chunk-39c965fdd78691384273067b5c625151"
+    ],
+    "count": 1,
+    "create_time": 1767774126,
+    "update_time": 1767774126,
+    "_id": "Thiệt Hại<SEP>Trách Nhiệm Của Người Được Bảo Hiểm"
+  },
+  "Giông, Bão, Lũ Lụt<SEP>Mở Rộng I": {
+    "chunk_ids": [
+      "chunk-228c28e9b6d28455f3132b53d0662ed2"
+    ],
+    "count": 1,
+    "create_time": 1767774126,
+    "update_time": 1767774126,
+    "_id": "Giông, Bão, Lũ Lụt<SEP>Mở Rộng I"
+  },
+  "Chi Phí Bổ Sung<SEP>Vỡ hoặc Tràn Nước": {
+    "chunk_ids": [
+      "chunk-228c28e9b6d28455f3132b53d0662ed2"
+    ],
+    "count": 1,
+    "create_time": 1767774126,
+    "update_time": 1767774126,
+    "_id": "Chi Phí Bổ Sung<SEP>Vỡ hoặc Tràn Nước"
+  },
+  "Loại Trừ Bảo Hiểm<SEP>Nổ": {
+    "chunk_ids": [
+      "chunk-228c28e9b6d28455f3132b53d0662ed2"
+    ],
+    "count": 1,
+    "create_time": 1767774126,
+    "update_time": 1767774126,
+    "_id": "Loại Trừ Bảo Hiểm<SEP>Nổ"
+  },
+  "Ban Kiểm Soát Quỹ<SEP>Quỹ Bảo Hiểm Xe Cơ Giới": {
+    "chunk_ids": [
+      "chunk-2a15e9c9f1d4abab9d7b174e4ac0c8e1"
+    ],
+    "count": 1,
+    "create_time": 1767774127,
+    "update_time": 1767774127,
+    "_id": "Ban Kiểm Soát Quỹ<SEP>Quỹ Bảo Hiểm Xe Cơ Giới"
+  },
+  "Ban Điều Hành Quỹ<SEP>Bộ Tài Chính": {
+    "chunk_ids": [
+      "chunk-2a15e9c9f1d4abab9d7b174e4ac0c8e1"
+    ],
+    "count": 1,
+    "create_time": 1767774127,
+    "update_time": 1767774127,
+    "_id": "Ban Điều Hành Quỹ<SEP>Bộ Tài Chính"
+  },
+  "Ngôi Nhà Được Bảo Hiểm<SEP>Tài Sản Được Bảo Hiểm": {
+    "chunk_ids": [
+      "chunk-39c965fdd78691384273067b5c625151"
+    ],
+    "count": 1,
+    "create_time": 1767774127,
+    "update_time": 1767774127,
+    "_id": "Ngôi Nhà Được Bảo Hiểm<SEP>Tài Sản Được Bảo Hiểm"
+  },
+  "Người Được Bảo Hiểm (NĐBH)<SEP>Tổng Công Ty Cổ Phần Bảo Hiểm Hàng Không (VNI)": {
+    "chunk_ids": [
+      "chunk-e74e6f0374b2d17f4200dc31f3d4d0e7"
+    ],
+    "count": 1,
+    "create_time": 1767774128,
+    "update_time": 1767774128,
+    "_id": "Người Được Bảo Hiểm (NĐBH)<SEP>Tổng Công Ty Cổ Phần Bảo Hiểm Hàng Không (VNI)"
+  },
+  "Mở Rộng I<SEP>Trộm Cướp": {
+    "chunk_ids": [
+      "chunk-228c28e9b6d28455f3132b53d0662ed2"
+    ],
+    "count": 1,
+    "create_time": 1767774128,
+    "update_time": 1767774128,
+    "_id": "Mở Rộng I<SEP>Trộm Cướp"
+  },
+  "Chứng Từ Liên Quan<SEP>VNI": {
+    "chunk_ids": [
+      "chunk-c243bff315ed309de5ea1c62192b85d1"
+    ],
+    "count": 1,
+    "create_time": 1767774128,
+    "update_time": 1767774128,
+    "_id": "Chứng Từ Liên Quan<SEP>VNI"
+  },
+  "Thông Tin Về Hợp Đồng Bảo Hiểm Khác<SEP>Trách Nhiệm Của Người Được Bảo Hiểm": {
+    "chunk_ids": [
+      "chunk-39c965fdd78691384273067b5c625151"
+    ],
+    "count": 1,
+    "create_time": 1767774128,
+    "update_time": 1767774128,
+    "_id": "Thông Tin Về Hợp Đồng Bảo Hiểm Khác<SEP>Trách Nhiệm Của Người Được Bảo Hiểm"
+  },
+  "Cháy do Lửa Ngầm<SEP>Loại Trừ Bảo Hiểm": {
+    "chunk_ids": [
+      "chunk-228c28e9b6d28455f3132b53d0662ed2"
+    ],
+    "count": 1,
+    "create_time": 1767774128,
+    "update_time": 1767774128,
+    "_id": "Cháy do Lửa Ngầm<SEP>Loại Trừ Bảo Hiểm"
+  },
+  "Người Bị Thiệt Hại<SEP>Quỹ Bảo Hiểm Xe Cơ Giới": {
+    "chunk_ids": [
+      "chunk-2a15e9c9f1d4abab9d7b174e4ac0c8e1",
+      "chunk-c3f3f1f6e434ee13cefc61f98d040b48"
+    ],
+    "count": 2,
+    "create_time": 1767774129,
+    "update_time": 1767774129,
+    "_id": "Người Bị Thiệt Hại<SEP>Quỹ Bảo Hiểm Xe Cơ Giới"
+  },
+  "Ban Điều Hành Quỹ<SEP>Dự Toán Quỹ": {
+    "chunk_ids": [
+      "chunk-2a15e9c9f1d4abab9d7b174e4ac0c8e1"
+    ],
+    "count": 1,
+    "create_time": 1767774129,
+    "update_time": 1767774129,
+    "_id": "Ban Điều Hành Quỹ<SEP>Dự Toán Quỹ"
+  },
+  "Ngôi Nhà Được Bảo Hiểm<SEP>Tài Sản Không Được Bảo Hiểm": {
+    "chunk_ids": [
+      "chunk-39c965fdd78691384273067b5c625151"
+    ],
+    "count": 1,
+    "create_time": 1767774129,
+    "update_time": 1767774129,
+    "_id": "Ngôi Nhà Được Bảo Hiểm<SEP>Tài Sản Không Được Bảo Hiểm"
+  },
+  "Hợp Đồng Bảo Hiểm<SEP>Người Được Bảo Hiểm (NĐBH)": {
+    "chunk_ids": [
+      "chunk-e74e6f0374b2d17f4200dc31f3d4d0e7"
+    ],
+    "count": 1,
+    "create_time": 1767774129,
+    "update_time": 1767774129,
+    "_id": "Hợp Đồng Bảo Hiểm<SEP>Người Được Bảo Hiểm (NĐBH)"
+  },
+  "Giấy Chứng Nhận Bảo Hiểm<SEP>Tổng Công Ty Cổ Phần Bảo Hiểm Hàng Không (VNI)": {
+    "chunk_ids": [
+      "chunk-e74e6f0374b2d17f4200dc31f3d4d0e7"
+    ],
+    "count": 1,
+    "create_time": 1767774129,
+    "update_time": 1767774129,
+    "_id": "Giấy Chứng Nhận Bảo Hiểm<SEP>Tổng Công Ty Cổ Phần Bảo Hiểm Hàng Không (VNI)"
+  },
+  "Giới Hạn Bồi Thường<SEP>VNI": {
+    "chunk_ids": [
+      "chunk-c7f6be72ba04c40c1a4600a930cc737e"
+    ],
+    "count": 1,
+    "create_time": 1767774129,
+    "update_time": 1767774129,
+    "_id": "Giới Hạn Bồi Thường<SEP>VNI"
+  },
+  "Hồ Sơ Khiếu Nại<SEP>Trách Nhiệm Của Người Được Bảo Hiểm": {
+    "chunk_ids": [
+      "chunk-39c965fdd78691384273067b5c625151"
+    ],
+    "count": 1,
+    "create_time": 1767774129,
+    "update_time": 1767774129,
+    "_id": "Hồ Sơ Khiếu Nại<SEP>Trách Nhiệm Của Người Được Bảo Hiểm"
+  },
+  "Loại Trừ Bảo Hiểm<SEP>Nguyên Liệu/Vũ Khí Hạt Nhân": {
+    "chunk_ids": [
+      "chunk-228c28e9b6d28455f3132b53d0662ed2"
+    ],
+    "count": 1,
+    "create_time": 1767774129,
+    "update_time": 1767774129,
+    "_id": "Loại Trừ Bảo Hiểm<SEP>Nguyên Liệu/Vũ Khí Hạt Nhân"
+  },
+  "Hồ Sơ Chi Hỗ Trợ Nhân Đạo<SEP>Quỹ Bảo Hiểm Xe Cơ Giới": {
+    "chunk_ids": [
+      "chunk-c3f3f1f6e434ee13cefc61f98d040b48"
+    ],
+    "count": 1,
+    "create_time": 1767774130,
+    "update_time": 1767774130,
+    "_id": "Hồ Sơ Chi Hỗ Trợ Nhân Đạo<SEP>Quỹ Bảo Hiểm Xe Cơ Giới"
+  },
+  "Giấy Yêu Cầu Bảo Hiểm<SEP>Người Được Bảo Hiểm (NĐBH)": {
+    "chunk_ids": [
+      "chunk-e74e6f0374b2d17f4200dc31f3d4d0e7"
+    ],
+    "count": 1,
+    "create_time": 1767774130,
+    "update_time": 1767774130,
+    "_id": "Giấy Yêu Cầu Bảo Hiểm<SEP>Người Được Bảo Hiểm (NĐBH)"
+  },
+  "Hợp Đồng Bảo Hiểm<SEP>Phạm Vi Bảo Hiểm": {
+    "chunk_ids": [
+      "chunk-e74e6f0374b2d17f4200dc31f3d4d0e7"
+    ],
+    "count": 1,
+    "create_time": 1767774130,
+    "update_time": 1767774130,
+    "_id": "Hợp Đồng Bảo Hiểm<SEP>Phạm Vi Bảo Hiểm"
+  },
+  "NĐBH<SEP>VNI": {
+    "chunk_ids": [
+      "chunk-c243bff315ed309de5ea1c62192b85d1",
+      "chunk-c7f6be72ba04c40c1a4600a930cc737e"
+    ],
+    "count": 2,
+    "create_time": 1767774130,
+    "update_time": 1767774130,
+    "_id": "NĐBH<SEP>VNI"
+  },
+  "Ban Điều Hành Quỹ<SEP>Quyết Toán Quỹ": {
+    "chunk_ids": [
+      "chunk-2a15e9c9f1d4abab9d7b174e4ac0c8e1"
+    ],
+    "count": 1,
+    "create_time": 1767774130,
+    "update_time": 1767774130,
+    "_id": "Ban Điều Hành Quỹ<SEP>Quyết Toán Quỹ"
+  },
+  "Loại Trừ Bảo Hiểm<SEP>Tên Lửa/Vũ Khí Chiến Tranh": {
+    "chunk_ids": [
+      "chunk-228c28e9b6d28455f3132b53d0662ed2"
+    ],
+    "count": 1,
+    "create_time": 1767774131,
+    "update_time": 1767774131,
+    "_id": "Loại Trừ Bảo Hiểm<SEP>Tên Lửa/Vũ Khí Chiến Tranh"
+  },
+  "Hợp Đồng Bảo Hiểm<SEP>Điều Khoản Bổ Sung": {
+    "chunk_ids": [
+      "chunk-e74e6f0374b2d17f4200dc31f3d4d0e7"
+    ],
+    "count": 1,
+    "create_time": 1767774132,
+    "update_time": 1767774132,
+    "_id": "Hợp Đồng Bảo Hiểm<SEP>Điều Khoản Bổ Sung"
+  },
+  "Doanh Nghiệp Bảo Hiểm<SEP>Quỹ Bảo Hiểm Xe Cơ Giới": {
+    "chunk_ids": [
+      "chunk-c3f3f1f6e434ee13cefc61f98d040b48"
+    ],
+    "count": 1,
+    "create_time": 1767774132,
+    "update_time": 1767774132,
+    "_id": "Doanh Nghiệp Bảo Hiểm<SEP>Quỹ Bảo Hiểm Xe Cơ Giới"
+  },
+  "Hồ Sơ Chi Hỗ Trợ Nhân Đạo<SEP>Thông Tư": {
+    "chunk_ids": [
+      "chunk-c3f3f1f6e434ee13cefc61f98d040b48"
+    ],
+    "count": 1,
+    "create_time": 1767774132,
+    "update_time": 1767774132,
+    "_id": "Hồ Sơ Chi Hỗ Trợ Nhân Đạo<SEP>Thông Tư"
+  },
+  "NĐBH<SEP>Quyền Lợi Bồi Thường": {
+    "chunk_ids": [
+      "chunk-c243bff315ed309de5ea1c62192b85d1"
+    ],
+    "count": 1,
+    "create_time": 1767774132,
+    "update_time": 1767774132,
+    "_id": "NĐBH<SEP>Quyền Lợi Bồi Thường"
+  },
+  "Chấm Dứt Hợp Đồng Bảo Hiểm<SEP>VNI": {
+    "chunk_ids": [
+      "chunk-c7f6be72ba04c40c1a4600a930cc737e"
+    ],
+    "count": 1,
+    "create_time": 1767774132,
+    "update_time": 1767774132,
+    "_id": "Chấm Dứt Hợp Đồng Bảo Hiểm<SEP>VNI"
+  },
+  "Loại Trừ Bảo Hiểm<SEP>Phóng Xạ Ion Hóa/Nhiễm Phóng Xạ": {
+    "chunk_ids": [
+      "chunk-228c28e9b6d28455f3132b53d0662ed2"
+    ],
+    "count": 1,
+    "create_time": 1767774132,
+    "update_time": 1767774132,
+    "_id": "Loại Trừ Bảo Hiểm<SEP>Phóng Xạ Ion Hóa/Nhiễm Phóng Xạ"
+  },
+  "Tổn Hại Do Sét Đánh<SEP>VNI": {
+    "chunk_ids": [
+      "chunk-c7f6be72ba04c40c1a4600a930cc737e"
+    ],
+    "count": 1,
+    "create_time": 1767774134,
+    "update_time": 1767774134,
+    "_id": "Tổn Hại Do Sét Đánh<SEP>VNI"
+  },
+  "Mất Quyền Lợi<SEP>NĐBH": {
+    "chunk_ids": [
+      "chunk-c243bff315ed309de5ea1c62192b85d1"
+    ],
+    "count": 1,
+    "create_time": 1767774134,
+    "update_time": 1767774134,
+    "_id": "Mất Quyền Lợi<SEP>NĐBH"
+  },
+  "Nghị Định số 03/2021/NĐ-CP<SEP>Quỹ Bảo Hiểm Xe Cơ Giới": {
+    "chunk_ids": [
+      "chunk-c3f3f1f6e434ee13cefc61f98d040b48"
+    ],
+    "count": 1,
+    "create_time": 1767774136,
+    "update_time": 1767774136,
+    "_id": "Nghị Định số 03/2021/NĐ-CP<SEP>Quỹ Bảo Hiểm Xe Cơ Giới"
+  },
+  "Doanh Nghiệp Bảo Hiểm<SEP>Hồ Sơ Đề Nghị Hoàn Trả Tạm Ứng Bồi Thường": {
+    "chunk_ids": [
+      "chunk-c3f3f1f6e434ee13cefc61f98d040b48"
+    ],
+    "count": 1,
+    "create_time": 1767774136,
+    "update_time": 1767774136,
+    "_id": "Doanh Nghiệp Bảo Hiểm<SEP>Hồ Sơ Đề Nghị Hoàn Trả Tạm Ứng Bồi Thường"
+  },
+  "Hợp đồng Bảo Hiểm<SEP>NĐBH": {
+    "chunk_ids": [
+      "chunk-c7f6be72ba04c40c1a4600a930cc737e"
+    ],
+    "count": 1,
+    "create_time": 1767774136,
+    "update_time": 1767774136,
+    "_id": "Hợp đồng Bảo Hiểm<SEP>NĐBH"
+  },
+  "NĐBH<SEP>Thông Báo Thay Đổi": {
+    "chunk_ids": [
+      "chunk-c7f6be72ba04c40c1a4600a930cc737e"
+    ],
+    "count": 1,
+    "create_time": 1767774137,
+    "update_time": 1767774137,
+    "_id": "NĐBH<SEP>Thông Báo Thay Đổi"
+  },
+  "Mẫu Đơn Đề Nghị Chi Hỗ Trợ Nhân Đạo<SEP>Quỹ Bảo Hiểm Xe Cơ Giới": {
+    "chunk_ids": [
+      "chunk-c3f3f1f6e434ee13cefc61f98d040b48"
+    ],
+    "count": 1,
+    "create_time": 1767774137,
+    "update_time": 1767774137,
+    "_id": "Mẫu Đơn Đề Nghị Chi Hỗ Trợ Nhân Đạo<SEP>Quỹ Bảo Hiểm Xe Cơ Giới"
+  },
+  "Hợp đồng Bảo Hiểm<SEP>Thời Hạn Bảo Hiểm": {
+    "chunk_ids": [
+      "chunk-c7f6be72ba04c40c1a4600a930cc737e"
+    ],
+    "count": 1,
+    "create_time": 1767774137,
+    "update_time": 1767774137,
+    "_id": "Hợp đồng Bảo Hiểm<SEP>Thời Hạn Bảo Hiểm"
+  },
+  "NĐBH<SEP>Phí Bảo Hiểm": {
+    "chunk_ids": [
+      "chunk-c7f6be72ba04c40c1a4600a930cc737e"
+    ],
+    "count": 1,
+    "create_time": 1767774139,
+    "update_time": 1767774139,
+    "_id": "NĐBH<SEP>Phí Bảo Hiểm"
+  },
+  "NĐBH<SEP>Thiệt Hại Do Nổ": {
+    "chunk_ids": [
+      "chunk-c7f6be72ba04c40c1a4600a930cc737e"
+    ],
+    "count": 1,
+    "create_time": 1767774141,
+    "update_time": 1767774141,
+    "_id": "NĐBH<SEP>Thiệt Hại Do Nổ"
+  },
+  "Vận Đơn Gộp Chung Hàng<SEP>Vận Đơn Nhận Hàng Trước Để Chở": {
+    "chunk_ids": [
+      "chunk-8312a1c4b115487f5ebb8c44a1e2a659"
+    ],
+    "count": 1,
+    "create_time": 1767774178,
+    "update_time": 1767774178,
+    "_id": "Vận Đơn Gộp Chung Hàng<SEP>Vận Đơn Nhận Hàng Trước Để Chở"
+  },
+  "Vứt Hàng Xuống Biển<SEP>Điều Khoản Chiến Tranh": {
+    "chunk_ids": [
+      "chunk-8312a1c4b115487f5ebb8c44a1e2a659"
+    ],
+    "count": 1,
+    "create_time": 1767774178,
+    "update_time": 1767774178,
+    "_id": "Vứt Hàng Xuống Biển<SEP>Điều Khoản Chiến Tranh"
+  },
+  "Vận Đơn Chuyển Tải<SEP>Vận Đơn Chở Suốt": {
+    "chunk_ids": [
+      "chunk-8312a1c4b115487f5ebb8c44a1e2a659",
+      "chunk-a17a4c5d01aad524bba2ee56df5daef7"
+    ],
+    "count": 2,
+    "create_time": 1767774178,
+    "update_time": 1767774178,
+    "_id": "Vận Đơn Chuyển Tải<SEP>Vận Đơn Chở Suốt"
+  },
+  "Quy Tắc Vận Chuyển Hàng Nguy Hiểm (IMDG Code)<SEP>Rủi Ro": {
+    "chunk_ids": [
+      "chunk-0406e5bc8444fd4078af4abc113b766c"
+    ],
+    "count": 1,
+    "create_time": 1767774178,
+    "update_time": 1767774178,
+    "_id": "Quy Tắc Vận Chuyển Hàng Nguy Hiểm (IMDG Code)<SEP>Rủi Ro"
+  },
+  "Cảng Gửi<SEP>Cảng Đích": {
+    "chunk_ids": [
+      "chunk-8312a1c4b115487f5ebb8c44a1e2a659"
+    ],
+    "count": 1,
+    "create_time": 1767774178,
+    "update_time": 1767774178,
+    "_id": "Cảng Gửi<SEP>Cảng Đích"
+  },
+  "Nằm Viện<SEP>Phòng và Giường Điều Trị": {
+    "chunk_ids": [
+      "chunk-0406e5bc8444fd4078af4abc113b766c"
+    ],
+    "count": 1,
+    "create_time": 1767774178,
+    "update_time": 1767774178,
+    "_id": "Nằm Viện<SEP>Phòng và Giường Điều Trị"
+  },
+  "Bảo Hiểm Bảo Vệ Người Đi Biển<SEP>Phí Bảo Hiểm": {
+    "chunk_ids": [
+      "chunk-0406e5bc8444fd4078af4abc113b766c"
+    ],
+    "count": 1,
+    "create_time": 1767774178,
+    "update_time": 1767774178,
+    "_id": "Bảo Hiểm Bảo Vệ Người Đi Biển<SEP>Phí Bảo Hiểm"
+  },
+  "Phí Làm Hàng<SEP>Phí Điều Chỉnh Giá Nhiên Liệu": {
+    "chunk_ids": [
+      "chunk-0406e5bc8444fd4078af4abc113b766c"
+    ],
+    "count": 1,
+    "create_time": 1767774178,
+    "update_time": 1767774178,
+    "_id": "Phí Làm Hàng<SEP>Phí Điều Chỉnh Giá Nhiên Liệu"
+  },
+  "Điều Khoản Đình Thuê<SEP>Điều Khoản Đứng Đầu": {
+    "chunk_ids": [
+      "chunk-18161bb890e47ece4a08f6af937c3e0b"
+    ],
+    "count": 1,
+    "create_time": 1767774178,
+    "update_time": 1767774178,
+    "_id": "Điều Khoản Đình Thuê<SEP>Điều Khoản Đứng Đầu"
+  },
+  "Cước Chết<SEP>Cước Khoán": {
+    "chunk_ids": [
+      "chunk-ad2ad52a64532cbab08dbb6e2c16c8c1"
+    ],
+    "count": 1,
+    "create_time": 1767774178,
+    "update_time": 1767774178,
+    "_id": "Cước Chết<SEP>Cước Khoán"
+  },
+  "Cước Dự Kiến<SEP>Cước Trả Thủy": {
+    "chunk_ids": [
+      "chunk-ad2ad52a64532cbab08dbb6e2c16c8c1"
+    ],
+    "count": 1,
+    "create_time": 1767774178,
+    "update_time": 1767774178,
+    "_id": "Cước Dự Kiến<SEP>Cước Trả Thủy"
+  },
+  "Hợp Đồng Thuê Tàu<SEP>Tiền Tạm Ứng Trên Cước": {
+    "chunk_ids": [
+      "chunk-ad2ad52a64532cbab08dbb6e2c16c8c1"
+    ],
+    "count": 1,
+    "create_time": 1767774178,
+    "update_time": 1767774178,
+    "_id": "Hợp Đồng Thuê Tàu<SEP>Tiền Tạm Ứng Trên Cước"
+  },
+  "Vận Đơn Không Lưu Thông<SEP>Vận Đơn Lưu Thông": {
+    "chunk_ids": [
+      "chunk-b28f401044d95a2e3828859d4104d977"
+    ],
+    "count": 1,
+    "create_time": 1767774178,
+    "update_time": 1767774178,
+    "_id": "Vận Đơn Không Lưu Thông<SEP>Vận Đơn Lưu Thông"
+  },
+  "Lloyd's<SEP>Quy Tắc và Tiêu Chuẩn Kỹ Thuật của Lloyd's": {
+    "chunk_ids": [
+      "chunk-a08e0ad5276d50487c7b13e708988615"
+    ],
+    "count": 1,
+    "create_time": 1767774178,
+    "update_time": 1767774178,
+    "_id": "Lloyd's<SEP>Quy Tắc và Tiêu Chuẩn Kỹ Thuật của Lloyd's"
+  },
+  "Cước Khống<SEP>Cước Trả Tại Đích Đến": {
+    "chunk_ids": [
+      "chunk-a08e0ad5276d50487c7b13e708988615"
+    ],
+    "count": 1,
+    "create_time": 1767774178,
+    "update_time": 1767774178,
+    "_id": "Cước Khống<SEP>Cước Trả Tại Đích Đến"
+  },
+  "Điều Khoản Chiến Tranh<SEP>Điều Khoản Giao Hàng Qua Mạn Tàu": {
+    "chunk_ids": [
+      "chunk-8312a1c4b115487f5ebb8c44a1e2a659"
+    ],
+    "count": 1,
+    "create_time": 1767774180,
+    "update_time": 1767774180,
+    "_id": "Điều Khoản Chiến Tranh<SEP>Điều Khoản Giao Hàng Qua Mạn Tàu"
+  },
+  "Giấy Chứng Nhận Hạng Thứ<SEP>Lloyd's": {
+    "chunk_ids": [
+      "chunk-a08e0ad5276d50487c7b13e708988615"
+    ],
+    "count": 1,
+    "create_time": 1767774180,
+    "update_time": 1767774180,
+    "_id": "Giấy Chứng Nhận Hạng Thứ<SEP>Lloyd's"
+  },
+  "Cảng Phí<SEP>Cảng Đăng Ký": {
+    "chunk_ids": [
+      "chunk-a08e0ad5276d50487c7b13e708988615"
+    ],
+    "count": 1,
+    "create_time": 1767774180,
+    "update_time": 1767774180,
+    "_id": "Cảng Phí<SEP>Cảng Đăng Ký"
+  },
+  "Hợp Đồng Thuê Tàu<SEP>Hợp Đồng Đại Lý": {
+    "chunk_ids": [
+      "chunk-ad2ad52a64532cbab08dbb6e2c16c8c1"
+    ],
+    "count": 1,
+    "create_time": 1767774180,
+    "update_time": 1767774180,
+    "_id": "Hợp Đồng Thuê Tàu<SEP>Hợp Đồng Đại Lý"
+  },
+  "Phòng Thương Mại Quốc Tế<SEP>Phòng và Giường Điều Trị": {
+    "chunk_ids": [
+      "chunk-0406e5bc8444fd4078af4abc113b766c"
+    ],
+    "count": 1,
+    "create_time": 1767774180,
+    "update_time": 1767774180,
+    "_id": "Phòng Thương Mại Quốc Tế<SEP>Phòng và Giường Điều Trị"
+  },
+  "Người Chuyên Chở<SEP>Vận Đơn Nhận Hàng Trước Để Chở": {
+    "chunk_ids": [
+      "chunk-8312a1c4b115487f5ebb8c44a1e2a659"
+    ],
+    "count": 1,
+    "create_time": 1767774180,
+    "update_time": 1767774180,
+    "_id": "Người Chuyên Chở<SEP>Vận Đơn Nhận Hàng Trước Để Chở"
+  },
+  "Bảo Hiểm Gia Đình<SEP>Bệnh Viện": {
+    "chunk_ids": [
+      "chunk-25dd9c643ae967e45af690756cee409a"
+    ],
+    "count": 1,
+    "create_time": 1767774180,
+    "update_time": 1767774180,
+    "_id": "Bảo Hiểm Gia Đình<SEP>Bệnh Viện"
+  },
+  "Giao Hàng Từng Phần<SEP>Giá Trị Bảo Hiểm": {
+    "chunk_ids": [
+      "chunk-25dd9c643ae967e45af690756cee409a",
+      "chunk-6bcca569d779c33ea3dcfc9c2448808b"
+    ],
+    "count": 2,
+    "create_time": 1767774180,
+    "update_time": 1767774180,
+    "_id": "Giao Hàng Từng Phần<SEP>Giá Trị Bảo Hiểm"
+  },
+  "Điều Khoản Đến Gần<SEP>Điều Khoản Đứng Đầu": {
+    "chunk_ids": [
+      "chunk-18161bb890e47ece4a08f6af937c3e0b"
+    ],
+    "count": 1,
+    "create_time": 1767774180,
+    "update_time": 1767774180,
+    "_id": "Điều Khoản Đến Gần<SEP>Điều Khoản Đứng Đầu"
+  },
+  "Điều Khoản Đình Thuê<SEP>Điều Kiện Hợp Đồng": {
+    "chunk_ids": [
+      "chunk-18161bb890e47ece4a08f6af937c3e0b"
+    ],
+    "count": 1,
+    "create_time": 1767774180,
+    "update_time": 1767774180,
+    "_id": "Điều Khoản Đình Thuê<SEP>Điều Kiện Hợp Đồng"
+  },
+  "Giám Định Tai Nạn<SEP>Giải Quyết Hậu Quả Tai Nạn": {
+    "chunk_ids": [
+      "chunk-25dd9c643ae967e45af690756cee409a"
+    ],
+    "count": 1,
+    "create_time": 1767774180,
+    "update_time": 1767774180,
+    "_id": "Giám Định Tai Nạn<SEP>Giải Quyết Hậu Quả Tai Nạn"
+  },
+  "Giấy Chứng Nhận Quốc Tế Mức Chuyên Chở<SEP>Giấy Phép Xuất Kho Ngoại Quan": {
+    "chunk_ids": [
+      "chunk-25dd9c643ae967e45af690756cee409a"
+    ],
+    "count": 1,
+    "create_time": 1767774180,
+    "update_time": 1767774180,
+    "_id": "Giấy Chứng Nhận Quốc Tế Mức Chuyên Chở<SEP>Giấy Phép Xuất Kho Ngoại Quan"
+  },
+  "Giám Định Chấm Dứt Thuê<SEP>Giám Định Tiếp Nhận Thuê": {
+    "chunk_ids": [
+      "chunk-25dd9c643ae967e45af690756cee409a"
+    ],
+    "count": 1,
+    "create_time": 1767774180,
+    "update_time": 1767774180,
+    "_id": "Giám Định Chấm Dứt Thuê<SEP>Giám Định Tiếp Nhận Thuê"
+  },
+  "Excluded Risks<SEP>Rủi Ro": {
+    "chunk_ids": [
+      "chunk-0406e5bc8444fd4078af4abc113b766c"
+    ],
+    "count": 1,
+    "create_time": 1767774180,
+    "update_time": 1767774180,
+    "_id": "Excluded Risks<SEP>Rủi Ro"
+  },
+  "Liên Doanh Chuyên Chở<SEP>Liên Đoàn Bảo Hiểm Lloyd's": {
+    "chunk_ids": [
+      "chunk-fc77b19f95abe8c1ecba5e57b1b9ad8d"
+    ],
+    "count": 1,
+    "create_time": 1767774180,
+    "update_time": 1767774180,
+    "_id": "Liên Doanh Chuyên Chở<SEP>Liên Đoàn Bảo Hiểm Lloyd's"
+  },
+  "Cước Vận Chuyển<SEP>Phụ Phí": {
+    "chunk_ids": [
+      "chunk-fc77b19f95abe8c1ecba5e57b1b9ad8d"
+    ],
+    "count": 1,
+    "create_time": 1767774180,
+    "update_time": 1767774180,
+    "_id": "Cước Vận Chuyển<SEP>Phụ Phí"
+  },
+  "Bảo Hiểm Bảo Vệ Người Đi Biển<SEP>Nằm Viện": {
+    "chunk_ids": [
+      "chunk-0406e5bc8444fd4078af4abc113b766c"
+    ],
+    "count": 1,
+    "create_time": 1767774180,
+    "update_time": 1767774180,
+    "_id": "Bảo Hiểm Bảo Vệ Người Đi Biển<SEP>Nằm Viện"
+  },
+  "Cước Trả Trước<SEP>Hợp Đồng Thuê Tàu": {
+    "chunk_ids": [
+      "chunk-ad2ad52a64532cbab08dbb6e2c16c8c1"
+    ],
+    "count": 1,
+    "create_time": 1767774181,
+    "update_time": 1767774181,
+    "_id": "Cước Trả Trước<SEP>Hợp Đồng Thuê Tàu"
+  },
+  "Bảo Hiểm Đường Hầm<SEP>Tổn Thất Phát Sinh": {
+    "chunk_ids": [
+      "chunk-4fc3f02033b1be399604ad6ff0795e76"
+    ],
+    "count": 1,
+    "create_time": 1767774181,
+    "update_time": 1767774181,
+    "_id": "Bảo Hiểm Đường Hầm<SEP>Tổn Thất Phát Sinh"
+  },
+  "Công Ước Brúc-xen 1924<SEP>Điều Khoản Đứng Đầu": {
+    "chunk_ids": [
+      "chunk-18161bb890e47ece4a08f6af937c3e0b"
+    ],
+    "count": 1,
+    "create_time": 1767774181,
+    "update_time": 1767774181,
+    "_id": "Công Ước Brúc-xen 1924<SEP>Điều Khoản Đứng Đầu"
+  },
+  "Cước Trả Khi Nhận<SEP>Cước Vận Chuyển": {
+    "chunk_ids": [
+      "chunk-fc77b19f95abe8c1ecba5e57b1b9ad8d"
+    ],
+    "count": 1,
+    "create_time": 1767774181,
+    "update_time": 1767774181,
+    "_id": "Cước Trả Khi Nhận<SEP>Cước Vận Chuyển"
+  },
+  "Bảo Lãnh Để Nhận Hàng<SEP>Chi Phí Y Tế Hợp Lý": {
+    "chunk_ids": [
+      "chunk-4fc3f02033b1be399604ad6ff0795e76"
+    ],
+    "count": 1,
+    "create_time": 1767774181,
+    "update_time": 1767774181,
+    "_id": "Bảo Lãnh Để Nhận Hàng<SEP>Chi Phí Y Tế Hợp Lý"
+  },
+  "Bảo Đảm Đóng Góp Tổn Thất Chung<SEP>Bệnh / Thương Tật Có Sẵn": {
+    "chunk_ids": [
+      "chunk-4fc3f02033b1be399604ad6ff0795e76"
+    ],
+    "count": 1,
+    "create_time": 1767774181,
+    "update_time": 1767774181,
+    "_id": "Bảo Đảm Đóng Góp Tổn Thất Chung<SEP>Bệnh / Thương Tật Có Sẵn"
+  },
+  "Lloyd's<SEP>Máy Chính": {
+    "chunk_ids": [
+      "chunk-a08e0ad5276d50487c7b13e708988615"
+    ],
+    "count": 1,
+    "create_time": 1767774181,
+    "update_time": 1767774181,
+    "_id": "Lloyd's<SEP>Máy Chính"
+  },
+  "Giấy Chứng Nhận Hạng Thứ<SEP>Sổ Danh Bạ của Lloyd's": {
+    "chunk_ids": [
+      "chunk-a08e0ad5276d50487c7b13e708988615"
+    ],
+    "count": 1,
+    "create_time": 1767774181,
+    "update_time": 1767774181,
+    "_id": "Giấy Chứng Nhận Hạng Thứ<SEP>Sổ Danh Bạ của Lloyd's"
+  },
+  "Cam Kết Để Nhận Vận Đơn Sạch<SEP>Chi Phí Được Thanh Toán": {
+    "chunk_ids": [
+      "chunk-4fc3f02033b1be399604ad6ff0795e76"
+    ],
+    "count": 1,
+    "create_time": 1767774181,
+    "update_time": 1767774181,
+    "_id": "Cam Kết Để Nhận Vận Đơn Sạch<SEP>Chi Phí Được Thanh Toán"
+  },
+  "Chủ Xe Cũ<SEP>Chủ Xe Mới": {
+    "chunk_ids": [
+      "chunk-19d2ca8cd9448610ddd1ebb196e3d8fc"
+    ],
+    "count": 1,
+    "create_time": 1767774182,
+    "update_time": 1767774182,
+    "_id": "Chủ Xe Cũ<SEP>Chủ Xe Mới"
+  },
+  "Hợp Đồng Đại Lý<SEP>Đại Lý Tàu Biển": {
+    "chunk_ids": [
+      "chunk-55a851f90f39ce14e4262660bed1ce9e"
+    ],
+    "count": 1,
+    "create_time": 1767774182,
+    "update_time": 1767774182,
+    "_id": "Hợp Đồng Đại Lý<SEP>Đại Lý Tàu Biển"
+  },
+  "Điều Khoản Đến Gần<SEP>Điều Kiện Hợp Đồng": {
+    "chunk_ids": [
+      "chunk-18161bb890e47ece4a08f6af937c3e0b"
+    ],
+    "count": 1,
+    "create_time": 1767774182,
+    "update_time": 1767774182,
+    "_id": "Điều Khoản Đến Gần<SEP>Điều Kiện Hợp Đồng"
+  },
+  "Hợp Đồng Thuê Tàu Định Hạn<SEP>Điều Khoản Đình Thuê": {
+    "chunk_ids": [
+      "chunk-18161bb890e47ece4a08f6af937c3e0b"
+    ],
+    "count": 1,
+    "create_time": 1767774182,
+    "update_time": 1767774182,
+    "_id": "Hợp Đồng Thuê Tàu Định Hạn<SEP>Điều Khoản Đình Thuê"
+  },
+  "Liên Đoàn Bảo Hiểm Lloyd's<SEP>Liên Đoàn Quốc Tế Các Hiệp Hội Giao Nhận": {
+    "chunk_ids": [
+      "chunk-fc77b19f95abe8c1ecba5e57b1b9ad8d"
+    ],
+    "count": 1,
+    "create_time": 1767774182,
+    "update_time": 1767774182,
+    "_id": "Liên Đoàn Bảo Hiểm Lloyd's<SEP>Liên Đoàn Quốc Tế Các Hiệp Hội Giao Nhận"
+  },
+  "Bảo Hiểm Chi Phí Y Tế<SEP>Chi Phí Y Tế": {
+    "chunk_ids": [
+      "chunk-55a851f90f39ce14e4262660bed1ce9e"
+    ],
+    "count": 1,
+    "create_time": 1767774182,
+    "update_time": 1767774182,
+    "_id": "Bảo Hiểm Chi Phí Y Tế<SEP>Chi Phí Y Tế"
+  },
+  "Các Rủi Ro Khác<SEP>Rủi Ro": {
+    "chunk_ids": [
+      "chunk-0406e5bc8444fd4078af4abc113b766c"
+    ],
+    "count": 1,
+    "create_time": 1767774182,
+    "update_time": 1767774182,
+    "_id": "Các Rủi Ro Khác<SEP>Rủi Ro"
+  },
+  "Giải Quyết Hậu Quả Tai Nạn<SEP>Giới Hạn Bồi Thường": {
+    "chunk_ids": [
+      "chunk-25dd9c643ae967e45af690756cee409a"
+    ],
+    "count": 1,
+    "create_time": 1767774182,
+    "update_time": 1767774182,
+    "_id": "Giải Quyết Hậu Quả Tai Nạn<SEP>Giới Hạn Bồi Thường"
+  },
+  "Ngày Niên Lịch<SEP>Thuật Ngữ Bảo Hiểm Phi Nhân Thọ": {
+    "chunk_ids": [
+      "chunk-1bb6a01b15c403e339b5f53ae49a6fcc"
+    ],
+    "count": 1,
+    "create_time": 1767774183,
+    "update_time": 1767774183,
+    "_id": "Ngày Niên Lịch<SEP>Thuật Ngữ Bảo Hiểm Phi Nhân Thọ"
+  },
+  "Cước Theo Tỷ Lệ Đoạn Đường<SEP>Hợp Đồng Thuê Tàu": {
+    "chunk_ids": [
+      "chunk-ad2ad52a64532cbab08dbb6e2c16c8c1"
+    ],
+    "count": 1,
+    "create_time": 1767774183,
+    "update_time": 1767774183,
+    "_id": "Cước Theo Tỷ Lệ Đoạn Đường<SEP>Hợp Đồng Thuê Tàu"
+  },
+  "Cước Trả Tại Cảng Đi<SEP>Cước Vận Chuyển": {
+    "chunk_ids": [
+      "chunk-fc77b19f95abe8c1ecba5e57b1b9ad8d"
+    ],
+    "count": 1,
+    "create_time": 1767774183,
+    "update_time": 1767774183,
+    "_id": "Cước Trả Tại Cảng Đi<SEP>Cước Vận Chuyển"
+  },
+  "Chi Phí Y Tế Hợp Lý<SEP>Chi Phí Điều Trị Trước Khi Nhập Viện": {
+    "chunk_ids": [
+      "chunk-4fc3f02033b1be399604ad6ff0795e76"
+    ],
+    "count": 1,
+    "create_time": 1767774183,
+    "update_time": 1767774183,
+    "_id": "Chi Phí Y Tế Hợp Lý<SEP>Chi Phí Điều Trị Trước Khi Nhập Viện"
+  },
+  "Hợp Đồng Đại Lý<SEP>Lỗi Hàng Vận": {
+    "chunk_ids": [
+      "chunk-55a851f90f39ce14e4262660bed1ce9e"
+    ],
+    "count": 1,
+    "create_time": 1767774183,
+    "update_time": 1767774183,
+    "_id": "Hợp Đồng Đại Lý<SEP>Lỗi Hàng Vận"
+  },
+  "Hoa Hồng Đại Lý<SEP>Đại Lý Tàu Biển": {
+    "chunk_ids": [
+      "chunk-55a851f90f39ce14e4262660bed1ce9e"
+    ],
+    "count": 1,
+    "create_time": 1767774183,
+    "update_time": 1767774183,
+    "_id": "Hoa Hồng Đại Lý<SEP>Đại Lý Tàu Biển"
+  },
+  "Hợp Đồng Mẫu Gencon<SEP>Điều Khoản Đến Gần": {
+    "chunk_ids": [
+      "chunk-18161bb890e47ece4a08f6af937c3e0b"
+    ],
+    "count": 1,
+    "create_time": 1767774183,
+    "update_time": 1767774183,
+    "_id": "Hợp Đồng Mẫu Gencon<SEP>Điều Khoản Đến Gần"
+  },
+  "Lloyd's<SEP>Máy Phụ": {
+    "chunk_ids": [
+      "chunk-a08e0ad5276d50487c7b13e708988615"
+    ],
+    "count": 1,
+    "create_time": 1767774183,
+    "update_time": 1767774183,
+    "_id": "Lloyd's<SEP>Máy Phụ"
+  },
+  "Ngày Bốc Và Dỡ Hàng Tính Gộp<SEP>Ngày Bốc/Dỡ Chậm": {
+    "chunk_ids": [
+      "chunk-080ebfb8e6c4a7bd4caf186931606e48"
+    ],
+    "count": 1,
+    "create_time": 1767774183,
+    "update_time": 1767774183,
+    "_id": "Ngày Bốc Và Dỡ Hàng Tính Gộp<SEP>Ngày Bốc/Dỡ Chậm"
+  },
+  "Chi Phí Y Tế<SEP>Lần Khám/Điều Trị": {
+    "chunk_ids": [
+      "chunk-55a851f90f39ce14e4262660bed1ce9e"
+    ],
+    "count": 1,
+    "create_time": 1767774183,
+    "update_time": 1767774183,
+    "_id": "Chi Phí Y Tế<SEP>Lần Khám/Điều Trị"
+  },
+  "Bảo Hiểm Bổ Sung Chương Trình Chăm Sóc Y Tế<SEP>Bảo Hiểm Chi Phí Y Tế": {
+    "chunk_ids": [
+      "chunk-55a851f90f39ce14e4262660bed1ce9e",
+      "chunk-080ebfb8e6c4a7bd4caf186931606e48"
+    ],
+    "count": 2,
+    "create_time": 1767774183,
+    "update_time": 1767774183,
+    "_id": "Bảo Hiểm Bổ Sung Chương Trình Chăm Sóc Y Tế<SEP>Bảo Hiểm Chi Phí Y Tế"
+  },
+  "Chủ Xe Cũ<SEP>Phí Hoàn": {
+    "chunk_ids": [
+      "chunk-19d2ca8cd9448610ddd1ebb196e3d8fc"
+    ],
+    "count": 1,
+    "create_time": 1767774183,
+    "update_time": 1767774183,
+    "_id": "Chủ Xe Cũ<SEP>Phí Hoàn"
+  },
+  "Chủ Tàu<SEP>Người Được Bảo Hiểm": {
+    "chunk_ids": [
+      "chunk-080ebfb8e6c4a7bd4caf186931606e48"
+    ],
+    "count": 1,
+    "create_time": 1767774183,
+    "update_time": 1767774183,
+    "_id": "Chủ Tàu<SEP>Người Được Bảo Hiểm"
+  },
+  "Mức Miễn Giảm<SEP>Mức Miễn Thường Có Khấu Trừ": {
+    "chunk_ids": [
+      "chunk-080ebfb8e6c4a7bd4caf186931606e48"
+    ],
+    "count": 1,
+    "create_time": 1767774183,
+    "update_time": 1767774183,
+    "_id": "Mức Miễn Giảm<SEP>Mức Miễn Thường Có Khấu Trừ"
+  },
+  "Hatch Tally<SEP>Tallyman": {
+    "chunk_ids": [
+      "chunk-a17a4c5d01aad524bba2ee56df5daef7"
+    ],
+    "count": 1,
+    "create_time": 1767774183,
+    "update_time": 1767774183,
+    "_id": "Hatch Tally<SEP>Tallyman"
+  },
+  "Chuyến Định Hạn<SEP>Quy Định Cước Phụ Trội": {
+    "chunk_ids": [
+      "chunk-a17a4c5d01aad524bba2ee56df5daef7"
+    ],
+    "count": 1,
+    "create_time": 1767774183,
+    "update_time": 1767774183,
+    "_id": "Chuyến Định Hạn<SEP>Quy Định Cước Phụ Trội"
+  },
+  "Giấy Chứng Nhận Đăng Ký<SEP>Đăng Kiểm Tàu": {
+    "chunk_ids": [
+      "chunk-a17a4c5d01aad524bba2ee56df5daef7"
+    ],
+    "count": 1,
+    "create_time": 1767774184,
+    "update_time": 1767774184,
+    "_id": "Giấy Chứng Nhận Đăng Ký<SEP>Đăng Kiểm Tàu"
+  },
+  "Bảo Hiểm Bắt Cóc<SEP>Hợp Đồng Thuê Tàu": {
+    "chunk_ids": [
+      "chunk-fc77b19f95abe8c1ecba5e57b1b9ad8d"
+    ],
+    "count": 1,
+    "create_time": 1767774184,
+    "update_time": 1767774184,
+    "_id": "Bảo Hiểm Bắt Cóc<SEP>Hợp Đồng Thuê Tàu"
+  },
+  "Bảo Hiểm Chết Vì Tai Nạn<SEP>Thuật Ngữ Bảo Hiểm Phi Nhân Thọ": {
+    "chunk_ids": [
+      "chunk-1bb6a01b15c403e339b5f53ae49a6fcc"
+    ],
+    "count": 1,
+    "create_time": 1767774184,
+    "update_time": 1767774184,
+    "_id": "Bảo Hiểm Chết Vì Tai Nạn<SEP>Thuật Ngữ Bảo Hiểm Phi Nhân Thọ"
+  },
+  "Hàng Rời<SEP>Thông Gió": {
+    "chunk_ids": [
+      "chunk-a17a4c5d01aad524bba2ee56df5daef7"
+    ],
+    "count": 1,
+    "create_time": 1767774184,
+    "update_time": 1767774184,
+    "_id": "Hàng Rời<SEP>Thông Gió"
+  },
+  "Người Được Bảo Hiểm<SEP>Tổn Thất Hàng Hóa": {
+    "chunk_ids": [
+      "chunk-080ebfb8e6c4a7bd4caf186931606e48"
+    ],
+    "count": 1,
+    "create_time": 1767774185,
+    "update_time": 1767774185,
+    "_id": "Người Được Bảo Hiểm<SEP>Tổn Thất Hàng Hóa"
+  },
+  "Công Ty Lloyd<SEP>Công Ty Đăng Kiểm Tàu Việt Nam": {
+    "chunk_ids": [
+      "chunk-a17a4c5d01aad524bba2ee56df5daef7"
+    ],
+    "count": 1,
+    "create_time": 1767774185,
+    "update_time": 1767774185,
+    "_id": "Công Ty Lloyd<SEP>Công Ty Đăng Kiểm Tàu Việt Nam"
+  },
+  "Người Gửi Hàng<SEP>Người Vận Tải Đa Phương Thức": {
+    "chunk_ids": [
+      "chunk-a17a4c5d01aad524bba2ee56df5daef7"
+    ],
+    "count": 1,
+    "create_time": 1767774185,
+    "update_time": 1767774185,
+    "_id": "Người Gửi Hàng<SEP>Người Vận Tải Đa Phương Thức"
+  },
+  "Hợp Đồng Đại Lý<SEP>Lượng Rẽ Nước Tàu Rỗng": {
+    "chunk_ids": [
+      "chunk-55a851f90f39ce14e4262660bed1ce9e"
+    ],
+    "count": 1,
+    "create_time": 1767774185,
+    "update_time": 1767774185,
+    "_id": "Hợp Đồng Đại Lý<SEP>Lượng Rẽ Nước Tàu Rỗng"
+  },
+  "Chi Phí Phát Sinh<SEP>Hợp Đồng Bồi Thường": {
+    "chunk_ids": [
+      "chunk-851e490751c72d49db444a44c2cc3904"
+    ],
+    "count": 1,
+    "create_time": 1767774185,
+    "update_time": 1767774185,
+    "_id": "Chi Phí Phát Sinh<SEP>Hợp Đồng Bồi Thường"
+  },
+  "Rủi Ro Phạt Vạ<SEP>Rủi Ro Ô Nhiễm": {
+    "chunk_ids": [
+      "chunk-851e490751c72d49db444a44c2cc3904"
+    ],
+    "count": 1,
+    "create_time": 1767774185,
+    "update_time": 1767774185,
+    "_id": "Rủi Ro Phạt Vạ<SEP>Rủi Ro Ô Nhiễm"
+  },
+  "Bảo Hiểm Chi Phí Y Tế<SEP>Mạng Lưới Giải Quyết Bảo Lãnh Viện Phí": {
+    "chunk_ids": [
+      "chunk-080ebfb8e6c4a7bd4caf186931606e48"
+    ],
+    "count": 1,
+    "create_time": 1767774185,
+    "update_time": 1767774185,
+    "_id": "Bảo Hiểm Chi Phí Y Tế<SEP>Mạng Lưới Giải Quyết Bảo Lãnh Viện Phí"
+  },
+  "Hệ Thống Bơm<SEP>Lloyd's": {
+    "chunk_ids": [
+      "chunk-a08e0ad5276d50487c7b13e708988615"
+    ],
+    "count": 1,
+    "create_time": 1767774185,
+    "update_time": 1767774185,
+    "_id": "Hệ Thống Bơm<SEP>Lloyd's"
+  },
+  "Cước Trả Trước<SEP>Cước Vận Chuyển": {
+    "chunk_ids": [
+      "chunk-fc77b19f95abe8c1ecba5e57b1b9ad8d"
+    ],
+    "count": 1,
+    "create_time": 1767774186,
+    "update_time": 1767774186,
+    "_id": "Cước Trả Trước<SEP>Cước Vận Chuyển"
+  },
+  "Tàu Container<SEP>Vận Đơn Tàu Chợ": {
+    "chunk_ids": [
+      "chunk-f6e211e38e7e32930e21feba53a624ee"
+    ],
+    "count": 1,
+    "create_time": 1767774186,
+    "update_time": 1767774186,
+    "_id": "Tàu Container<SEP>Vận Đơn Tàu Chợ"
+  },
+  "Tổn Thất Riêng<SEP>Việc Kiểm Đếm Hàng": {
+    "chunk_ids": [
+      "chunk-f6e211e38e7e32930e21feba53a624ee"
+    ],
+    "count": 1,
+    "create_time": 1767774186,
+    "update_time": 1767774186,
+    "_id": "Tổn Thất Riêng<SEP>Việc Kiểm Đếm Hàng"
+  },
+  "Chủ Tàu<SEP>Tổn Thất Hàng Hóa": {
+    "chunk_ids": [
+      "chunk-080ebfb8e6c4a7bd4caf186931606e48"
+    ],
+    "count": 1,
+    "create_time": 1767774186,
+    "update_time": 1767774186,
+    "_id": "Chủ Tàu<SEP>Tổn Thất Hàng Hóa"
+  },
+  "Biên Khả Năng Thanh Toán<SEP>Thuật Ngữ Bảo Hiểm Phi Nhân Thọ": {
+    "chunk_ids": [
+      "chunk-1bb6a01b15c403e339b5f53ae49a6fcc"
+    ],
+    "count": 1,
+    "create_time": 1767774186,
+    "update_time": 1767774186,
+    "_id": "Biên Khả Năng Thanh Toán<SEP>Thuật Ngữ Bảo Hiểm Phi Nhân Thọ"
+  },
+  "Lịch Trình Chạy Tàu<SEP>Việc Thuê Chuyến Định Hạn": {
+    "chunk_ids": [
+      "chunk-f6e211e38e7e32930e21feba53a624ee"
+    ],
+    "count": 1,
+    "create_time": 1767774186,
+    "update_time": 1767774186,
+    "_id": "Lịch Trình Chạy Tàu<SEP>Việc Thuê Chuyến Định Hạn"
+  },
+  "Hợp Đồng Đại Lý<SEP>Lỗi Thương Mại Về Quản Lý Và Làm Hàng": {
+    "chunk_ids": [
+      "chunk-55a851f90f39ce14e4262660bed1ce9e"
+    ],
+    "count": 1,
+    "create_time": 1767774186,
+    "update_time": 1767774186,
+    "_id": "Hợp Đồng Đại Lý<SEP>Lỗi Thương Mại Về Quản Lý Và Làm Hàng"
+  },
+  "Tai Họa Bất Ngờ<SEP>Thiên Tai": {
+    "chunk_ids": [
+      "chunk-d61d3c946d70ccbc63d1ed7e9594d645"
+    ],
+    "count": 1,
+    "create_time": 1767774186,
+    "update_time": 1767774186,
+    "_id": "Tai Họa Bất Ngờ<SEP>Thiên Tai"
+  },
+  "Sự Bảo Đảm<SEP>Tai Nạn": {
+    "chunk_ids": [
+      "chunk-d61d3c946d70ccbc63d1ed7e9594d645"
+    ],
+    "count": 1,
+    "create_time": 1767774186,
+    "update_time": 1767774186,
+    "_id": "Sự Bảo Đảm<SEP>Tai Nạn"
+  },
+  "Cước Phí<SEP>Hợp Đồng Bồi Thường": {
+    "chunk_ids": [
+      "chunk-851e490751c72d49db444a44c2cc3904"
+    ],
+    "count": 1,
+    "create_time": 1767774186,
+    "update_time": 1767774186,
+    "_id": "Cước Phí<SEP>Hợp Đồng Bồi Thường"
+  },
+  "Công Ty BV<SEP>Công Ty Đăng Kiểm Tàu Việt Nam": {
+    "chunk_ids": [
+      "chunk-a17a4c5d01aad524bba2ee56df5daef7"
+    ],
+    "count": 1,
+    "create_time": 1767774186,
+    "update_time": 1767774186,
+    "_id": "Công Ty BV<SEP>Công Ty Đăng Kiểm Tàu Việt Nam"
+  },
+  "Bảo Hiểm Chi Phí Y Tế<SEP>Bệnh Bất Ngờ": {
+    "chunk_ids": [
+      "chunk-080ebfb8e6c4a7bd4caf186931606e48"
+    ],
+    "count": 1,
+    "create_time": 1767774186,
+    "update_time": 1767774186,
+    "_id": "Bảo Hiểm Chi Phí Y Tế<SEP>Bệnh Bất Ngờ"
+  },
+  "Thuê (Tàu) Chuyến<SEP>Thuê Bao (Con Tàu)": {
+    "chunk_ids": [
+      "chunk-d61d3c946d70ccbc63d1ed7e9594d645"
+    ],
+    "count": 1,
+    "create_time": 1767774186,
+    "update_time": 1767774186,
+    "_id": "Thuê (Tàu) Chuyến<SEP>Thuê Bao (Con Tàu)"
+  },
+  "Rủi Ro Ô Nhiễm<SEP>Thuyền Viên": {
+    "chunk_ids": [
+      "chunk-851e490751c72d49db444a44c2cc3904"
+    ],
+    "count": 1,
+    "create_time": 1767774186,
+    "update_time": 1767774186,
+    "_id": "Rủi Ro Ô Nhiễm<SEP>Thuyền Viên"
+  },
+  "Chi Phí Phát Sinh<SEP>Rủi Ro Phạt Vạ": {
+    "chunk_ids": [
+      "chunk-851e490751c72d49db444a44c2cc3904"
+    ],
+    "count": 1,
+    "create_time": 1767774186,
+    "update_time": 1767774186,
+    "_id": "Chi Phí Phát Sinh<SEP>Rủi Ro Phạt Vạ"
+  },
+  "Số Tiền Bảo Hiểm<SEP>Thời Gian Bốc/Dỡ Hàng": {
+    "chunk_ids": [
+      "chunk-d61d3c946d70ccbc63d1ed7e9594d645"
+    ],
+    "count": 1,
+    "create_time": 1767774186,
+    "update_time": 1767774186,
+    "_id": "Số Tiền Bảo Hiểm<SEP>Thời Gian Bốc/Dỡ Hàng"
+  },
+  "Chủ Hàng<SEP>Người Thuê Bao": {
+    "chunk_ids": [
+      "chunk-2ea1b3a230417988016d133de988ff75"
+    ],
+    "count": 1,
+    "create_time": 1767774187,
+    "update_time": 1767774187,
+    "_id": "Chủ Hàng<SEP>Người Thuê Bao"
+  },
+  "Người Trên Xe<SEP>Xe Cơ Giới": {
+    "chunk_ids": [
+      "chunk-2ea1b3a230417988016d133de988ff75"
+    ],
+    "count": 1,
+    "create_time": 1767774188,
+    "update_time": 1767774188,
+    "_id": "Người Trên Xe<SEP>Xe Cơ Giới"
+  },
+  "Tổn Thất Toàn Bộ Thực Tế<SEP>Việc Kiểm Đếm Hàng": {
+    "chunk_ids": [
+      "chunk-f6e211e38e7e32930e21feba53a624ee"
+    ],
+    "count": 1,
+    "create_time": 1767774188,
+    "update_time": 1767774188,
+    "_id": "Tổn Thất Toàn Bộ Thực Tế<SEP>Việc Kiểm Đếm Hàng"
+  },
+  "Bảo Hiểm Rò Rỉ Hệ Thống Tự Động Phun Nước Chống Cháy Sprinkler<SEP>Bảo Hiểm Trách Nhiệm Pháp Lý Do Rò Rỉ Hệ Thống Tự Động Phun Nước Chống Cháy Sprinkler": {
+    "chunk_ids": [
+      "chunk-1d6d1110e311c9eb3ed6645b8d807e3a"
+    ],
+    "count": 1,
+    "create_time": 1767774188,
+    "update_time": 1767774188,
+    "_id": "Bảo Hiểm Rò Rỉ Hệ Thống Tự Động Phun Nước Chống Cháy Sprinkler<SEP>Bảo Hiểm Trách Nhiệm Pháp Lý Do Rò Rỉ Hệ Thống Tự Động Phun Nước Chống Cháy Sprinkler"
+  },
+  "Biến Chứng Thai Sản<SEP>Thuật Ngữ Bảo Hiểm Phi Nhân Thọ": {
+    "chunk_ids": [
+      "chunk-1bb6a01b15c403e339b5f53ae49a6fcc"
+    ],
+    "count": 1,
+    "create_time": 1767774188,
+    "update_time": 1767774188,
+    "_id": "Biến Chứng Thai Sản<SEP>Thuật Ngữ Bảo Hiểm Phi Nhân Thọ"
+  },
+  "Cước Thuê Chuyến<SEP>Lịch Trình Chạy Tàu": {
+    "chunk_ids": [
+      "chunk-f6e211e38e7e32930e21feba53a624ee"
+    ],
+    "count": 1,
+    "create_time": 1767774188,
+    "update_time": 1767774188,
+    "_id": "Cước Thuê Chuyến<SEP>Lịch Trình Chạy Tàu"
+  },
+  "Bảo Hiểm Thiết Bị Của Thầy Thuốc Và Bác Sỹ Phẫu Thuật<SEP>Bảo Hiểm Thiệt Hại Động Cơ Do Hiện Tượng Thủy Kích": {
+    "chunk_ids": [
+      "chunk-1d6d1110e311c9eb3ed6645b8d807e3a"
+    ],
+    "count": 1,
+    "create_time": 1767774188,
+    "update_time": 1767774188,
+    "_id": "Bảo Hiểm Thiết Bị Của Thầy Thuốc Và Bác Sỹ Phẫu Thuật<SEP>Bảo Hiểm Thiệt Hại Động Cơ Do Hiện Tượng Thủy Kích"
+  },
+  "Bảo Hiểm Tài Sản Về Trộm Cắp Tài Sản Cá Nhân<SEP>Bảo Hiểm Vật Chất Xe Đối Với Xe Tạm Nhập, Tái Xuất": {
+    "chunk_ids": [
+      "chunk-1d6d1110e311c9eb3ed6645b8d807e3a"
+    ],
+    "count": 1,
+    "create_time": 1767774188,
+    "update_time": 1767774188,
+    "_id": "Bảo Hiểm Tài Sản Về Trộm Cắp Tài Sản Cá Nhân<SEP>Bảo Hiểm Vật Chất Xe Đối Với Xe Tạm Nhập, Tái Xuất"
+  },
+  "Tai Nạn<SEP>Thiên Tai": {
+    "chunk_ids": [
+      "chunk-d61d3c946d70ccbc63d1ed7e9594d645"
+    ],
+    "count": 1,
+    "create_time": 1767774188,
+    "update_time": 1767774188,
+    "_id": "Tai Nạn<SEP>Thiên Tai"
+  },
+  "Bảo Hiểm Thân Tàu<SEP>Bảo Hiểm Đường Hầm": {
+    "chunk_ids": [
+      "chunk-1d6d1110e311c9eb3ed6645b8d807e3a"
+    ],
+    "count": 1,
+    "create_time": 1767774188,
+    "update_time": 1767774188,
+    "_id": "Bảo Hiểm Thân Tàu<SEP>Bảo Hiểm Đường Hầm"
+  },
+  "Công Ty ABS<SEP>Công Ty Đăng Kiểm Tàu Việt Nam": {
+    "chunk_ids": [
+      "chunk-a17a4c5d01aad524bba2ee56df5daef7"
+    ],
+    "count": 1,
+    "create_time": 1767774188,
+    "update_time": 1767774188,
+    "_id": "Công Ty ABS<SEP>Công Ty Đăng Kiểm Tàu Việt Nam"
+  },
+  "Bảo Hiểm Chi Phí Y Tế<SEP>Mức Miễn Giảm": {
+    "chunk_ids": [
+      "chunk-080ebfb8e6c4a7bd4caf186931606e48"
+    ],
+    "count": 1,
+    "create_time": 1767774188,
+    "update_time": 1767774188,
+    "_id": "Bảo Hiểm Chi Phí Y Tế<SEP>Mức Miễn Giảm"
+  },
+  "Bảo Hiểm Rò Rỉ Hệ Thống Tự Động Phun Nước Chống Cháy<SEP>Bảo Hiểm Trách Nhiệm Pháp Lý Do Rò Rỉ Hệ Thống Tự Động Phun Nước Chống Cháy": {
+    "chunk_ids": [
+      "chunk-1d6d1110e311c9eb3ed6645b8d807e3a"
+    ],
+    "count": 1,
+    "create_time": 1767774188,
+    "update_time": 1767774188,
+    "_id": "Bảo Hiểm Rò Rỉ Hệ Thống Tự Động Phun Nước Chống Cháy<SEP>Bảo Hiểm Trách Nhiệm Pháp Lý Do Rò Rỉ Hệ Thống Tự Động Phun Nước Chống Cháy"
+  },
+  "Công ước Quốc Tế Về Mức Chuyên Chở Tàu Biển<SEP>Giấy Chứng Nhận": {
+    "chunk_ids": [
+      "chunk-bfacedc7ad3f8708aef2f7b88f679b03"
+    ],
+    "count": 1,
+    "create_time": 1767774188,
+    "update_time": 1767774188,
+    "_id": "Công ước Quốc Tế Về Mức Chuyên Chở Tàu Biển<SEP>Giấy Chứng Nhận"
+  },
+  "Giấy Phép Xuất Kho Ngoại Quan<SEP>Thủ Tục Xuất Nhập Khẩu": {
+    "chunk_ids": [
+      "chunk-bfacedc7ad3f8708aef2f7b88f679b03"
+    ],
+    "count": 1,
+    "create_time": 1767774188,
+    "update_time": 1767774188,
+    "_id": "Giấy Phép Xuất Kho Ngoại Quan<SEP>Thủ Tục Xuất Nhập Khẩu"
+  },
+  "Cước Phí Bốc Dỡ<SEP>Hợp Đồng Bồi Thường": {
+    "chunk_ids": [
+      "chunk-851e490751c72d49db444a44c2cc3904"
+    ],
+    "count": 1,
+    "create_time": 1767774188,
+    "update_time": 1767774188,
+    "_id": "Cước Phí Bốc Dỡ<SEP>Hợp Đồng Bồi Thường"
+  },
+  "Giới Hạn Bồi Thường<SEP>Hợp Đồng Vận Tải": {
+    "chunk_ids": [
+      "chunk-bfacedc7ad3f8708aef2f7b88f679b03"
+    ],
+    "count": 1,
+    "create_time": 1767774188,
+    "update_time": 1767774188,
+    "_id": "Giới Hạn Bồi Thường<SEP>Hợp Đồng Vận Tải"
+  },
+  "Bảo Hiểm<SEP>Hao Hụt Tự Nhiên": {
+    "chunk_ids": [
+      "chunk-bfacedc7ad3f8708aef2f7b88f679b03"
+    ],
+    "count": 1,
+    "create_time": 1767774188,
+    "update_time": 1767774188,
+    "_id": "Bảo Hiểm<SEP>Hao Hụt Tự Nhiên"
+  },
+  "Hiểm Họa Của Biển<SEP>Tai Nạn Bất Ngờ": {
+    "chunk_ids": [
+      "chunk-bfacedc7ad3f8708aef2f7b88f679b03"
+    ],
+    "count": 1,
+    "create_time": 1767774188,
+    "update_time": 1767774188,
+    "_id": "Hiểm Họa Của Biển<SEP>Tai Nạn Bất Ngờ"
+  },
+  "Hàng Hóa<SEP>Tàu": {
+    "chunk_ids": [
+      "chunk-bfacedc7ad3f8708aef2f7b88f679b03"
+    ],
+    "count": 1,
+    "create_time": 1767774189,
+    "update_time": 1767774189,
+    "_id": "Hàng Hóa<SEP>Tàu"
+  },
+  "Hàng Chuyên Chở<SEP>Người Thuê Bao": {
+    "chunk_ids": [
+      "chunk-2ea1b3a230417988016d133de988ff75"
+    ],
+    "count": 1,
+    "create_time": 1767774189,
+    "update_time": 1767774189,
+    "_id": "Hàng Chuyên Chở<SEP>Người Thuê Bao"
+  },
+  "Việc Chuyển Đổi Địa Chỉ<SEP>Việc Kiểm Đếm Hàng": {
+    "chunk_ids": [
+      "chunk-f6e211e38e7e32930e21feba53a624ee"
+    ],
+    "count": 1,
+    "create_time": 1767774189,
+    "update_time": 1767774189,
+    "_id": "Việc Chuyển Đổi Địa Chỉ<SEP>Việc Kiểm Đếm Hàng"
+  },
+  "Điều Trị Phục Hồi Chức Năng<SEP>Điều Trị Sau Khi Xuất Viện": {
+    "chunk_ids": [
+      "chunk-d3d64ba7b49269ddf33e9e5ac8acb621"
+    ],
+    "count": 1,
+    "create_time": 1767774189,
+    "update_time": 1767774189,
+    "_id": "Điều Trị Phục Hồi Chức Năng<SEP>Điều Trị Sau Khi Xuất Viện"
+  },
+  "Băng Chuyền<SEP>Thuật Ngữ Bảo Hiểm Phi Nhân Thọ": {
+    "chunk_ids": [
+      "chunk-1bb6a01b15c403e339b5f53ae49a6fcc"
+    ],
+    "count": 1,
+    "create_time": 1767774189,
+    "update_time": 1767774189,
+    "_id": "Băng Chuyền<SEP>Thuật Ngữ Bảo Hiểm Phi Nhân Thọ"
+  },
+  "Cước Vận Chuyển<SEP>Lịch Trình Chạy Tàu": {
+    "chunk_ids": [
+      "chunk-f6e211e38e7e32930e21feba53a624ee"
+    ],
+    "count": 1,
+    "create_time": 1767774189,
+    "update_time": 1767774189,
+    "_id": "Cước Vận Chuyển<SEP>Lịch Trình Chạy Tàu"
+  },
+  "Đại Lý Giao Nhận<SEP>Đối Tượng Của Hợp Đồng Bảo Hiểm Trách Nhiệm Dân Sự": {
+    "chunk_ids": [
+      "chunk-d3d64ba7b49269ddf33e9e5ac8acb621"
+    ],
+    "count": 1,
+    "create_time": 1767774189,
+    "update_time": 1767774189,
+    "_id": "Đại Lý Giao Nhận<SEP>Đối Tượng Của Hợp Đồng Bảo Hiểm Trách Nhiệm Dân Sự"
+  },
+  "Công Ty NK<SEP>Công Ty Đăng Kiểm Tàu Việt Nam": {
+    "chunk_ids": [
+      "chunk-a17a4c5d01aad524bba2ee56df5daef7"
+    ],
+    "count": 1,
+    "create_time": 1767774189,
+    "update_time": 1767774189,
+    "_id": "Công Ty NK<SEP>Công Ty Đăng Kiểm Tàu Việt Nam"
+  },
+  "Bảo Hiểm Các Phương Tiện Trợ Giúp Giao Thông<SEP>Bảo Hiểm Cây Trồng": {
+    "chunk_ids": [
+      "chunk-a580b32a5bcfeba7f4b042e164587de0"
+    ],
+    "count": 1,
+    "create_time": 1767774189,
+    "update_time": 1767774189,
+    "_id": "Bảo Hiểm Các Phương Tiện Trợ Giúp Giao Thông<SEP>Bảo Hiểm Cây Trồng"
+  },
+  "Bảo Hiểm Thiệt Hại Động Cơ Do Hiện Tượng Thủy Kích<SEP>Bảo Hiểm Xe Ô Tô Và Xe Máy Chuyên Dùng": {
+    "chunk_ids": [
+      "chunk-1d6d1110e311c9eb3ed6645b8d807e3a"
+    ],
+    "count": 1,
+    "create_time": 1767774189,
+    "update_time": 1767774189,
+    "_id": "Bảo Hiểm Thiệt Hại Động Cơ Do Hiện Tượng Thủy Kích<SEP>Bảo Hiểm Xe Ô Tô Và Xe Máy Chuyên Dùng"
+  },
+  "Bảo Hiểm Căn Hộ Tập Thể<SEP>Bảo Hiểm Cải Tạo Và Nâng Cấp Nhà": {
+    "chunk_ids": [
+      "chunk-a580b32a5bcfeba7f4b042e164587de0"
+    ],
+    "count": 1,
+    "create_time": 1767774190,
+    "update_time": 1767774190,
+    "_id": "Bảo Hiểm Căn Hộ Tập Thể<SEP>Bảo Hiểm Cải Tạo Và Nâng Cấp Nhà"
+  },
+  "Bảo Hiểm Cầu<SEP>Bảo Hiểm Cầu Đang Xây Dựng": {
+    "chunk_ids": [
+      "chunk-a580b32a5bcfeba7f4b042e164587de0"
+    ],
+    "count": 1,
+    "create_time": 1767774190,
+    "update_time": 1767774190,
+    "_id": "Bảo Hiểm Cầu<SEP>Bảo Hiểm Cầu Đang Xây Dựng"
+  },
+  "Bảo Hiểm Lựa Chọn Cơ Sở Sửa Chữa<SEP>Bảo Hiểm Mới Thay Cũ": {
+    "chunk_ids": [
+      "chunk-a580b32a5bcfeba7f4b042e164587de0"
+    ],
+    "count": 1,
+    "create_time": 1767774190,
+    "update_time": 1767774190,
+    "_id": "Bảo Hiểm Lựa Chọn Cơ Sở Sửa Chữa<SEP>Bảo Hiểm Mới Thay Cũ"
+  },
+  "Bảo Hiểm P&I<SEP>Hợp Đồng Bồi Thường": {
+    "chunk_ids": [
+      "chunk-851e490751c72d49db444a44c2cc3904"
+    ],
+    "count": 1,
+    "create_time": 1767774190,
+    "update_time": 1767774190,
+    "_id": "Bảo Hiểm P&I<SEP>Hợp Đồng Bồi Thường"
+  },
+  "Bảo Hiểm Rò Rỉ Hệ Thống Tự Động Phun Nước Chống Cháy Sprinkler<SEP>Bảo Hiểm Trách Nhiệm Pháp Lý Do Rò Rỉ Hệ Thống": {
+    "chunk_ids": [
+      "chunk-a580b32a5bcfeba7f4b042e164587de0"
+    ],
+    "count": 1,
+    "create_time": 1767774190,
+    "update_time": 1767774190,
+    "_id": "Bảo Hiểm Rò Rỉ Hệ Thống Tự Động Phun Nước Chống Cháy Sprinkler<SEP>Bảo Hiểm Trách Nhiệm Pháp Lý Do Rò Rỉ Hệ Thống"
+  },
+  "Giá Trị Phục Hồi<SEP>Số Tiền Bảo Hiểm": {
+    "chunk_ids": [
+      "chunk-d61d3c946d70ccbc63d1ed7e9594d645"
+    ],
+    "count": 1,
+    "create_time": 1767774190,
+    "update_time": 1767774190,
+    "_id": "Giá Trị Phục Hồi<SEP>Số Tiền Bảo Hiểm"
+  },
+  "Tiền Ký Quỹ<SEP>Tổn Thất Chung": {
+    "chunk_ids": [
+      "chunk-843e23b5af2963054fe0a8a65ce5aa95"
+    ],
+    "count": 1,
+    "create_time": 1767774190,
+    "update_time": 1767774190,
+    "_id": "Tiền Ký Quỹ<SEP>Tổn Thất Chung"
+  },
+  "Điều Trị Phục Hồi Chức Năng<SEP>Điều Trị Y Tế": {
+    "chunk_ids": [
+      "chunk-d3d64ba7b49269ddf33e9e5ac8acb621"
+    ],
+    "count": 1,
+    "create_time": 1767774191,
+    "update_time": 1767774191,
+    "_id": "Điều Trị Phục Hồi Chức Năng<SEP>Điều Trị Y Tế"
+  },
+  "Tàu Chở Hàng Lóng<SEP>Tàu Chợ": {
+    "chunk_ids": [
+      "chunk-843e23b5af2963054fe0a8a65ce5aa95"
+    ],
+    "count": 1,
+    "create_time": 1767774191,
+    "update_time": 1767774191,
+    "_id": "Tàu Chở Hàng Lóng<SEP>Tàu Chợ"
+  },
+  "Chủ Tàu<SEP>Công Ty Bảo Hiểm": {
+    "chunk_ids": [
+      "chunk-843e23b5af2963054fe0a8a65ce5aa95"
+    ],
+    "count": 1,
+    "create_time": 1767774191,
+    "update_time": 1767774191,
+    "_id": "Chủ Tàu<SEP>Công Ty Bảo Hiểm"
+  },
+  "Bản Dự Thảo Hợp Đồng Thuê Tàu<SEP>Thuật Ngữ Bảo Hiểm Phi Nhân Thọ": {
+    "chunk_ids": [
+      "chunk-1bb6a01b15c403e339b5f53ae49a6fcc"
+    ],
+    "count": 1,
+    "create_time": 1767774191,
+    "update_time": 1767774191,
+    "_id": "Bản Dự Thảo Hợp Đồng Thuê Tàu<SEP>Thuật Ngữ Bảo Hiểm Phi Nhân Thọ"
+  },
+  "Chi Phí Điều Trị Trước Khi Nhập Viện<SEP>Người Được Bảo Hiểm": {
+    "chunk_ids": [
+      "chunk-73d7acf1e06a393db8584b17cc7e5b03"
+    ],
+    "count": 1,
+    "create_time": 1767774191,
+    "update_time": 1767774191,
+    "_id": "Chi Phí Điều Trị Trước Khi Nhập Viện<SEP>Người Được Bảo Hiểm"
+  },
+  "Đối Tượng Của Hợp Đồng Bảo Hiểm Trách Nhiệm Dân Sự<SEP>Đối Với Di Dời Xác Tàu": {
+    "chunk_ids": [
+      "chunk-d3d64ba7b49269ddf33e9e5ac8acb621"
+    ],
+    "count": 1,
+    "create_time": 1767774191,
+    "update_time": 1767774191,
+    "_id": "Đối Tượng Của Hợp Đồng Bảo Hiểm Trách Nhiệm Dân Sự<SEP>Đối Với Di Dời Xác Tàu"
+  },
+  "Giới Hạn Bồi Thường<SEP>Luật Pháp Có Liên Quan": {
+    "chunk_ids": [
+      "chunk-bfacedc7ad3f8708aef2f7b88f679b03"
+    ],
+    "count": 1,
+    "create_time": 1767774192,
+    "update_time": 1767774192,
+    "_id": "Giới Hạn Bồi Thường<SEP>Luật Pháp Có Liên Quan"
+  },
+  "Cảng Thủy Triều<SEP>Phí Thả Neo": {
+    "chunk_ids": [
+      "chunk-6bcca569d779c33ea3dcfc9c2448808b"
+    ],
+    "count": 1,
+    "create_time": 1767774192,
+    "update_time": 1767774192,
+    "_id": "Cảng Thủy Triều<SEP>Phí Thả Neo"
+  },
+  "Cảng Đăng Ký<SEP>Phí Buộc Dây": {
+    "chunk_ids": [
+      "chunk-6bcca569d779c33ea3dcfc9c2448808b"
+    ],
+    "count": 1,
+    "create_time": 1767774192,
+    "update_time": 1767774192,
+    "_id": "Cảng Đăng Ký<SEP>Phí Buộc Dây"
+  },
+  "Bảo Hiểm Chi Phí Chữa Răng<SEP>Doanh Nghiệp Bảo Hiểm": {
+    "chunk_ids": [
+      "chunk-6bcca569d779c33ea3dcfc9c2448808b"
+    ],
+    "count": 1,
+    "create_time": 1767774192,
+    "update_time": 1767774192,
+    "_id": "Bảo Hiểm Chi Phí Chữa Răng<SEP>Doanh Nghiệp Bảo Hiểm"
+  },
+  "Hợp Đồng Thuê Tàu Chuyến<SEP>Ngày Bốc/Dỡ Chậm": {
+    "chunk_ids": [
+      "chunk-e0e2c486f1b5f2889922f48971f22326"
+    ],
+    "count": 1,
+    "create_time": 1767774192,
+    "update_time": 1767774192,
+    "_id": "Hợp Đồng Thuê Tàu Chuyến<SEP>Ngày Bốc/Dỡ Chậm"
+  },
+  "Trọng Lượng Bao Bì<SEP>Tổn Thất Chung": {
+    "chunk_ids": [
+      "chunk-843e23b5af2963054fe0a8a65ce5aa95"
+    ],
+    "count": 1,
+    "create_time": 1767774192,
+    "update_time": 1767774192,
+    "_id": "Trọng Lượng Bao Bì<SEP>Tổn Thất Chung"
+  },
+  "Biên Nhận<SEP>Tiền Ký Quỹ": {
+    "chunk_ids": [
+      "chunk-843e23b5af2963054fe0a8a65ce5aa95"
+    ],
+    "count": 1,
+    "create_time": 1767774192,
+    "update_time": 1767774192,
+    "_id": "Biên Nhận<SEP>Tiền Ký Quỹ"
+  },
+  "Ngày Có Hiệu Lực Của Hợp Đồng Bảo Hiểm<SEP>Ngày Tái Tục Bảo Hiểm": {
+    "chunk_ids": [
+      "chunk-e0e2c486f1b5f2889922f48971f22326"
+    ],
+    "count": 1,
+    "create_time": 1767774192,
+    "update_time": 1767774192,
+    "_id": "Ngày Có Hiệu Lực Của Hợp Đồng Bảo Hiểm<SEP>Ngày Tái Tục Bảo Hiểm"
+  },
+  "Người Vận Tải Công Cộng Không Tàu<SEP>Người Vận Tải Nối Tiếp": {
+    "chunk_ids": [
+      "chunk-e0e2c486f1b5f2889922f48971f22326"
+    ],
+    "count": 1,
+    "create_time": 1767774192,
+    "update_time": 1767774192,
+    "_id": "Người Vận Tải Công Cộng Không Tàu<SEP>Người Vận Tải Nối Tiếp"
+  },
+  "Hợp Đồng Bảo Hiểm<SEP>Ngày Tàu Đến Cảng Bốc Hàng": {
+    "chunk_ids": [
+      "chunk-e0e2c486f1b5f2889922f48971f22326"
+    ],
+    "count": 1,
+    "create_time": 1767774192,
+    "update_time": 1767774192,
+    "_id": "Hợp Đồng Bảo Hiểm<SEP>Ngày Tàu Đến Cảng Bốc Hàng"
+  },
+  "Paris<SEP>Phòng Thương Mại Quốc Tế": {
+    "chunk_ids": [
+      "chunk-f71a3965d913b513f0dc5ce63ff571cf"
+    ],
+    "count": 1,
+    "create_time": 1767774192,
+    "update_time": 1767774192,
+    "_id": "Paris<SEP>Phòng Thương Mại Quốc Tế"
+  },
+  "Biểu Cước<SEP>Cước Vận Chuyển": {
+    "chunk_ids": [
+      "chunk-f6e211e38e7e32930e21feba53a624ee"
+    ],
+    "count": 1,
+    "create_time": 1767774192,
+    "update_time": 1767774192,
+    "_id": "Biểu Cước<SEP>Cước Vận Chuyển"
+  },
+  "Sức Chở Hàng<SEP>Tàu Chở Hàng Lóng": {
+    "chunk_ids": [
+      "chunk-843e23b5af2963054fe0a8a65ce5aa95"
+    ],
+    "count": 1,
+    "create_time": 1767774193,
+    "update_time": 1767774193,
+    "_id": "Sức Chở Hàng<SEP>Tàu Chở Hàng Lóng"
+  },
+  "Tàu Chở Xà Lan<SEP>Tàu Chợ": {
+    "chunk_ids": [
+      "chunk-843e23b5af2963054fe0a8a65ce5aa95"
+    ],
+    "count": 1,
+    "create_time": 1767774193,
+    "update_time": 1767774193,
+    "_id": "Tàu Chở Xà Lan<SEP>Tàu Chợ"
+  },
+  "Phí Nhận Container<SEP>Quy Tắc Hague": {
+    "chunk_ids": [
+      "chunk-f71a3965d913b513f0dc5ce63ff571cf"
+    ],
+    "count": 1,
+    "create_time": 1767774193,
+    "update_time": 1767774193,
+    "_id": "Phí Nhận Container<SEP>Quy Tắc Hague"
+  },
+  "Điều Trị Phục Hồi Chức Năng<SEP>Đại Lý Bảo Hiểm": {
+    "chunk_ids": [
+      "chunk-d3d64ba7b49269ddf33e9e5ac8acb621"
+    ],
+    "count": 1,
+    "create_time": 1767774193,
+    "update_time": 1767774193,
+    "_id": "Điều Trị Phục Hồi Chức Năng<SEP>Đại Lý Bảo Hiểm"
+  },
+  "Bảo Hiểm Chi Phí Phẫu Thuật<SEP>Rủi Ro Được Bảo Hiểm": {
+    "chunk_ids": [
+      "chunk-f71a3965d913b513f0dc5ce63ff571cf"
+    ],
+    "count": 1,
+    "create_time": 1767774193,
+    "update_time": 1767774193,
+    "_id": "Bảo Hiểm Chi Phí Phẫu Thuật<SEP>Rủi Ro Được Bảo Hiểm"
+  },
+  "Bản Khai Gói Chở Kèm<SEP>Thuật Ngữ Bảo Hiểm Phi Nhân Thọ": {
+    "chunk_ids": [
+      "chunk-1bb6a01b15c403e339b5f53ae49a6fcc"
+    ],
+    "count": 1,
+    "create_time": 1767774193,
+    "update_time": 1767774193,
+    "_id": "Bản Khai Gói Chở Kèm<SEP>Thuật Ngữ Bảo Hiểm Phi Nhân Thọ"
+  },
+  "Chăm Sóc Thai Sản<SEP>Người Được Bảo Hiểm": {
+    "chunk_ids": [
+      "chunk-73d7acf1e06a393db8584b17cc7e5b03"
+    ],
+    "count": 1,
+    "create_time": 1767774193,
+    "update_time": 1767774193,
+    "_id": "Chăm Sóc Thai Sản<SEP>Người Được Bảo Hiểm"
+  },
+  "Vận Đơn<SEP>Điều Khoản Hợp Đồng": {
+    "chunk_ids": [
+      "chunk-59553d8eb31dafc902744b0ff13e4962"
+    ],
+    "count": 1,
+    "create_time": 1767774193,
+    "update_time": 1767774193,
+    "_id": "Vận Đơn<SEP>Điều Khoản Hợp Đồng"
+  },
+  "Hiệp Hội Vận Tải Tàu Chợ<SEP>Điều Kiện Bốc Dỡ Tàu Chợ": {
+    "chunk_ids": [
+      "chunk-59553d8eb31dafc902744b0ff13e4962"
+    ],
+    "count": 1,
+    "create_time": 1767774193,
+    "update_time": 1767774193,
+    "_id": "Hiệp Hội Vận Tải Tàu Chợ<SEP>Điều Kiện Bốc Dỡ Tàu Chợ"
+  },
+  "Rủi Ro Phạt Vạ<SEP>Đối Tượng Của Hợp Đồng Bảo Hiểm Trách Nhiệm Dân Sự": {
+    "chunk_ids": [
+      "chunk-d3d64ba7b49269ddf33e9e5ac8acb621"
+    ],
+    "count": 1,
+    "create_time": 1767774193,
+    "update_time": 1767774193,
+    "_id": "Rủi Ro Phạt Vạ<SEP>Đối Tượng Của Hợp Đồng Bảo Hiểm Trách Nhiệm Dân Sự"
+  },
+  "Điều Trị Cấp Cứu<SEP>Điều Trị Y Tế": {
+    "chunk_ids": [
+      "chunk-59553d8eb31dafc902744b0ff13e4962"
+    ],
+    "count": 1,
+    "create_time": 1767774193,
+    "update_time": 1767774193,
+    "_id": "Điều Trị Cấp Cứu<SEP>Điều Trị Y Tế"
+  },
+  "Ngày Bốc/Dỡ Chậm<SEP>Thời Gian Chờ": {
+    "chunk_ids": [
+      "chunk-e0e2c486f1b5f2889922f48971f22326"
+    ],
+    "count": 1,
+    "create_time": 1767774193,
+    "update_time": 1767774193,
+    "_id": "Ngày Bốc/Dỡ Chậm<SEP>Thời Gian Chờ"
+  },
+  "Điều Trị Nguyên Trú<SEP>Điều Trị Nội Trú": {
+    "chunk_ids": [
+      "chunk-59553d8eb31dafc902744b0ff13e4962"
+    ],
+    "count": 1,
+    "create_time": 1767774193,
+    "update_time": 1767774193,
+    "_id": "Điều Trị Nguyên Trú<SEP>Điều Trị Nội Trú"
+  },
+  "Ngày Có Hiệu Lực Của Hợp Đồng Bảo Hiểm<SEP>Người Phụ Thuộc": {
+    "chunk_ids": [
+      "chunk-e0e2c486f1b5f2889922f48971f22326"
+    ],
+    "count": 1,
+    "create_time": 1767774194,
+    "update_time": 1767774194,
+    "_id": "Ngày Có Hiệu Lực Của Hợp Đồng Bảo Hiểm<SEP>Người Phụ Thuộc"
+  },
+  "Chính Sách Bảo Hiểm<SEP>Điều Kiện Giao Hàng": {
+    "chunk_ids": [
+      "chunk-59553d8eb31dafc902744b0ff13e4962"
+    ],
+    "count": 1,
+    "create_time": 1767774194,
+    "update_time": 1767774194,
+    "_id": "Chính Sách Bảo Hiểm<SEP>Điều Kiện Giao Hàng"
+  },
+  "Thương Tật Bộ Phận Vĩnh Viễn<SEP>Thương Tật Toàn Bộ Vĩnh Viễn": {
+    "chunk_ids": [
+      "chunk-5d4fa9157d6f891ad0333a8effb94a4f"
+    ],
+    "count": 1,
+    "create_time": 1767774194,
+    "update_time": 1767774194,
+    "_id": "Thương Tật Bộ Phận Vĩnh Viễn<SEP>Thương Tật Toàn Bộ Vĩnh Viễn"
+  },
+  "Thời Gian Bốc Dỡ Bù Trừ<SEP>Thời Gian Bốc Dỡ Không Bù Trừ": {
+    "chunk_ids": [
+      "chunk-5d4fa9157d6f891ad0333a8effb94a4f"
+    ],
+    "count": 1,
+    "create_time": 1767774194,
+    "update_time": 1767774194,
+    "_id": "Thời Gian Bốc Dỡ Bù Trừ<SEP>Thời Gian Bốc Dỡ Không Bù Trừ"
+  },
+  "Thời Gian Nhận Hàng<SEP>Tiền Ký Quỹ Tổn Thất Chung": {
+    "chunk_ids": [
+      "chunk-5d4fa9157d6f891ad0333a8effb94a4f"
+    ],
+    "count": 1,
+    "create_time": 1767774194,
+    "update_time": 1767774194,
+    "_id": "Thời Gian Nhận Hàng<SEP>Tiền Ký Quỹ Tổn Thất Chung"
+  },
+  "Quy Tắc Hague<SEP>Quy Tắc Hamburg": {
+    "chunk_ids": [
+      "chunk-f71a3965d913b513f0dc5ce63ff571cf"
+    ],
+    "count": 1,
+    "create_time": 1767774195,
+    "update_time": 1767774195,
+    "_id": "Quy Tắc Hague<SEP>Quy Tắc Hamburg"
+  },
+  "Phòng và Giường Điều Trị<SEP>Rủi Ro Được Bảo Hiểm": {
+    "chunk_ids": [
+      "chunk-f71a3965d913b513f0dc5ce63ff571cf"
+    ],
+    "count": 1,
+    "create_time": 1767774195,
+    "update_time": 1767774195,
+    "_id": "Phòng và Giường Điều Trị<SEP>Rủi Ro Được Bảo Hiểm"
+  },
+  "Cách Làm Đóng Bao Hàng Rời<SEP>Điều Trị Phục Hồi Chức Năng": {
+    "chunk_ids": [
+      "chunk-d3d64ba7b49269ddf33e9e5ac8acb621"
+    ],
+    "count": 1,
+    "create_time": 1767774195,
+    "update_time": 1767774195,
+    "_id": "Cách Làm Đóng Bao Hàng Rời<SEP>Điều Trị Phục Hồi Chức Năng"
+  },
+  "Chăm Sóc Trẻ Mới Sinh<SEP>Người Được Bảo Hiểm": {
+    "chunk_ids": [
+      "chunk-73d7acf1e06a393db8584b17cc7e5b03"
+    ],
+    "count": 1,
+    "create_time": 1767774195,
+    "update_time": 1767774195,
+    "_id": "Chăm Sóc Trẻ Mới Sinh<SEP>Người Được Bảo Hiểm"
+  },
+  "Điều Trị Sau Khi Xuất Viện<SEP>Điều Trị Y Tế": {
+    "chunk_ids": [
+      "chunk-59553d8eb31dafc902744b0ff13e4962"
+    ],
+    "count": 1,
+    "create_time": 1767774195,
+    "update_time": 1767774195,
+    "_id": "Điều Trị Sau Khi Xuất Viện<SEP>Điều Trị Y Tế"
+  },
+  "Thời Gian Nhận Hàng<SEP>Thời Gian Trung Chuyển": {
+    "chunk_ids": [
+      "chunk-5d4fa9157d6f891ad0333a8effb94a4f"
+    ],
+    "count": 1,
+    "create_time": 1767774195,
+    "update_time": 1767774195,
+    "_id": "Thời Gian Nhận Hàng<SEP>Thời Gian Trung Chuyển"
+  },
+  "Công Ty Giám Định<SEP>Người Được Bảo Hiểm": {
+    "chunk_ids": [
+      "chunk-73d7acf1e06a393db8584b17cc7e5b03"
+    ],
+    "count": 1,
+    "create_time": 1767774196,
+    "update_time": 1767774196,
+    "_id": "Công Ty Giám Định<SEP>Người Được Bảo Hiểm"
+  },
+  "Miễn Thường<SEP>Người Được Bảo Hiểm": {
+    "chunk_ids": [
+      "chunk-73d7acf1e06a393db8584b17cc7e5b03"
+    ],
+    "count": 1,
+    "create_time": 1767774198,
+    "update_time": 1767774198,
+    "_id": "Miễn Thường<SEP>Người Được Bảo Hiểm"
+  },
+  "Công Ty Giám Định<SEP>Công Ty Đăng Kiểm Tàu Biển Lloyd's": {
+    "chunk_ids": [
+      "chunk-73d7acf1e06a393db8584b17cc7e5b03"
+    ],
+    "count": 1,
+    "create_time": 1767774198,
+    "update_time": 1767774198,
+    "_id": "Công Ty Giám Định<SEP>Công Ty Đăng Kiểm Tàu Biển Lloyd's"
+  },
+  "Điều Kiện Bốc Dỡ Tàu Chợ<SEP>Đơn Vị Vận Tải": {
+    "chunk_ids": [
+      "chunk-59553d8eb31dafc902744b0ff13e4962"
+    ],
+    "count": 1,
+    "create_time": 1767774199,
+    "update_time": 1767774199,
+    "_id": "Điều Kiện Bốc Dỡ Tàu Chợ<SEP>Đơn Vị Vận Tải"
+  },
+  "Công Ty Giám Định<SEP>Phạm Vi Bảo Hiểm": {
+    "chunk_ids": [
+      "chunk-73d7acf1e06a393db8584b17cc7e5b03"
+    ],
+    "count": 1,
+    "create_time": 1767774206,
+    "update_time": 1767774206,
+    "_id": "Công Ty Giám Định<SEP>Phạm Vi Bảo Hiểm"
+  }
+}

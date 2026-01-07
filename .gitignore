@@ -88,3 +88,4 @@ uv.lock
 .git.backup*
 .git.old/
 lightrag_webui/node_modules/
+lightrag_webui/

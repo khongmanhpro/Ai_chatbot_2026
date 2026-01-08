@@ -1,138 +1,17 @@
-<!DOCTYPE html>
-<html lang="vi">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Trợ Lý Bảo Hiểm AI - LightRAG Demo</title>
-    <link rel="stylesheet" href="style.css">
-    <link rel="preconnect" href="https://fonts.googleapis.com">
-    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet">
-</head>
-<body>
-    <div class="container">
-        <!-- Header -->
-        <header class="header">
-            <div class="header-content">
-                <div class="header-left">
-                    <div class="logo">
-                        <span class="logo-icon">🛡️</span>
-                        <span class="logo-text">Trợ Lý Bảo Hiểm AI</span>
-                    </div>
-                    <span class="status-badge" id="statusBadge">
-                        <span class="status-dot"></span>
-                        Đang kết nối...
-                    </span>
-                </div>
-                <div class="header-right">
-                    <button class="btn-secondary" onclick="window.location.href='api-docs.html'">
-                        📚 API Docs
-                    </button>
-                    <button class="btn-secondary" onclick="openSettings()">
-                        ⚙️ Cài đặt
-                    </button>
-                </div>
-            </div>
-        </header>
-
-        <!-- Main Chat Area -->
-        <main class="chat-container">
-            <div class="chat-messages" id="chatMessages">
-                <!-- Welcome message -->
-                <div class="message bot-message welcome-message">
-                    <div class="message-avatar">🤖</div>
-                    <div class="message-content">
-                        <div class="message-text">
-                            <h3>Xin chào! 👋</h3>
-                            <p>Tôi là trợ lý bảo hiểm AI, được hỗ trợ bởi LightRAG. Tôi có thể giúp bạn:</p>
-                            <ul>
-                                <li>Tìm hiểu về các loại bảo hiểm (xe máy, ô tô, sức khỏe...)</li>
-                                <li>Tính phí bảo hiểm</li>
-                                <li>Hướng dẫn quy trình bồi thường</li>
-                                <li>Giải đáp các câu hỏi về bảo hiểm</li>
-                            </ul>
-                            <p><strong>Hãy đặt câu hỏi để bắt đầu!</strong></p>
-                        </div>
-                        <div class="message-time">Hôm nay</div>
-                    </div>
-                </div>
-            </div>
-
-            <!-- Input Area -->
-            <div class="chat-input-container">
-                <div class="chat-input-wrapper">
-                    <textarea 
-                        id="messageInput" 
-                        class="chat-input" 
-                        placeholder="Nhập câu hỏi của bạn... (Shift + Enter để xuống dòng)"
-                        rows="1"
-                    ></textarea>
-                    <div class="input-actions">
-                        <button class="btn-icon" onclick="clearChat()" title="Xóa cuộc trò chuyện">
-                            🗑️
-                        </button>
-                        <button class="btn-send" id="sendButton" onclick="sendMessage()">
-                            <span class="btn-send-text">Gửi</span>
-                            <span class="btn-send-icon">📤</span>
-                        </button>
-                    </div>
-                </div>
-                <div class="input-hints">
-                    <button class="hint-chip" onclick="setMessage('Bảo hiểm xe máy là gì?')">
-                        Bảo hiểm xe máy là gì?
-                    </button>
-                    <button class="hint-chip" onclick="setMessage('Quy trình bồi thường như thế nào?')">
-                        Quy trình bồi thường
-                    </button>
-                    <button class="hint-chip" onclick="setMessage('Tính phí bảo hiểm ô tô')">
-                        Tính phí bảo hiểm
-                    </button>
-                </div>
-            </div>
-        </main>
-    </div>
-
-    <!-- Settings Modal -->
-    <div class="modal" id="settingsModal">
-        <div class="modal-content">
-            <div class="modal-header">
-                <h2>⚙️ Cài đặt</h2>
-                <button class="btn-close" onclick="closeSettings()">✕</button>
-            </div>
-            <div class="modal-body">
-                <div class="form-group">
-                    <label for="apiKeyInput">API Key</label>
-                    <input type="password" id="apiKeyInput" placeholder="Nhập API key của bạn">
-                    <small>Lấy từ file .env hoặc Admin</small>
-                </div>
-                <div class="form-group">
-                    <label for="apiUrlInput">API URL</label>
-                    <input type="text" id="apiUrlInput" placeholder="http://localhost:9621">
-                </div>
-                <div class="form-group">
-                    <label for="modeSelect">Query Mode</label>
-                    <select id="modeSelect">
-                        <option value="mix">Mix (Recommended)</option>
-                        <option value="hybrid">Hybrid</option>
-                        <option value="local">Local</option>
-                        <option value="global">Global</option>
-                        <option value="naive">Naive</option>
-                    </select>
-                </div>
-                <div class="form-group">
-                    <label for="topKInput">Top K Results</label>
-                    <input type="number" id="topKInput" value="60" min="10" max="100">
-                </div>
-            </div>
-            <div class="modal-footer">
-                <button class="btn-secondary" onclick="closeSettings()">Hủy</button>
-                <button class="btn-primary" onclick="saveSettings()">Lưu cài đặt</button>
-            </div>
-        </div>
-    </div>
-
-    <!-- Scripts -->
-    <script src="config.js"></script>
-    <script src="app.js"></script>
-</body>
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="Cache-Control" content="no-cache, no-store, must-revalidate" />
+    <meta http-equiv="Pragma" content="no-cache" />
+    <meta http-equiv="Expires" content="0" />
+    <link rel="icon" type="image/png" href="favicon.png" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Lightrag</title>
+    <script type="module" crossorigin src="/webui/assets/index-B5j-I1Hu.js"></script>
+    <link rel="stylesheet" crossorigin href="/webui/assets/index-DS3Wz1EX.css">
+  </head>
+  <body>
+    <div id="root"></div>
+  </body>
 </html>

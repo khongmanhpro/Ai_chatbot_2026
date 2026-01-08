@@ -14,6 +14,13 @@ from datetime import datetime, timedelta
 from cachetools import TTLCache
 import redis
 
+# Import logger for cache hit/miss logging
+try:
+    from lightrag.utils import logger
+except ImportError:
+    import logging
+    logger = logging.getLogger(__name__)
+
 
 class CacheLayer:
     """Base cache layer interface"""
@@ -275,6 +282,108 @@ class CachedLightRAG:
     def get_cache_stats(self) -> Dict[str, Any]:
         """Get cache statistics"""
         return self.cache.get_stats()
+
+    # ======================================================================
+    # LightRAG-compatible API methods with caching
+    # ======================================================================
+
+    async def aquery_llm(self, query: str, param=None) -> Dict[str, Any]:
+        """
+        Query with LLM response (compatible with LightRAG API)
+        Caches complete LLM responses for 24 hours
+
+        Args:
+            query: User query string
+            param: QueryParam object with query configuration
+
+        Returns:
+            Dict containing llm_response and data (same format as LightRAG)
+        """
+        from lightrag import QueryParam
+
+        # Use default param if not provided
+        if param is None:
+            param = QueryParam()
+
+        # Create cache key from query + param attributes
+        cache_key_data = {
+            "query": query,
+            "mode": param.mode if hasattr(param, 'mode') else 'mix',
+            "top_k": param.top_k if hasattr(param, 'top_k') else 60,
+            "only_need_context": param.only_need_context if hasattr(param, 'only_need_context') else False,
+            "stream": False  # Always cache non-streaming responses
+        }
+
+        # Check cache
+        cached = self.cache.get("aquery_llm", **cache_key_data)
+        if cached:
+            logger.info(f"✅ Cache HIT (aquery_llm): {query[:50]}...")
+            self.cache.stats["hits"] += 1
+            return cached
+
+        logger.info(f"❌ Cache MISS (aquery_llm): {query[:50]}...")
+        self.cache.stats["misses"] += 1
+
+        # Query LightRAG (cache miss)
+        result = await self.rag.aquery_llm(query, param=param)
+
+        # Cache the result (24 hours TTL)
+        self.cache.set(
+            "aquery_llm",
+            result,
+            ttl=86400,  # 24 hours
+            **cache_key_data
+        )
+
+        return result
+
+    async def aquery_data(self, query: str, param=None) -> Dict[str, Any]:
+        """
+        Query for structured data (compatible with LightRAG API)
+        Caches data responses for 1 hour
+
+        Args:
+            query: User query string
+            param: QueryParam object with query configuration
+
+        Returns:
+            Dict containing structured data response
+        """
+        from lightrag import QueryParam
+
+        # Use default param if not provided
+        if param is None:
+            param = QueryParam()
+
+        # Create cache key
+        cache_key_data = {
+            "query": query,
+            "mode": param.mode if hasattr(param, 'mode') else 'mix',
+            "top_k": param.top_k if hasattr(param, 'top_k') else 60,
+        }
+
+        # Check cache
+        cached = self.cache.get("aquery_data", **cache_key_data)
+        if cached:
+            logger.info(f"✅ Cache HIT (aquery_data): {query[:50]}...")
+            self.cache.stats["hits"] += 1
+            return cached
+
+        logger.info(f"❌ Cache MISS (aquery_data): {query[:50]}...")
+        self.cache.stats["misses"] += 1
+
+        # Query LightRAG
+        result = await self.rag.aquery_data(query, param=param)
+
+        # Cache the result (1 hour TTL - data may change)
+        self.cache.set(
+            "aquery_data",
+            result,
+            ttl=3600,  # 1 hour
+            **cache_key_data
+        )
+
+        return result
 
 
 # Configuration for production

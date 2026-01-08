@@ -53,6 +53,14 @@ from lightrag.api.routers.query_routes import create_query_routes
 from lightrag.api.routers.graph_routes import create_graph_routes
 from lightrag.api.routers.ollama_api import OllamaAPI
 
+# Performance optimizations
+try:
+    from optimizations import CachedLightRAG, SmartReranker, QueryClassifier
+    OPTIMIZATIONS_AVAILABLE = True
+except ImportError:
+    OPTIMIZATIONS_AVAILABLE = False
+    logger.warning("Performance optimizations not available. Install dependencies: pip install cachetools redis")
+
 from lightrag.utils import logger, set_verbose_debug
 from lightrag.kg.shared_storage import (
     get_namespace_data,
@@ -1087,6 +1095,31 @@ def create_app(args):
         logger.error(f"Failed to initialize LightRAG: {e}")
         raise
 
+    # Initialize performance optimizations
+    cached_rag = None
+    smart_reranker = None
+    query_classifier = None
+
+    if OPTIMIZATIONS_AVAILABLE:
+        try:
+            # Check if optimizations are enabled via environment variables
+            enable_cache = os.getenv("ENABLE_CACHE", "true").lower() == "true"
+            enable_smart_reranking = os.getenv("ENABLE_SMART_RERANKING", "true").lower() == "true"
+            enable_redis = os.getenv("ENABLE_REDIS_CACHE", "false").lower() == "true"
+
+            if enable_cache:
+                cached_rag = CachedLightRAG(rag, enable_redis=enable_redis)
+                logger.info(f"✅ Multi-level caching enabled (Redis: {enable_redis})")
+
+            if enable_smart_reranking:
+                smart_reranker = SmartReranker(rag)
+                query_classifier = QueryClassifier()
+                logger.info("✅ Smart reranking enabled")
+
+        except Exception as e:
+            logger.warning(f"Failed to initialize optimizations: {e}")
+            logger.warning("Continuing without optimizations...")
+
     # Add routes
     app.include_router(
         create_document_routes(
@@ -1095,7 +1128,16 @@ def create_app(args):
             api_key,
         )
     )
-    app.include_router(create_query_routes(rag, api_key, args.top_k))
+    # Pass optimizations to query routes
+    app.include_router(
+        create_query_routes(
+            rag,
+            api_key,
+            args.top_k,
+            cached_rag=cached_rag,
+            smart_reranker=smart_reranker
+        )
+    )
     app.include_router(create_graph_routes(rag, api_key))
 
     # Add Ollama API routes
@@ -1299,6 +1341,100 @@ def create_app(args):
         except Exception as e:
             logger.error(f"Error getting health status: {str(e)}")
             raise HTTPException(status_code=500, detail=str(e))
+
+    # Performance optimization monitoring endpoints
+    @app.get(
+        "/optimizations/cache/stats",
+        dependencies=[Depends(combined_auth)],
+        summary="Get cache statistics",
+        description="Returns cache hit/miss rates and performance metrics"
+    )
+    async def get_cache_stats():
+        """Get cache statistics"""
+        if not OPTIMIZATIONS_AVAILABLE or cached_rag is None:
+            return {
+                "enabled": False,
+                "message": "Caching is not enabled"
+            }
+
+        try:
+            stats = cached_rag.get_cache_stats()
+            return {
+                "enabled": True,
+                **stats
+            }
+        except Exception as e:
+            logger.error(f"Error getting cache stats: {str(e)}")
+            raise HTTPException(status_code=500, detail=str(e))
+
+    @app.get(
+        "/optimizations/reranking/stats",
+        dependencies=[Depends(combined_auth)],
+        summary="Get smart reranking statistics",
+        description="Returns query complexity distribution and time savings"
+    )
+    async def get_reranking_stats():
+        """Get smart reranking statistics"""
+        if not OPTIMIZATIONS_AVAILABLE or smart_reranker is None:
+            return {
+                "enabled": False,
+                "message": "Smart reranking is not enabled"
+            }
+
+        try:
+            stats = smart_reranker.get_stats()
+            return {
+                "enabled": True,
+                **stats
+            }
+        except Exception as e:
+            logger.error(f"Error getting reranking stats: {str(e)}")
+            raise HTTPException(status_code=500, detail=str(e))
+
+    @app.post(
+        "/optimizations/query/classify",
+        dependencies=[Depends(combined_auth)],
+        summary="Classify query complexity",
+        description="Analyzes query and returns complexity classification"
+    )
+    async def classify_query_complexity(query: str):
+        """Classify query complexity for debugging"""
+        if not OPTIMIZATIONS_AVAILABLE or query_classifier is None:
+            return {
+                "enabled": False,
+                "message": "Query classifier is not enabled"
+            }
+
+        try:
+            result = query_classifier.explain_classification(query)
+            return {
+                "enabled": True,
+                **result
+            }
+        except Exception as e:
+            logger.error(f"Error classifying query: {str(e)}")
+            raise HTTPException(status_code=500, detail=str(e))
+
+    @app.get(
+        "/optimizations/status",
+        dependencies=[Depends(combined_auth)],
+        summary="Get optimization status",
+        description="Returns which optimizations are enabled and their configuration"
+    )
+    async def get_optimization_status():
+        """Get optimization status"""
+        return {
+            "optimizations_available": OPTIMIZATIONS_AVAILABLE,
+            "cache_enabled": cached_rag is not None,
+            "smart_reranking_enabled": smart_reranker is not None,
+            "redis_cache_enabled": os.getenv("ENABLE_REDIS_CACHE", "false").lower() == "true",
+            "configuration": {
+                "ENABLE_CACHE": os.getenv("ENABLE_CACHE", "true"),
+                "ENABLE_SMART_RERANKING": os.getenv("ENABLE_SMART_RERANKING", "true"),
+                "ENABLE_REDIS_CACHE": os.getenv("ENABLE_REDIS_CACHE", "false"),
+                "REDIS_URI": os.getenv("REDIS_URI", "redis://localhost:6379"),
+            }
+        }
 
     # Custom StaticFiles class for smart caching
     class SmartStaticFiles(StaticFiles):  # Renamed from NoCacheStaticFiles

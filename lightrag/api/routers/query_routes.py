@@ -190,8 +190,28 @@ class StreamChunkResponse(BaseModel):
     )
 
 
-def create_query_routes(rag, api_key: Optional[str] = None, top_k: int = 60):
+def create_query_routes(
+    rag,
+    api_key: Optional[str] = None,
+    top_k: int = 60,
+    cached_rag = None,
+    smart_reranker = None
+):
+    """
+    Create query routes with optional performance optimizations
+
+    Args:
+        rag: Base LightRAG instance
+        api_key: API key for authentication
+        top_k: Default top-k value for queries
+        cached_rag: Optional CachedLightRAG wrapper for multi-level caching
+        smart_reranker: Optional SmartReranker for complexity-based reranking
+    """
     combined_auth = get_combined_auth_dependency(api_key)
+
+    # Use optimized versions if available, otherwise fall back to base rag
+    rag_instance = cached_rag if cached_rag is not None else rag
+    use_smart_reranking = smart_reranker is not None
 
     @router.post(
         "/query",
@@ -409,7 +429,8 @@ def create_query_routes(rag, api_key: Optional[str] = None, top_k: int = 60):
             param.stream = False
 
             # Unified approach: always use aquery_llm for both cases
-            result = await rag.aquery_llm(request.query, param=param)
+            # Use optimized rag_instance (cached if available)
+            result = await rag_instance.aquery_llm(request.query, param=param)
 
             # Extract LLM response and references from unified result
             llm_response = result.get("llm_response", {})
@@ -667,7 +688,8 @@ def create_query_routes(rag, api_key: Optional[str] = None, top_k: int = 60):
             from fastapi.responses import StreamingResponse
 
             # Unified approach: always use aquery_llm for all cases
-            result = await rag.aquery_llm(request.query, param=param)
+            # Use optimized rag_instance for streaming
+            result = await rag_instance.aquery_llm(request.query, param=param)
 
             async def stream_generator():
                 # Extract references and LLM response from unified result
@@ -1140,7 +1162,8 @@ def create_query_routes(rag, api_key: Optional[str] = None, top_k: int = 60):
         """
         try:
             param = request.to_query_params(False)  # No streaming for data endpoint
-            response = await rag.aquery_data(request.query, param=param)
+            # Use optimized rag_instance for data query
+            response = await rag_instance.aquery_data(request.query, param=param)
 
             # aquery_data returns the new format with status, message, data, and metadata
             if isinstance(response, dict):

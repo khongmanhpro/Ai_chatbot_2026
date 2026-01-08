@@ -1,0 +1,545 @@
+<!DOCTYPE html>
+<html lang="vi">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>API Documentation - LightRAG Insurance</title>
+    <link rel="stylesheet" href="style.css">
+    <link
+        href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&family=Fira+Code:wght@400;500&display=swap"
+        rel="stylesheet">
+    <style>
+        .docs-container {
+            max-width: 1000px;
+            margin: 2rem auto;
+            padding: 2rem;
+            background: white;
+            border-radius: var(--radius-xl);
+            box-shadow: var(--shadow-lg);
+        }
+
+        .docs-header {
+            border-bottom: 2px solid var(--gray-200);
+            padding-bottom: 1.5rem;
+            margin-bottom: 2rem;
+        }
+
+        .docs-header h1 {
+            color: var(--primary-blue);
+            margin-bottom: 0.5rem;
+        }
+
+        .docs-section {
+            margin-bottom: 3rem;
+        }
+
+        .docs-section h2 {
+            color: var(--gray-900);
+            margin-bottom: 1rem;
+            padding-bottom: 0.5rem;
+            border-bottom: 1px solid var(--gray-200);
+        }
+
+        .docs-section h3 {
+            color: var(--primary-blue);
+            margin: 1.5rem 0 1rem;
+        }
+
+        .endpoint {
+            background: var(--gray-50);
+            border: 1px solid var(--gray-200);
+            border-radius: var(--radius-md);
+            padding: 1.5rem;
+            margin-bottom: 1.5rem;
+        }
+
+        .endpoint-header {
+            display: flex;
+            align-items: center;
+            gap: 1rem;
+            margin-bottom: 1rem;
+        }
+
+        .method {
+            padding: 0.25rem 0.75rem;
+            border-radius: var(--radius-sm);
+            font-weight: 600;
+            font-size: 0.875rem;
+        }
+
+        .method.post {
+            background: var(--success-green);
+            color: white;
+        }
+
+        .method.get {
+            background: var(--primary-blue);
+            color: white;
+        }
+
+        .endpoint-url {
+            font-family: 'Fira Code', monospace;
+            font-size: 1rem;
+            color: var(--gray-700);
+        }
+
+        .code-block {
+            background: var(--gray-900);
+            color: #e5e7eb;
+            padding: 1.5rem;
+            border-radius: var(--radius-md);
+            overflow-x: auto;
+            margin: 1rem 0;
+            position: relative;
+        }
+
+        .code-block code {
+            font-family: 'Fira Code', monospace;
+            font-size: 0.875rem;
+            line-height: 1.6;
+        }
+
+        .copy-btn {
+            position: absolute;
+            top: 0.5rem;
+            right: 0.5rem;
+            background: rgba(255, 255, 255, 0.1);
+            border: 1px solid rgba(255, 255, 255, 0.2);
+            color: white;
+            padding: 0.5rem 1rem;
+            border-radius: var(--radius-sm);
+            cursor: pointer;
+            font-size: 0.8125rem;
+            transition: all var(--transition-base);
+        }
+
+        .copy-btn:hover {
+            background: rgba(255, 255, 255, 0.2);
+        }
+
+        .param-table {
+            width: 100%;
+            border-collapse: collapse;
+            margin: 1rem 0;
+        }
+
+        .param-table th,
+        .param-table td {
+            padding: 0.75rem;
+            text-align: left;
+            border-bottom: 1px solid var(--gray-200);
+        }
+
+        .param-table th {
+            background: var(--gray-50);
+            font-weight: 600;
+            color: var(--gray-700);
+        }
+
+        .param-table code {
+            background: var(--gray-100);
+            padding: 0.125rem 0.375rem;
+            border-radius: var(--radius-sm);
+            font-family: 'Fira Code', monospace;
+            font-size: 0.875rem;
+            color: var(--primary-blue);
+        }
+
+        .badge {
+            display: inline-block;
+            padding: 0.125rem 0.5rem;
+            border-radius: var(--radius-sm);
+            font-size: 0.75rem;
+            font-weight: 500;
+        }
+
+        .badge.required {
+            background: #fee2e2;
+            color: #991b1b;
+        }
+
+        .badge.optional {
+            background: #dbeafe;
+            color: #1e40af;
+        }
+
+        .alert {
+            padding: 1rem;
+            border-radius: var(--radius-md);
+            margin: 1rem 0;
+            border-left: 4px solid;
+        }
+
+        .alert.info {
+            background: #dbeafe;
+            border-color: var(--primary-blue);
+            color: #1e3a8a;
+        }
+
+        .alert.warning {
+            background: #fef3c7;
+            border-color: var(--warning-yellow);
+            color: #78350f;
+        }
+
+        .back-btn {
+            display: inline-flex;
+            align-items: center;
+            gap: 0.5rem;
+            padding: 0.75rem 1.5rem;
+            background: var(--gradient-primary);
+            color: white;
+            border-radius: var(--radius-md);
+            text-decoration: none;
+            font-weight: 500;
+            transition: all var(--transition-base);
+            margin-bottom: 2rem;
+        }
+
+        .back-btn:hover {
+            transform: translateY(-2px);
+            box-shadow: var(--shadow-lg);
+        }
+    </style>
+</head>
+
+<body>
+    <div class="docs-container">
+        <a href="index.html" class="back-btn">← Quay lại Chat</a>
+
+        <div class="docs-header">
+            <h1>📚 Tài Liệu API - LightRAG Insurance</h1>
+            <p>Hướng dẫn sử dụng API cho chatbot bảo hiểm với LightRAG</p>
+        </div>
+
+        <!-- Authentication -->
+        <section class="docs-section">
+            <h2>🔐 Xác Thực (Authentication)</h2>
+            <p>API yêu cầu xác thực qua <strong>API Key</strong>. Thêm header sau vào mọi request:</p>
+
+            <div class="code-block">
+                <button class="copy-btn" onclick="copyCode(this)">Copy</button>
+                <code>X-API-Key: your_api_key_here</code>
+            </div>
+
+            <div class="alert info">
+                <strong>💡 Lưu ý:</strong> API key được cấu hình trong file <code>.env</code> của server. Liên hệ admin
+                để lấy API key.
+            </div>
+        </section>
+
+        <!-- Query Endpoint -->
+        <section class="docs-section">
+            <h2>📡 Endpoints</h2>
+
+            <div class="endpoint">
+                <div class="endpoint-header">
+                    <span class="method post">POST</span>
+                    <span class="endpoint-url">/query/stream</span>
+                </div>
+
+                <p><strong>Mô tả:</strong> Gửi câu hỏi và nhận phản hồi dạng streaming (real-time)</p>
+
+                <h3>Request Body</h3>
+                <table class="param-table">
+                    <thead>
+                        <tr>
+                            <th>Tham số</th>
+                            <th>Kiểu</th>
+                            <th>Bắt buộc</th>
+                            <th>Mô tả</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <tr>
+                            <td><code>query</code></td>
+                            <td>string</td>
+                            <td><span class="badge required">Required</span></td>
+                            <td>Câu hỏi của người dùng</td>
+                        </tr>
+                        <tr>
+                            <td><code>mode</code></td>
+                            <td>string</td>
+                            <td><span class="badge optional">Optional</span></td>
+                            <td>Chế độ query: <code>mix</code>, <code>hybrid</code>, <code>local</code>,
+                                <code>global</code>, <code>naive</code><br>Mặc định: <code>mix</code></td>
+                        </tr>
+                        <tr>
+                            <td><code>stream</code></td>
+                            <td>boolean</td>
+                            <td><span class="badge optional">Optional</span></td>
+                            <td>Bật streaming response. Mặc định: <code>true</code></td>
+                        </tr>
+                        <tr>
+                            <td><code>top_k</code></td>
+                            <td>integer</td>
+                            <td><span class="badge optional">Optional</span></td>
+                            <td>Số lượng kết quả tối đa. Mặc định: <code>60</code></td>
+                        </tr>
+                        <tr>
+                            <td><code>only_need_context</code></td>
+                            <td>boolean</td>
+                            <td><span class="badge optional">Optional</span></td>
+                            <td>Chỉ trả context không có LLM response. Mặc định: <code>false</code></td>
+                        </tr>
+                    </tbody>
+                </table>
+
+                <h3>Response Format (Streaming)</h3>
+                <p>Server trả về <strong>Server-Sent Events (SSE)</strong> với format:</p>
+                <div class="code-block">
+                    <button class="copy-btn" onclick="copyCode(this)">Copy</button>
+                    <code>data: {"type": "text", "data": "chunk nội dung..."}<br>data: {"type": "done"}</code>
+                </div>
+
+                <h3>Ví dụ: cURL</h3>
+                <div class="code-block">
+                    <button class="copy-btn" onclick="copyCode(this)">Copy</button>
+                    <code>curl -X POST http://localhost:9621/query/stream \
+  -H "Content-Type: application/json" \
+  -H "X-API-Key: your_api_key" \
+  -d '{
+    "query": "Bảo hiểm xe máy là gì?",
+    "mode": "mix",
+    "stream": true,
+    "top_k": 60
+  }'</code>
+                </div>
+
+                <h3>Ví dụ: JavaScript (Fetch API)</h3>
+                <div class="code-block">
+                    <button class="copy-btn" onclick="copyCode(this)">Copy</button>
+                    <code>const response = await fetch('http://localhost:9621/query/stream', {
+  method: 'POST',
+  headers: {
+    'Content-Type': 'application/json',
+    'X-API-Key': 'your_api_key'
+  },
+  body: JSON.stringify({
+    query: 'Bảo hiểm xe máy là gì?',
+    mode: 'mix',
+    stream: true,
+    top_k: 60
+  })
+});
+
+const reader = response.body.getReader();
+const decoder = new TextDecoder();
+
+while (true) {
+  const { done, value } = await reader.read();
+  if (done) break;
+  
+  const chunk = decoder.decode(value);
+  const lines = chunk.split('\\n');
+  
+  for (const line of lines) {
+    if (line.startsWith('data: ')) {
+      const data = JSON.parse(line.slice(6));
+      if (data.type === 'text') {
+        console.log(data.data);
+      }
+    }
+  }
+}</code>
+                </div>
+
+                <h3>Ví dụ: Python (requests)</h3>
+                <div class="code-block">
+                    <button class="copy-btn" onclick="copyCode(this)">Copy</button>
+                    <code>import requests
+import json
+
+url = "http://localhost:9621/query/stream"
+headers = {
+    "Content-Type": "application/json",
+    "X-API-Key": "your_api_key"
+}
+data = {
+    "query": "Bảo hiểm xe máy là gì?",
+    "mode": "mix",
+    "stream": True,
+    "top_k": 60
+}
+
+response = requests.post(url, headers=headers, json=data, stream=True)
+
+for line in response.iter_lines():
+    if line.startswith(b'data: '):
+        chunk = json.loads(line[6:])
+        if chunk['type'] == 'text':
+            print(chunk['data'], end='', flush=True)</code>
+                </div>
+            </div>
+
+            <!-- Health Endpoint -->
+            <div class="endpoint">
+                <div class="endpoint-header">
+                    <span class="method get">GET</span>
+                    <span class="endpoint-url">/health</span>
+                </div>
+
+                <p><strong>Mô tả:</strong> Kiểm tra trạng thái server và cấu hình</p>
+
+                <h3>Response Example</h3>
+                <div class="code-block">
+                    <button class="copy-btn" onclick="copyCode(this)">Copy</button>
+                    <code>{
+  "status": "healthy",
+  "configuration": {
+    "llm_binding": "openai",
+    "llm_model": "gpt-4",
+    "embedding_binding": "openai",
+    "embedding_model": "text-embedding-3-small"
+  }
+}</code>
+                </div>
+            </div>
+        </section>
+
+        <!-- Query Modes -->
+        <section class="docs-section">
+            <h2>🎯 Chế Độ Query (Query Modes)</h2>
+
+            <table class="param-table">
+                <thead>
+                    <tr>
+                        <th>Mode</th>
+                        <th>Mô tả</th>
+                        <th>Khi nào dùng</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <td><code>mix</code></td>
+                        <td>Kết hợp local + global query (khuyến nghị)</td>
+                        <td>Đa số trường hợp, câu hỏi phức tạp</td>
+                    </tr>
+                    <tr>
+                        <td><code>hybrid</code></td>
+                        <td>Kết hợp vector search + keyword search</td>
+                        <td>Cân bằng giữa độ chính xác và độ bao phủ</td>
+                    </tr>
+                    <tr>
+                        <td><code>local</code></td>
+                        <td>Tìm kiếm theo entities và relations gần nhất</td>
+                        <td>Câu hỏi cụ thể về một chủ đề</td>
+                    </tr>
+                    <tr>
+                        <td><code>global</code></td>
+                        <td>Tìm kiếm theo toàn bộ knowledge graph</td>
+                        <td>Câu hỏi tổng quan, so sánh nhiều loại bảo hiểm</td>
+                    </tr>
+                    <tr>
+                        <td><code>naive</code></td>
+                        <td>Vector search đơn giản</td>
+                        <td>Testing, câu hỏi đơn giản</td>
+                    </tr>
+                </tbody>
+            </table>
+        </section>
+
+        <!-- Error Codes -->
+        <section class="docs-section">
+            <h2>⚠️ Mã Lỗi (Error Codes)</h2>
+
+            <table class="param-table">
+                <thead>
+                    <tr>
+                        <th>Status Code</th>
+                        <th>Mô tả</th>
+                        <th>Giải pháp</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <td><code>401</code></td>
+                        <td>Unauthorized - Thiếu hoặc sai API key</td>
+                        <td>Kiểm tra header X-API-Key</td>
+                    </tr>
+                    <tr>
+                        <td><code>400</code></td>
+                        <td>Bad Request - Thiếu tham số bắt buộc</td>
+                        <td>Kiểm tra request body</td>
+                    </tr>
+                    <tr>
+                        <td><code>500</code></td>
+                        <td>Internal Server Error</td>
+                        <td>Kiểm tra server logs, liên hệ admin</td>
+                    </tr>
+                    <tr>
+                        <td><code>503</code></td>
+                        <td>Service Unavailable</td>
+                        <td>Server đang bận hoặc maintenance</td>
+                    </tr>
+                </tbody>
+            </table>
+        </section>
+
+        <!-- Best Practices -->
+        <section class="docs-section">
+            <h2>✨ Best Practices</h2>
+
+            <h3>1. Timeout Settings</h3>
+            <p>Streaming responses có thể mất 10-30 giây. Đặt timeout phù hợp:</p>
+            <div class="code-block">
+                <button class="copy-btn" onclick="copyCode(this)">Copy</button>
+                <code>// JavaScript
+fetch(url, { 
+  signal: AbortSignal.timeout(120000) // 2 minutes
+})</code>
+            </div>
+
+            <h3>2. Error Handling</h3>
+            <p>Luôn xử lý lỗi và hiển thị thông báo thân thiện:</p>
+            <div class="code-block">
+                <button class="copy-btn" onclick="copyCode(this)">Copy</button>
+                <code>try {
+  const response = await queryAPI(query);
+  // Process response
+} catch (error) {
+  if (error.status === 401) {
+    alert('Vui lòng kiểm tra API key');
+  } else {
+    alert('Đã xảy ra lỗi, vui lòng thử lại');
+  }
+}</code>
+            </div>
+
+            <h3>3. Rate Limiting</h3>
+            <div class="alert warning">
+                <strong>⚠️ Lưu ý:</strong> Để tránh quá tải server, nên giới hạn số request liên tiếp. Đề xuất: Tối đa
+                10 queries/phút/user.
+            </div>
+        </section>
+
+        <!-- Contact -->
+        <section class="docs-section">
+            <h2>📞 Liên Hệ & Hỗ Trợ</h2>
+            <p>Nếu gặp vấn đề hoặc cần hỗ trợ:</p>
+            <ul>
+                <li>📧 Email: dev-team@company.com</li>
+                <li>📝 GitHub Issues: <a href="https://github.com/HKUDS/LightRAG" target="_blank">LightRAG
+                        Repository</a></li>
+                <li>📚 Documentation: <a href="http://localhost:9621/docs" target="_blank">Swagger API Docs</a></li>
+            </ul>
+        </section>
+    </div>
+
+    <script>
+        function copyCode(button) {
+            const codeBlock = button.nextElementSibling;
+            const text = codeBlock.textContent;
+
+            navigator.clipboard.writeText(text).then(() => {
+                button.textContent = '✓ Copied!';
+                setTimeout(() => {
+                    button.textContent = 'Copy';
+                }, 2000);
+            });
+        }
+    </script>
+</body>
+
+</html>

@@ -84,7 +84,7 @@ CLAUDE.md
 .env.*
 
 # Large auto-generated files
-uv.lock
+# uv.lock  # Required by Dockerfile for dependency locking
 .git.backup*
 .git.old/
 lightrag_webui/node_modules/
